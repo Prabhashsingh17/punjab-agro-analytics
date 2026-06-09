@@ -85,9 +85,13 @@ streamlit run app.py                    # Full Dashboard
 
 ---
 
-## Live Demo (Permanent)
+## Live Demo (Permanent — 24/7)
 
-**https://prabhashsingh17.github.io/punjab-agro-analytics/**
+| | |
+|---|---|
+| **Dashboard** | https://prabhashsingh17.github.io/punjab-agro-analytics/ |
+| **GitHub Repo** | https://github.com/Prabhashsingh17/punjab-agro-analytics |
+| **Status** | Permanently Live (GitHub Pages) |
 
 ---
 
