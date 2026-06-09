@@ -80,7 +80,7 @@ def print_summary(sales, customers):
 def create_charts(sales):
     fig, axes = plt.subplots(2, 2, figsize=(14, 10))
     fig.suptitle(
-        "PUNJAB AGRO CENTRE - Sales Analytics Dashboard",
+        "PUNJAB AGRO CENTRE - Data Analytics Dashboard",
         fontsize=14,
         fontweight="bold",
         color="#1B5E20",

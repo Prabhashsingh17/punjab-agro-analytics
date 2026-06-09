@@ -1,5 +1,5 @@
 -- ============================================================
--- PUNJAB AGRO CENTRE - Sales Analytics SQL Queries
+-- PUNJAB AGRO CENTRE - Data Analytics SQL Queries
 -- Location: Gopalganj, Bihar | Agricultural Equipment Sales
 -- Fresher Data Analyst Portfolio Project
 -- ============================================================

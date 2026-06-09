@@ -114,7 +114,7 @@ def build():
     <h1>🌾 PUNJAB AGRO CENTRE</h1>
     <p>Data Analytics & Business Analytics Dashboard</p>
     <p style="font-size:.88rem;opacity:.9">Gopalganj, Bihar | Agricultural Equipment Business Intelligence</p>
-    <div class="badge">✅ Live Project — Data + Business Analytics</div>
+    <div class="badge">✅ Data Analyst & Business Analyst Portfolio Project</div>
   </div>
 
   <div class="framework">
@@ -158,8 +158,8 @@ def build():
   </div>
 
   <div class="footer">
-    Data Analytics & Business Analytics Portfolio | Punjab Agro Centre, Gopalganj<br/>
-    Python • Pandas • SQL • Plotly • Business Intelligence | github.com/Prabhashsingh17/punjab-agro-analytics
+    Data Analyst & Business Analyst Portfolio | Punjab Agro Centre, Gopalganj<br/>
+    Data Analytics • Business Analytics • Python • SQL • Plotly | github.com/Prabhashsingh17/punjab-agro-analytics
   </div>
 
   <script>

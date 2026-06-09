@@ -99,7 +99,12 @@ def render_header():
                 Data Analytics & Business Analytics | Gopalganj, Bihar
             </p>
             <p style='margin:4px 0 0 0; opacity: 0.75; font-size: 0.9rem;'>
-                Rotavator • Cultivator • Harvester • Zero Till • Threshing Machine • Tawa
+                Descriptive • Diagnostic • Prescriptive Analytics
+            </p>
+            <p style='margin:8px 0 0 0;'>
+                <span style='background:#C8E6C9;color:#1B5E20;padding:4px 12px;border-radius:20px;font-size:0.8rem;font-weight:600;'>
+                    Data Analyst & Business Analyst Portfolio Project
+                </span>
             </p>
         </div>
         """,
@@ -321,7 +326,7 @@ def render_insights(df):
 
 
 def render_data_table(df):
-    st.subheader("📊 Filtered Sales Data")
+    st.subheader("📊 Filtered Business Data")
     st.dataframe(
         df.sort_values("sale_date", ascending=False).head(100),
         use_container_width=True,
@@ -331,7 +336,7 @@ def render_data_table(df):
     st.download_button(
         "⬇️ Download Filtered Data (CSV)",
         csv,
-        "punjab_agro_sales_filtered.csv",
+        "punjab_agro_business_data.csv",
         "text/csv",
     )
 
@@ -354,12 +359,18 @@ def main():
         """
         **About Project**
         
-        Fresher Data Analyst portfolio project for
+        **Data Analytics & Business Analytics**
+        fresher portfolio project for
         **Punjab Agro Centre**, Gopalganj, Bihar.
         
-        **Tools:** Python, Pandas, SQL, Plotly, Streamlit
+        **Role:** Data Analyst / Business Analyst
         
-        **Analyst:** Data Analytics Team
+        **Framework:**
+        - Descriptive Analytics
+        - Diagnostic Analytics
+        - Prescriptive Analytics
+        
+        **Tools:** Python, Pandas, SQL, Plotly, Streamlit
         """
     )
 
