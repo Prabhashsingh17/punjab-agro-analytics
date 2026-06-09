@@ -26,7 +26,7 @@ def load_data():
 
 def print_summary(sales, customers):
     print("=" * 60)
-    print("PUNJAB AGRO CENTRE - EDA SUMMARY REPORT")
+    print("PUNJAB AGRO CENTRE - DATA ANALYTICS (EDA) REPORT")
     print("Location: Gopalganj, Bihar")
     print("=" * 60)
     print(f"\nTotal Sales Records : {len(sales):,}")

@@ -1,45 +1,55 @@
-# 🌾 PUNJAB AGRO CENTRE — Data Analytics Project
+# 🌾 PUNJAB AGRO CENTRE — Data & Business Analytics Project
 
-**Fresher Data Analyst Portfolio Project | End-to-End**
-
----
-
-## Company Overview
-
-| Field | Details |
-|-------|---------|
-| **Company** | Punjab Agro Centre |
-| **Location** | Gopalganj, Bihar |
-| **Business** | Agricultural Equipment Sales |
-| **Products** | Rotavator, Cultivator, Harvester, Zero Till Seed Drill, Threshing Machine, Tawa (Plough) |
-| **Customers** | Farmers, Dealers, Cooperatives — Bihar ke 17+ districts se |
-
-Gopalganj me based ye company agricultural machinery bechti hai. Customers sirf Gopalganj se nahi — Siwan, Chapra, Muzaffarpur, Patna, Darbhanga aur Bihar ke aur kai districts se log yahan aake equipment le jaate hain.
+**Fresher Data Analyst Portfolio | End-to-End**
 
 ---
 
-## Project Objective
+## Project Type
 
-Is project ka goal hai **sales data ko analyze karke business decisions** me help karna:
+| Category | Details |
+|----------|---------|
+| **Primary** | Data Analytics |
+| **Secondary** | Business Analytics / Business Intelligence |
+| **Domain** | Agricultural Equipment Retail |
+| **Company** | Punjab Agro Centre, Gopalganj, Bihar |
 
-1. Kaun sa equipment sabse zyada bikta hai?
-2. Kaun se district se sabse zyada customers aate hain?
-3. Kharif vs Rabi season me demand ka pattern kya hai?
-4. Revenue trend kya hai — growth ho rahi hai ya nahi?
-5. Payment mode aur customer type ka analysis
+Yeh project **sales data se business decisions** nikalne ke liye banaya gaya hai — sirf charts nahi, poora **Data → Insights → Action** pipeline.
+
+---
+
+## Analytics Framework
+
+```
+┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
+│  DESCRIPTIVE    │ → │   DIAGNOSTIC    │ → │  PRESCRIPTIVE   │
+│  Kya hua?       │   │  Kyun hua?      │   │  Kya karein?    │
+│  KPIs, Trends   │   │  Segments, Why  │   │  Recommendations│
+└─────────────────┘   └─────────────────┘   └─────────────────┘
+```
+
+| Analytics Type | Analysis | Tools |
+|----------------|----------|-------|
+| **Descriptive** | Revenue, orders, district trends, product performance | SQL, Pandas, Charts |
+| **Diagnostic** | Customer segmentation, profit margins, YoY growth, seasonality | SQL, Python |
+| **Prescriptive** | Business recommendations, inventory planning, expansion strategy | Report, Dashboard |
+
+---
+
+## Business Questions Answered
+
+1. Company ki overall performance kya hai? (Revenue, orders, customers)
+2. Kaun se district me market share zyada hai?
+3. Customer segments kaun se hain — High/Medium/Low value?
+4. Kaun sa product sabse profitable hai?
+5. Season ke hisaab se inventory kaise plan karein?
+6. EMI/Finance se revenue kaise badhayein?
+7. Dealers vs Farmers — kaun zyada revenue deta hai?
 
 ---
 
 ## Tech Stack
 
-| Tool | Use Case |
-|------|----------|
-| **Python** | Data cleaning, EDA, visualization |
-| **Pandas** | Data manipulation |
-| **SQL** | Business queries (10 analytical queries) |
-| **Plotly** | Interactive charts |
-| **Streamlit** | Live dashboard |
-| **Matplotlib/Seaborn** | Static EDA charts |
+`Python` `Pandas` `SQL` `Plotly` `Streamlit` `Matplotlib` `Business Intelligence`
 
 ---
 
@@ -47,147 +57,48 @@ Is project ka goal hai **sales data ko analyze karke business decisions** me hel
 
 ```
 punjab-agro-analytics/
-├── app.py                    # Streamlit Dashboard (Main)
-├── requirements.txt          # Python dependencies
-├── render.yaml               # Deployment config
-├── data/
-│   ├── raw/                  # Raw CSV datasets
-│   └── processed/            # Cleaned data
+├── app.py                          # Streamlit Business Analytics Dashboard
+├── data/raw/ & data/processed/     # Datasets
 ├── sql/
-│   └── analysis_queries.sql  # 10 SQL business queries
+│   ├── analysis_queries.sql        # 10 Data Analytics queries
+│   └── business_analytics_queries.sql  # 8 Business Analytics queries
 ├── src/
-│   ├── generate_data.py      # Synthetic data generator
-│   └── eda_analysis.py       # Python EDA script
-├── outputs/
-│   └── eda_dashboard.png     # Static charts
-└── README.md
+│   ├── generate_data.py            # Data generation
+│   ├── eda_analysis.py             # Data Analytics (EDA)
+│   └── business_analytics.py       # Business Analytics report
+├── scripts/build_static_site.py    # Live dashboard builder
+└── PROJECT_REPORT.md               # Interview report
 ```
 
 ---
 
-## Datasets
+## How to Run
 
-| File | Records | Description |
-|------|---------|-------------|
-| `customers.csv` | 350 | Customer info, district, type |
-| `sales.csv` | ~1,170 | Sales transactions (2023-2024) |
-| `inventory.csv` | 6 | Equipment stock levels |
-
-**Columns in Sales Data:**
-`sale_id, sale_date, year, month, quarter, season, customer_id, district, customer_type, equipment, quantity, unit_price, gross_amount, discount_pct, discount_amount, net_revenue, payment_mode, delivery_status`
-
----
-
-## How to Run Locally
-
-### Step 1: Install Dependencies
 ```bash
 cd punjab-agro-analytics
 python -m pip install -r requirements.txt
-```
-
-### Step 2: Generate Data
-```bash
 python src/generate_data.py
+python src/eda_analysis.py              # Data Analytics
+python src/business_analytics.py        # Business Analytics
+streamlit run app.py                    # Full Dashboard
 ```
-
-### Step 3: Run EDA Analysis
-```bash
-python src/eda_analysis.py
-```
-
-### Step 4: Launch Dashboard
-```bash
-streamlit run app.py
-```
-
-Dashboard open hoga: **http://localhost:8501**
-
----
-
-## SQL Analysis (10 Queries)
-
-File: `sql/analysis_queries.sql`
-
-| # | Query | Business Question |
-|---|-------|-------------------|
-| 1 | Total Revenue KPIs | Overall performance |
-| 2 | Monthly Revenue Trend | Growth pattern |
-| 3 | Top Equipment | Best sellers |
-| 4 | District-wise Sales | Geographic analysis |
-| 5 | Seasonal Demand | Kharif vs Rabi |
-| 6 | Customer Type | Farmer vs Dealer |
-| 7 | Payment Mode | Cash vs UPI vs EMI |
-| 8 | Top 10 Customers | VIP customers |
-| 9 | Discount Impact | Pricing strategy |
-| 10 | YoY Growth | Year-over-year comparison |
-
----
-
-## Key Insights (Sample)
-
-1. **Gopalganj** home district hai — ~25-30% revenue yahan se aata hai
-2. **Rotavator aur Tawa** sabse zyada bikne wale products hain
-3. **Kharif Prep (June-July)** me demand peak hoti hai
-4. **Siwan, Chapra, Muzaffarpur** — top outstation districts
-5. **EMI/Finance** option se high-value equipment ki sales badh sakti hai
-
----
-
-## Dashboard Features
-
-- 📊 **KPI Cards** — Revenue, Orders, Units, Avg Order Value
-- 📈 **Monthly Revenue Trend** — Interactive line chart
-- 🚜 **Equipment Analysis** — Bar + Pie charts
-- 🗺️ **District Map** — Bihar districts comparison
-- 📅 **Seasonality** — Kharif/Rabi heatmap
-- 💳 **Payment Analysis** — Cash, UPI, EMI breakdown
-- 🔍 **Filters** — Date, District, Equipment, Customer Type
-- ⬇️ **CSV Export** — Filtered data download
 
 ---
 
 ## Live Demo (Permanent)
 
-**Dashboard URL:** https://prabhashsingh17.github.io/punjab-agro-analytics/
-
-24/7 live — GitHub Pages par hosted. PC band hone par bhi kaam karta hai.
+**https://prabhashsingh17.github.io/punjab-agro-analytics/**
 
 ---
 
-## Deployment
+## Resume Bullet Points
 
-### Option 1: Streamlit Community Cloud (Free)
-1. GitHub pe repo push karein
-2. [share.streamlit.io](https://share.streamlit.io) pe login karein
-3. Repo select karein, main file: `app.py`
-4. Deploy!
+> Built end-to-end **Data & Business Analytics** solution for Punjab Agro Centre (Gopalganj, Bihar) — applied Descriptive, Diagnostic, and Prescriptive analytics on 1,179 transactions across 17 districts using Python, SQL, and Plotly.
 
-### Option 2: Render (Free)
-1. GitHub repo connect karein
-2. `render.yaml` automatically detect hoga
-3. Deploy button click karein
-
----
-
-## Skills Demonstrated (Resume Points)
-
-- ✅ Data Collection & Cleaning
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ SQL for Business Intelligence
-- ✅ Data Visualization (Plotly, Matplotlib)
-- ✅ Interactive Dashboard Development
-- ✅ Business Insights & Recommendations
-- ✅ End-to-End Project Deployment
+> Performed **customer segmentation**, **profit margin analysis**, and **market share analysis** — delivered actionable business recommendations for inventory planning and geographic expansion.
 
 ---
 
 ## Author
 
-**Data Analyst (Fresher)**  
-Project: Punjab Agro Centre Sales Analytics  
-Location: Gopalganj, Bihar
-
----
-
-*Note: Ye project synthetic (demo) data use karta hai jo real business patterns par based hai. Real company data se replace karke production me use kiya ja sakta hai.*
+**Data & Business Analyst (Fresher)** | Punjab Agro Centre Analytics | Gopalganj, Bihar

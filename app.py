@@ -1,6 +1,7 @@
 """
-PUNJAB AGRO CENTRE - Interactive Sales Analytics Dashboard
-Agricultural Equipment Sales | Gopalganj, Bihar
+PUNJAB AGRO CENTRE - Data & Business Analytics Dashboard
+Descriptive | Diagnostic | Prescriptive Analytics
+Agricultural Equipment | Gopalganj, Bihar
 """
 
 from pathlib import Path
@@ -14,7 +15,7 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data" / "processed"
 
 st.set_page_config(
-    page_title="Punjab Agro Centre Analytics",
+    page_title="Punjab Agro — Data & Business Analytics",
     page_icon="🌾",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -95,7 +96,7 @@ def render_header():
                     padding: 24px; border-radius: 12px; color: white; margin-bottom: 20px;'>
             <h1 style='margin:0; font-size: 2rem;'>🌾 PUNJAB AGRO CENTRE</h1>
             <p style='margin:8px 0 0 0; opacity: 0.9; font-size: 1.1rem;'>
-                Agricultural Equipment Sales Analytics | Gopalganj, Bihar
+                Data Analytics & Business Analytics | Gopalganj, Bihar
             </p>
             <p style='margin:4px 0 0 0; opacity: 0.75; font-size: 0.9rem;'>
                 Rotavator • Cultivator • Harvester • Zero Till • Threshing Machine • Tawa
