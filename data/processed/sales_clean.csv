@@ -1,0 +1,1180 @@
+sale_id,sale_date,year,month,quarter,season,customer_id,district,customer_type,equipment,quantity,unit_price,gross_amount,discount_pct,discount_amount,net_revenue,payment_mode,delivery_status
+S00001,2023-11-16,2023,11,Q4,Rabi Prep,C0158,Katihar,Farmer,Cultivator,1,72874,72874,0,0.0,72874.0,UPI,Delivered
+S00002,2023-12-25,2023,12,Q4,Rabi Peak,C0121,Vaishali,Farmer,Tawa (Plough),1,30044,30044,0,0.0,30044.0,Cash,Delivered
+S00003,2024-07-28,2024,7,Q3,Kharif Prep,C0105,Siwan,Farmer,Tawa (Plough),1,44818,44818,2,896.36,43921.64,UPI,Delivered
+S00004,2024-11-04,2024,11,Q4,Rabi Prep,C0173,Chapra (Saran),Farmer,Tawa (Plough),1,26763,26763,0,0.0,26763.0,Bank Transfer,Delivered
+S00005,2023-12-26,2023,12,Q4,Rabi Peak,C0051,Gopalganj,Farmer,Rotavator,1,142007,142007,2,2840.14,139166.86,Cash,Delivered
+S00006,2023-02-01,2023,2,Q1,Off-Season,C0112,Bhagalpur,Farmer,Rotavator,1,119765,119765,0,0.0,119765.0,Cash,Delivered
+S00007,2023-11-29,2023,11,Q4,Rabi Prep,C0022,Gopalganj,Dealer,Tawa (Plough),1,36598,36598,5,1829.9,34768.1,Cash,Delivered
+S00008,2023-02-20,2023,2,Q1,Off-Season,C0247,Bhagalpur,Farmer,Threshing Machine,1,72832,72832,0,0.0,72832.0,UPI,Delivered
+S00009,2023-08-09,2023,8,Q3,Kharif Peak,C0286,Katihar,Farmer,Tawa (Plough),1,21729,21729,0,0.0,21729.0,Bank Transfer,Delivered
+S00010,2024-06-23,2024,6,Q2,Kharif Prep,C0142,Begusarai,Farmer,Threshing Machine,1,57976,57976,10,5797.6,52178.4,Cash,Delivered
+S00011,2023-08-05,2023,8,Q3,Kharif Peak,C0195,Chapra (Saran),Dealer,Tawa (Plough),1,43040,43040,0,0.0,43040.0,Cash,Delivered
+S00012,2023-06-29,2023,6,Q2,Kharif Prep,C0332,Bhagalpur,Farmer,Rotavator,1,119903,119903,0,0.0,119903.0,Bank Transfer,Delivered
+S00013,2023-03-15,2023,3,Q1,Off-Season,C0332,Bhagalpur,Farmer,Cultivator,1,37772,37772,0,0.0,37772.0,Cash,Delivered
+S00014,2024-03-15,2024,3,Q1,Off-Season,C0126,Gopalganj,Dealer,Zero Till Seed Drill,1,212995,212995,0,0.0,212995.0,UPI,Pending
+S00015,2023-06-25,2023,6,Q2,Kharif Prep,C0176,Gopalganj,Cooperative,Tawa (Plough),1,38254,38254,2,765.08,37488.92,UPI,Delivered
+S00016,2023-04-19,2023,4,Q2,Off-Season,C0023,Chapra (Saran),Farmer,Cultivator,1,73592,73592,0,0.0,73592.0,EMI/Finance,Delivered
+S00017,2023-08-15,2023,8,Q3,Kharif Peak,C0132,Gopalganj,Farmer,Cultivator,1,46018,46018,2,920.36,45097.64,UPI,Delivered
+S00018,2023-12-24,2023,12,Q4,Rabi Peak,C0198,Patna,Dealer,Cultivator,1,44679,44679,0,0.0,44679.0,Cash,Delivered
+S00019,2024-11-02,2024,11,Q4,Rabi Prep,C0228,Siwan,Farmer,Rotavator,1,135649,135649,0,0.0,135649.0,UPI,Delivered
+S00020,2024-11-28,2024,11,Q4,Rabi Prep,C0105,Siwan,Farmer,Tawa (Plough),1,36497,36497,10,3649.7,32847.3,Cash,Pending
+S00021,2023-11-20,2023,11,Q4,Rabi Prep,C0133,Sitamarhi,Farmer,Rotavator,1,89475,89475,2,1789.5,87685.5,Bank Transfer,Delivered
+S00022,2023-12-27,2023,12,Q4,Rabi Peak,C0060,Gopalganj,Farmer,Zero Till Seed Drill,1,160685,160685,0,0.0,160685.0,UPI,Delivered
+S00023,2024-10-22,2024,10,Q4,Rabi Prep,C0148,Chapra (Saran),Farmer,Tawa (Plough),1,20958,20958,0,0.0,20958.0,UPI,Delivered
+S00024,2023-02-12,2023,2,Q1,Off-Season,C0113,Patna,Cooperative,Harvester,1,749712,749712,0,0.0,749712.0,UPI,Delivered
+S00025,2023-03-05,2023,3,Q1,Off-Season,C0259,Gopalganj,Dealer,Harvester,3,630060,1890180,0,0.0,1890180.0,UPI,Delivered
+S00026,2024-12-25,2024,12,Q4,Rabi Peak,C0132,Gopalganj,Farmer,Harvester,1,680383,680383,2,13607.66,666775.34,UPI,Delivered
+S00027,2024-02-01,2024,2,Q1,Off-Season,C0337,Gopalganj,Farmer,Harvester,1,627401,627401,0,0.0,627401.0,UPI,Delivered
+S00028,2023-12-04,2023,12,Q4,Rabi Peak,C0045,Bhagalpur,Farmer,Rotavator,1,129458,129458,0,0.0,129458.0,EMI/Finance,Pending
+S00029,2024-09-09,2024,9,Q3,Kharif Peak,C0055,Muzaffarpur,Dealer,Tawa (Plough),1,28923,28923,2,578.46,28344.54,EMI/Finance,Delivered
+S00030,2024-11-02,2024,11,Q4,Rabi Prep,C0315,Samastipur,Farmer,Threshing Machine,1,80687,80687,2,1613.74,79073.26,Cash,Delivered
+S00032,2024-06-23,2024,6,Q2,Kharif Prep,C0143,Sitamarhi,Farmer,Rotavator,1,128939,128939,0,0.0,128939.0,UPI,Delivered
+S00033,2023-08-08,2023,8,Q3,Kharif Peak,C0310,Araria,Farmer,Cultivator,1,66868,66868,10,6686.8,60181.2,Cash,Delivered
+S00034,2023-04-14,2023,4,Q2,Off-Season,C0290,Gopalganj,Farmer,Zero Till Seed Drill,1,190748,190748,5,9537.4,181210.6,Cash,Delivered
+S00035,2024-09-24,2024,9,Q3,Kharif Peak,C0280,Vaishali,Farmer,Rotavator,1,109688,109688,0,0.0,109688.0,Bank Transfer,Delivered
+S00036,2023-06-19,2023,6,Q2,Kharif Prep,C0055,Muzaffarpur,Dealer,Threshing Machine,1,57863,57863,2,1157.26,56705.74,Cash,Delivered
+S00037,2023-10-19,2023,10,Q4,Rabi Prep,C0138,Muzaffarpur,Farmer,Tawa (Plough),1,43683,43683,0,0.0,43683.0,Cash,Delivered
+S00038,2024-04-25,2024,4,Q2,Off-Season,C0064,Begusarai,Dealer,Tawa (Plough),1,24357,24357,8,1948.56,22408.44,EMI/Finance,Delivered
+S00039,2023-10-16,2023,10,Q4,Rabi Prep,C0125,Chapra (Saran),Dealer,Tawa (Plough),1,34479,34479,8,2758.32,31720.68,Bank Transfer,Delivered
+S00040,2023-05-22,2023,5,Q2,Off-Season,C0184,Siwan,Farmer,Tawa (Plough),1,19709,19709,5,985.45,18723.55,UPI,Delivered
+S00041,2024-06-12,2024,6,Q2,Kharif Prep,C0093,Siwan,Farmer,Tawa (Plough),1,27340,27340,0,0.0,27340.0,UPI,Delivered
+S00042,2024-03-23,2024,3,Q1,Off-Season,C0273,Siwan,Farmer,Rotavator,1,144670,144670,0,0.0,144670.0,Cash,Delivered
+S00043,2023-02-24,2023,2,Q1,Off-Season,C0101,Madhubani,Cooperative,Cultivator,1,59507,59507,10,5950.7,53556.3,UPI,Delivered
+S00044,2023-04-12,2023,4,Q2,Off-Season,C0035,Chapra (Saran),Farmer,Tawa (Plough),1,39297,39297,0,0.0,39297.0,Cash,Delivered
+S00045,2024-04-28,2024,4,Q2,Off-Season,C0147,Vaishali,Farmer,Threshing Machine,1,64095,64095,0,0.0,64095.0,UPI,Delivered
+S00046,2023-01-20,2023,1,Q1,Rabi Peak,C0005,Gopalganj,Farmer,Cultivator,1,44798,44798,2,895.96,43902.04,UPI,Delivered
+S00047,2023-10-23,2023,10,Q4,Rabi Prep,C0345,Samastipur,Farmer,Cultivator,1,42985,42985,0,0.0,42985.0,Bank Transfer,Delivered
+S00048,2023-04-24,2023,4,Q2,Off-Season,C0011,West Champaran,Dealer,Tawa (Plough),1,34378,34378,0,0.0,34378.0,UPI,Delivered
+S00049,2023-05-28,2023,5,Q2,Off-Season,C0282,Darbhanga,Farmer,Cultivator,1,35102,35102,0,0.0,35102.0,UPI,Delivered
+S00051,2024-07-21,2024,7,Q3,Kharif Prep,C0140,Darbhanga,Cooperative,Rotavator,1,142234,142234,2,2844.68,139389.32,EMI/Finance,Delivered
+S00052,2023-01-17,2023,1,Q1,Rabi Peak,C0332,Bhagalpur,Farmer,Cultivator,1,39427,39427,2,788.54,38638.46,UPI,Delivered
+S00053,2023-12-07,2023,12,Q4,Rabi Peak,C0092,Darbhanga,Dealer,Rotavator,1,108088,108088,5,5404.4,102683.6,Cash,Delivered
+S00054,2024-04-20,2024,4,Q2,Off-Season,C0032,Siwan,Farmer,Tawa (Plough),1,33680,33680,5,1684.0,31996.0,Cash,Delivered
+S00055,2024-04-13,2024,4,Q2,Off-Season,C0223,West Champaran,Farmer,Rotavator,1,98211,98211,0,0.0,98211.0,Cash,Delivered
+S00056,2024-06-11,2024,6,Q2,Kharif Prep,C0179,Muzaffarpur,Farmer,Cultivator,1,70588,70588,0,0.0,70588.0,UPI,Delivered
+S00057,2023-02-18,2023,2,Q1,Off-Season,C0310,Araria,Farmer,Tawa (Plough),1,28876,28876,5,1443.8,27432.2,UPI,Delivered
+S00058,2024-03-26,2024,3,Q1,Off-Season,C0079,Gopalganj,Farmer,Tawa (Plough),1,30669,30669,0,0.0,30669.0,Bank Transfer,Delivered
+S00059,2024-06-15,2024,6,Q2,Kharif Prep,C0243,Gopalganj,Farmer,Cultivator,1,40414,40414,0,0.0,40414.0,UPI,Delivered
+S00060,2024-07-12,2024,7,Q3,Kharif Prep,C0195,Chapra (Saran),Dealer,Cultivator,1,41723,41723,2,834.46,40888.54,Cash,Delivered
+S00061,2024-03-12,2024,3,Q1,Off-Season,C0024,Madhubani,Farmer,Rotavator,1,114091,114091,0,0.0,114091.0,EMI/Finance,Delivered
+S00062,2024-03-21,2024,3,Q1,Off-Season,C0349,Chapra (Saran),Dealer,Cultivator,1,38759,38759,2,775.18,37983.82,UPI,Delivered
+S00063,2024-11-26,2024,11,Q4,Rabi Prep,C0069,Samastipur,Farmer,Rotavator,1,87040,87040,2,1740.8,85299.2,Bank Transfer,Delivered
+S00064,2023-03-10,2023,3,Q1,Off-Season,C0063,Darbhanga,Farmer,Cultivator,1,59007,59007,8,4720.56,54286.44,Cash,Delivered
+S00065,2024-04-05,2024,4,Q2,Off-Season,C0020,Gopalganj,Farmer,Tawa (Plough),1,30190,30190,0,0.0,30190.0,Cash,Delivered
+S00066,2023-11-18,2023,11,Q4,Rabi Prep,C0078,Samastipur,Farmer,Threshing Machine,2,71358,142716,0,0.0,142716.0,Cash,Delivered
+S00067,2024-07-29,2024,7,Q3,Kharif Prep,C0025,Vaishali,Farmer,Rotavator,1,135788,135788,0,0.0,135788.0,EMI/Finance,Delivered
+S00068,2024-05-17,2024,5,Q2,Off-Season,C0012,Purnia,Farmer,Rotavator,1,93895,93895,0,0.0,93895.0,EMI/Finance,Delivered
+S00069,2023-03-31,2023,3,Q1,Off-Season,C0031,Gopalganj,Farmer,Tawa (Plough),1,28472,28472,2,569.44,27902.56,UPI,Delivered
+S00070,2023-11-04,2023,11,Q4,Rabi Prep,C0188,West Champaran,Farmer,Tawa (Plough),1,41324,41324,2,826.48,40497.52,Cash,Delivered
+S00071,2023-08-18,2023,8,Q3,Kharif Peak,C0230,Bhagalpur,Cooperative,Rotavator,1,98171,98171,0,0.0,98171.0,UPI,Delivered
+S00072,2024-08-09,2024,8,Q3,Kharif Peak,C0209,Gopalganj,Farmer,Cultivator,1,71152,71152,5,3557.6,67594.4,Cash,Delivered
+S00073,2024-05-05,2024,5,Q2,Off-Season,C0043,Gopalganj,Farmer,Zero Till Seed Drill,1,173665,173665,0,0.0,173665.0,EMI/Finance,Delivered
+S00074,2024-04-05,2024,4,Q2,Off-Season,C0346,Gopalganj,Farmer,Harvester,1,721245,721245,5,36062.25,685182.75,Bank Transfer,Delivered
+S00075,2023-07-06,2023,7,Q3,Kharif Prep,C0124,Madhubani,Farmer,Tawa (Plough),1,22228,22228,8,1778.24,20449.76,Cash,Delivered
+S00076,2023-06-06,2023,6,Q2,Kharif Prep,C0095,Gopalganj,Farmer,Cultivator,1,45614,45614,2,912.28,44701.72,Cash,Pending
+S00077,2023-10-18,2023,10,Q4,Rabi Prep,C0199,Gopalganj,Farmer,Tawa (Plough),1,26211,26211,8,2096.88,24114.12,Cash,Delivered
+S00078,2024-09-21,2024,9,Q3,Kharif Peak,C0332,Bhagalpur,Farmer,Zero Till Seed Drill,1,185873,185873,2,3717.46,182155.54,UPI,Delivered
+S00079,2024-10-01,2024,10,Q4,Rabi Prep,C0060,Gopalganj,Farmer,Threshing Machine,1,94658,94658,8,7572.64,87085.36,Cash,Delivered
+S00080,2023-03-25,2023,3,Q1,Off-Season,C0146,Madhubani,Farmer,Rotavator,1,127038,127038,0,0.0,127038.0,Cash,Delivered
+S00081,2024-09-24,2024,9,Q3,Kharif Peak,C0171,West Champaran,Cooperative,Threshing Machine,2,87639,175278,0,0.0,175278.0,UPI,Delivered
+S00082,2023-09-08,2023,9,Q3,Kharif Peak,C0115,Chapra (Saran),Cooperative,Tawa (Plough),1,40445,40445,0,0.0,40445.0,Bank Transfer,Delivered
+S00083,2024-03-01,2024,3,Q1,Off-Season,C0315,Samastipur,Farmer,Zero Till Seed Drill,1,146741,146741,0,0.0,146741.0,EMI/Finance,Delivered
+S00084,2023-12-20,2023,12,Q4,Rabi Peak,C0296,Patna,Cooperative,Tawa (Plough),1,22284,22284,0,0.0,22284.0,Cash,Delivered
+S00085,2023-05-06,2023,5,Q2,Off-Season,C0307,Begusarai,Farmer,Cultivator,1,51247,51247,0,0.0,51247.0,EMI/Finance,Delivered
+S00086,2024-03-04,2024,3,Q1,Off-Season,C0307,Begusarai,Farmer,Cultivator,1,45466,45466,8,3637.28,41828.72,Bank Transfer,Delivered
+S00087,2023-06-13,2023,6,Q2,Kharif Prep,C0138,Muzaffarpur,Farmer,Zero Till Seed Drill,1,187466,187466,5,9373.3,178092.7,UPI,Delivered
+S00088,2024-02-07,2024,2,Q1,Off-Season,C0004,Gopalganj,Farmer,Zero Till Seed Drill,1,151552,151552,0,0.0,151552.0,Cash,Delivered
+S00089,2024-10-31,2024,10,Q4,Rabi Prep,C0144,Sitamarhi,Farmer,Threshing Machine,1,73726,73726,5,3686.3,70039.7,UPI,Delivered
+S00090,2024-01-10,2024,1,Q1,Rabi Peak,C0140,Darbhanga,Cooperative,Tawa (Plough),1,29991,29991,0,0.0,29991.0,UPI,Delivered
+S00091,2023-10-23,2023,10,Q4,Rabi Prep,C0081,Darbhanga,Farmer,Rotavator,1,118046,118046,0,0.0,118046.0,Bank Transfer,Delivered
+S00092,2024-09-17,2024,9,Q3,Kharif Peak,C0256,Siwan,Dealer,Rotavator,1,91336,91336,5,4566.8,86769.2,Cash,Delivered
+S00093,2023-05-28,2023,5,Q2,Off-Season,C0296,Patna,Cooperative,Rotavator,1,118365,118365,0,0.0,118365.0,Cash,Delivered
+S00094,2024-04-30,2024,4,Q2,Off-Season,C0010,Gopalganj,Dealer,Zero Till Seed Drill,1,139521,139521,0,0.0,139521.0,Cash,Delivered
+S00095,2023-06-16,2023,6,Q2,Kharif Prep,C0017,Chapra (Saran),Farmer,Cultivator,1,54610,54610,0,0.0,54610.0,UPI,Delivered
+S00096,2024-07-30,2024,7,Q3,Kharif Prep,C0325,Siwan,Cooperative,Cultivator,1,36090,36090,2,721.8,35368.2,EMI/Finance,Delivered
+S00097,2024-12-05,2024,12,Q4,Rabi Peak,C0163,Chapra (Saran),Dealer,Threshing Machine,1,94119,94119,8,7529.52,86589.48,Bank Transfer,Delivered
+S00098,2024-08-14,2024,8,Q3,Kharif Peak,C0296,Patna,Cooperative,Cultivator,1,38365,38365,0,0.0,38365.0,UPI,Delivered
+S00099,2024-01-25,2024,1,Q1,Rabi Peak,C0146,Madhubani,Farmer,Rotavator,1,129612,129612,2,2592.24,127019.76,Bank Transfer,Delivered
+S00100,2024-03-27,2024,3,Q1,Off-Season,C0204,Bhagalpur,Farmer,Cultivator,1,44924,44924,0,0.0,44924.0,UPI,Delivered
+S00101,2024-04-27,2024,4,Q2,Off-Season,C0228,Siwan,Farmer,Tawa (Plough),1,42111,42111,2,842.22,41268.78,UPI,Delivered
+S00102,2024-11-09,2024,11,Q4,Rabi Prep,C0100,East Champaran,Dealer,Harvester,1,647564,647564,0,0.0,647564.0,EMI/Finance,Delivered
+S00103,2023-12-29,2023,12,Q4,Rabi Peak,C0121,Vaishali,Farmer,Threshing Machine,1,72325,72325,0,0.0,72325.0,Cash,Delivered
+S00104,2023-08-19,2023,8,Q3,Kharif Peak,C0307,Begusarai,Farmer,Tawa (Plough),1,27752,27752,2,555.04,27196.96,Bank Transfer,Delivered
+S00105,2024-05-06,2024,5,Q2,Off-Season,C0250,Muzaffarpur,Farmer,Cultivator,1,52921,52921,2,1058.42,51862.58,UPI,Delivered
+S00106,2024-02-09,2024,2,Q1,Off-Season,C0323,Patna,Dealer,Tawa (Plough),1,43331,43331,0,0.0,43331.0,Cash,Delivered
+S00107,2023-12-21,2023,12,Q4,Rabi Peak,C0058,Samastipur,Cooperative,Tawa (Plough),1,39494,39494,0,0.0,39494.0,Cash,Delivered
+S00108,2024-07-29,2024,7,Q3,Kharif Prep,C0216,Samastipur,Farmer,Threshing Machine,1,63996,63996,2,1279.92,62716.08,Cash,Delivered
+S00109,2024-06-27,2024,6,Q2,Kharif Prep,C0197,Gopalganj,Farmer,Cultivator,1,50259,50259,0,0.0,50259.0,Bank Transfer,Delivered
+S00110,2023-05-21,2023,5,Q2,Off-Season,C0236,Chapra (Saran),Farmer,Rotavator,2,121067,242134,0,0.0,242134.0,Bank Transfer,Delivered
+S00111,2024-05-02,2024,5,Q2,Off-Season,C0110,Gopalganj,Dealer,Harvester,1,554572,554572,0,0.0,554572.0,Cash,Delivered
+S00112,2023-04-02,2023,4,Q2,Off-Season,C0195,Chapra (Saran),Dealer,Threshing Machine,1,70218,70218,2,1404.36,68813.64,EMI/Finance,Delivered
+S00113,2023-06-29,2023,6,Q2,Kharif Prep,C0305,Bhagalpur,Farmer,Harvester,2,542163,1084326,0,0.0,1084326.0,Bank Transfer,Delivered
+S00114,2023-07-10,2023,7,Q3,Kharif Prep,C0254,Siwan,Farmer,Tawa (Plough),1,27485,27485,0,0.0,27485.0,UPI,Delivered
+S00115,2023-12-10,2023,12,Q4,Rabi Peak,C0022,Gopalganj,Dealer,Cultivator,1,70605,70605,5,3530.25,67074.75,Cash,Delivered
+S00116,2023-10-07,2023,10,Q4,Rabi Prep,C0228,Siwan,Farmer,Rotavator,1,92382,92382,2,1847.64,90534.36,UPI,Delivered
+S00117,2023-01-15,2023,1,Q1,Rabi Peak,C0004,Gopalganj,Farmer,Threshing Machine,1,74334,74334,5,3716.7,70617.3,Cash,Delivered
+S00119,2024-05-03,2024,5,Q2,Off-Season,C0252,East Champaran,Dealer,Cultivator,1,51256,51256,0,0.0,51256.0,UPI,Delivered
+S00120,2023-12-04,2023,12,Q4,Rabi Peak,C0077,Patna,Farmer,Cultivator,1,72544,72544,2,1450.88,71093.12,Bank Transfer,Delivered
+S00121,2023-05-02,2023,5,Q2,Off-Season,C0334,Gopalganj,Farmer,Harvester,1,533737,533737,0,0.0,533737.0,EMI/Finance,Delivered
+S00122,2023-11-15,2023,11,Q4,Rabi Prep,C0262,Muzaffarpur,Farmer,Threshing Machine,1,74335,74335,0,0.0,74335.0,EMI/Finance,Delivered
+S00123,2024-04-10,2024,4,Q2,Off-Season,C0133,Sitamarhi,Farmer,Threshing Machine,1,94697,94697,2,1893.94,92803.06,EMI/Finance,Delivered
+S00124,2024-11-11,2024,11,Q4,Rabi Prep,C0027,Madhubani,Farmer,Tawa (Plough),1,42964,42964,5,2148.2,40815.8,EMI/Finance,Delivered
+S00125,2024-04-02,2024,4,Q2,Off-Season,C0250,Muzaffarpur,Farmer,Zero Till Seed Drill,1,167419,167419,2,3348.38,164070.62,Cash,Delivered
+S00126,2024-06-01,2024,6,Q2,Kharif Prep,C0105,Siwan,Farmer,Rotavator,1,120170,120170,0,0.0,120170.0,UPI,Delivered
+S00127,2023-07-30,2023,7,Q3,Kharif Prep,C0101,Madhubani,Cooperative,Threshing Machine,1,87035,87035,0,0.0,87035.0,Bank Transfer,Delivered
+S00128,2024-06-09,2024,6,Q2,Kharif Prep,C0271,Gopalganj,Cooperative,Harvester,1,745651,745651,0,0.0,745651.0,Bank Transfer,Delivered
+S00129,2024-02-10,2024,2,Q1,Off-Season,C0265,Gopalganj,Dealer,Cultivator,1,35197,35197,2,703.94,34493.06,Cash,Delivered
+S00130,2023-03-07,2023,3,Q1,Off-Season,C0127,Siwan,Farmer,Zero Till Seed Drill,2,127897,255794,0,0.0,255794.0,EMI/Finance,Delivered
+S00131,2024-02-23,2024,2,Q1,Off-Season,C0124,Madhubani,Farmer,Rotavator,1,93875,93875,10,9387.5,84487.5,UPI,Delivered
+S00132,2024-01-27,2024,1,Q1,Rabi Peak,C0017,Chapra (Saran),Farmer,Harvester,1,647916,647916,2,12958.32,634957.68,Bank Transfer,Delivered
+S00133,2024-10-31,2024,10,Q4,Rabi Prep,C0279,Siwan,Farmer,Tawa (Plough),1,21887,21887,0,0.0,21887.0,UPI,Delivered
+S00134,2023-08-17,2023,8,Q3,Kharif Peak,C0226,Chapra (Saran),Farmer,Tawa (Plough),1,42778,42778,0,0.0,42778.0,Bank Transfer,Delivered
+S00135,2024-06-28,2024,6,Q2,Kharif Prep,C0135,Chapra (Saran),Farmer,Cultivator,1,50051,50051,0,0.0,50051.0,Cash,Delivered
+S00136,2023-04-26,2023,4,Q2,Off-Season,C0063,Darbhanga,Farmer,Rotavator,1,128266,128266,5,6413.3,121852.7,EMI/Finance,Delivered
+S00137,2023-07-31,2023,7,Q3,Kharif Prep,C0025,Vaishali,Farmer,Rotavator,1,123924,123924,2,2478.48,121445.52,Bank Transfer,Delivered
+S00138,2023-02-15,2023,2,Q1,Off-Season,C0165,Darbhanga,Dealer,Harvester,1,572861,572861,5,28643.05,544217.95,Bank Transfer,Delivered
+S00139,2023-10-24,2023,10,Q4,Rabi Prep,C0255,Sitamarhi,Farmer,Cultivator,1,72755,72755,2,1455.1,71299.9,Bank Transfer,Delivered
+S00140,2023-11-06,2023,11,Q4,Rabi Prep,C0173,Chapra (Saran),Farmer,Tawa (Plough),1,39633,39633,0,0.0,39633.0,Cash,Delivered
+S00141,2024-08-28,2024,8,Q3,Kharif Peak,C0083,Vaishali,Dealer,Tawa (Plough),1,23738,23738,0,0.0,23738.0,UPI,Pending
+S00142,2024-10-20,2024,10,Q4,Rabi Prep,C0216,Samastipur,Farmer,Threshing Machine,1,89371,89371,0,0.0,89371.0,Cash,Delivered
+S00143,2024-07-04,2024,7,Q3,Kharif Prep,C0010,Gopalganj,Dealer,Harvester,1,568145,568145,2,11362.9,556782.1,Bank Transfer,Delivered
+S00144,2024-07-29,2024,7,Q3,Kharif Prep,C0114,Darbhanga,Farmer,Harvester,1,668370,668370,0,0.0,668370.0,Cash,Delivered
+S00145,2024-10-24,2024,10,Q4,Rabi Prep,C0201,Sitamarhi,Farmer,Rotavator,1,114477,114477,0,0.0,114477.0,Bank Transfer,Delivered
+S00146,2023-10-02,2023,10,Q4,Rabi Prep,C0261,Darbhanga,Farmer,Cultivator,1,74647,74647,5,3732.35,70914.65,Cash,Delivered
+S00147,2024-11-18,2024,11,Q4,Rabi Prep,C0036,Madhubani,Cooperative,Zero Till Seed Drill,1,182835,182835,8,14626.8,168208.2,Cash,Delivered
+S00148,2023-08-05,2023,8,Q3,Kharif Peak,C0110,Gopalganj,Dealer,Tawa (Plough),1,42296,42296,10,4229.6,38066.4,UPI,Delivered
+S00149,2024-09-10,2024,9,Q3,Kharif Peak,C0069,Samastipur,Farmer,Threshing Machine,2,80993,161986,2,3239.72,158746.28,Bank Transfer,Delivered
+S00150,2024-06-30,2024,6,Q2,Kharif Prep,C0060,Gopalganj,Farmer,Threshing Machine,1,75212,75212,0,0.0,75212.0,UPI,Delivered
+S00151,2024-04-25,2024,4,Q2,Off-Season,C0313,Madhubani,Dealer,Tawa (Plough),2,28493,56986,0,0.0,56986.0,UPI,Delivered
+S00152,2023-08-15,2023,8,Q3,Kharif Peak,C0334,Gopalganj,Farmer,Threshing Machine,1,56062,56062,8,4484.96,51577.04,UPI,Delivered
+S00153,2023-06-06,2023,6,Q2,Kharif Prep,C0140,Darbhanga,Cooperative,Rotavator,1,100074,100074,5,5003.7,95070.3,UPI,Delivered
+S00154,2024-12-02,2024,12,Q4,Rabi Peak,C0168,Samastipur,Farmer,Cultivator,2,67022,134044,2,2680.88,131363.12,UPI,Delivered
+S00156,2023-03-02,2023,3,Q1,Off-Season,C0004,Gopalganj,Farmer,Zero Till Seed Drill,2,129742,259484,2,5189.68,254294.32,Bank Transfer,Delivered
+S00157,2024-10-07,2024,10,Q4,Rabi Prep,C0280,Vaishali,Farmer,Cultivator,1,44897,44897,0,0.0,44897.0,UPI,Delivered
+S00158,2024-11-13,2024,11,Q4,Rabi Prep,C0126,Gopalganj,Dealer,Tawa (Plough),1,33833,33833,0,0.0,33833.0,UPI,Delivered
+S00159,2023-01-18,2023,1,Q1,Rabi Peak,C0285,Patna,Cooperative,Zero Till Seed Drill,1,156010,156010,0,0.0,156010.0,UPI,Delivered
+S00160,2024-03-16,2024,3,Q1,Off-Season,C0275,Gopalganj,Farmer,Tawa (Plough),1,23874,23874,0,0.0,23874.0,Cash,Delivered
+S00161,2024-06-23,2024,6,Q2,Kharif Prep,C0312,Samastipur,Farmer,Cultivator,1,58228,58228,0,0.0,58228.0,UPI,Delivered
+S00163,2024-10-27,2024,10,Q4,Rabi Prep,C0148,Chapra (Saran),Farmer,Tawa (Plough),1,21063,21063,0,0.0,21063.0,UPI,Delivered
+S00164,2024-12-20,2024,12,Q4,Rabi Peak,C0130,Darbhanga,Farmer,Rotavator,1,117758,117758,2,2355.16,115402.84,Cash,Pending
+S00165,2023-04-08,2023,4,Q2,Off-Season,C0349,Chapra (Saran),Dealer,Tawa (Plough),1,19394,19394,8,1551.52,17842.48,Bank Transfer,Delivered
+S00166,2023-10-05,2023,10,Q4,Rabi Prep,C0017,Chapra (Saran),Farmer,Rotavator,1,89872,89872,0,0.0,89872.0,UPI,Delivered
+S00167,2023-07-03,2023,7,Q3,Kharif Prep,C0283,Sitamarhi,Farmer,Tawa (Plough),1,28305,28305,0,0.0,28305.0,Cash,Delivered
+S00168,2024-02-12,2024,2,Q1,Off-Season,C0230,Bhagalpur,Cooperative,Tawa (Plough),1,27806,27806,0,0.0,27806.0,Bank Transfer,Delivered
+S00169,2024-07-07,2024,7,Q3,Kharif Prep,C0345,Samastipur,Farmer,Cultivator,1,44171,44171,2,883.42,43287.58,Cash,Delivered
+S00170,2023-12-21,2023,12,Q4,Rabi Peak,C0322,Gopalganj,Dealer,Rotavator,1,113645,113645,0,0.0,113645.0,UPI,Delivered
+S00171,2024-09-01,2024,9,Q3,Kharif Peak,C0271,Gopalganj,Cooperative,Cultivator,1,56389,56389,0,0.0,56389.0,EMI/Finance,Delivered
+S00172,2023-12-31,2023,12,Q4,Rabi Peak,C0017,Chapra (Saran),Farmer,Zero Till Seed Drill,1,169207,169207,2,3384.14,165822.86,Bank Transfer,Delivered
+S00173,2024-09-25,2024,9,Q3,Kharif Peak,C0056,Gopalganj,Farmer,Cultivator,1,51151,51151,0,0.0,51151.0,Cash,Delivered
+S00174,2024-10-11,2024,10,Q4,Rabi Prep,C0139,Gopalganj,Farmer,Rotavator,1,110534,110534,0,0.0,110534.0,Cash,Delivered
+S00175,2024-01-04,2024,1,Q1,Rabi Peak,C0155,Vaishali,Farmer,Tawa (Plough),1,21349,21349,0,0.0,21349.0,UPI,Delivered
+S00176,2024-02-22,2024,2,Q1,Off-Season,C0121,Vaishali,Farmer,Rotavator,1,90873,90873,0,0.0,90873.0,UPI,Delivered
+S00177,2024-01-30,2024,1,Q1,Rabi Peak,C0126,Gopalganj,Dealer,Rotavator,1,112119,112119,0,0.0,112119.0,EMI/Finance,Delivered
+S00178,2023-09-06,2023,9,Q3,Kharif Peak,C0155,Vaishali,Farmer,Zero Till Seed Drill,1,142227,142227,0,0.0,142227.0,Cash,Delivered
+S00179,2023-05-30,2023,5,Q2,Off-Season,C0196,Samastipur,Farmer,Rotavator,1,113486,113486,0,0.0,113486.0,Bank Transfer,Delivered
+S00180,2023-09-10,2023,9,Q3,Kharif Peak,C0163,Chapra (Saran),Dealer,Threshing Machine,1,87492,87492,0,0.0,87492.0,Cash,Delivered
+S00181,2024-02-10,2024,2,Q1,Off-Season,C0334,Gopalganj,Farmer,Cultivator,1,59896,59896,0,0.0,59896.0,Cash,Delivered
+S00182,2024-10-28,2024,10,Q4,Rabi Prep,C0267,Siwan,Farmer,Tawa (Plough),1,22460,22460,2,449.2,22010.8,Bank Transfer,Delivered
+S00183,2023-07-01,2023,7,Q3,Kharif Prep,C0290,Gopalganj,Farmer,Tawa (Plough),1,28457,28457,2,569.14,27887.86,UPI,Delivered
+S00184,2023-09-06,2023,9,Q3,Kharif Peak,C0339,Siwan,Farmer,Cultivator,1,53369,53369,0,0.0,53369.0,Cash,Delivered
+S00185,2024-08-29,2024,8,Q3,Kharif Peak,C0113,Patna,Cooperative,Tawa (Plough),1,23895,23895,2,477.9,23417.1,EMI/Finance,Delivered
+S00186,2024-12-26,2024,12,Q4,Rabi Peak,C0227,Chapra (Saran),Farmer,Rotavator,1,137277,137277,2,2745.54,134531.46,Bank Transfer,Delivered
+S00187,2024-02-23,2024,2,Q1,Off-Season,C0062,West Champaran,Dealer,Threshing Machine,1,64121,64121,0,0.0,64121.0,Bank Transfer,Delivered
+S00188,2024-01-22,2024,1,Q1,Rabi Peak,C0101,Madhubani,Cooperative,Rotavator,1,124186,124186,0,0.0,124186.0,UPI,Delivered
+S00189,2024-12-09,2024,12,Q4,Rabi Peak,C0026,Gopalganj,Dealer,Harvester,1,469275,469275,0,0.0,469275.0,EMI/Finance,Delivered
+S00190,2024-10-15,2024,10,Q4,Rabi Prep,C0298,Bhagalpur,Cooperative,Tawa (Plough),1,21583,21583,2,431.66,21151.34,UPI,Delivered
+S00191,2023-02-15,2023,2,Q1,Off-Season,C0063,Darbhanga,Farmer,Zero Till Seed Drill,1,204545,204545,0,0.0,204545.0,Bank Transfer,Pending
+S00192,2024-03-16,2024,3,Q1,Off-Season,C0044,Patna,Farmer,Rotavator,1,91462,91462,0,0.0,91462.0,UPI,Delivered
+S00193,2024-08-12,2024,8,Q3,Kharif Peak,C0112,Bhagalpur,Farmer,Cultivator,1,59518,59518,5,2975.9,56542.1,UPI,Delivered
+S00194,2023-12-20,2023,12,Q4,Rabi Peak,C0298,Bhagalpur,Cooperative,Tawa (Plough),1,33819,33819,0,0.0,33819.0,EMI/Finance,Delivered
+S00195,2023-05-26,2023,5,Q2,Off-Season,C0300,Gopalganj,Cooperative,Cultivator,1,57483,57483,0,0.0,57483.0,UPI,Delivered
+S00196,2024-03-24,2024,3,Q1,Off-Season,C0192,Muzaffarpur,Dealer,Threshing Machine,1,84651,84651,0,0.0,84651.0,Bank Transfer,Delivered
+S00197,2023-12-18,2023,12,Q4,Rabi Peak,C0198,Patna,Dealer,Threshing Machine,2,65771,131542,2,2630.84,128911.16,UPI,Delivered
+S00198,2023-12-05,2023,12,Q4,Rabi Peak,C0058,Samastipur,Cooperative,Zero Till Seed Drill,1,180562,180562,0,0.0,180562.0,Cash,Delivered
+S00199,2024-03-18,2024,3,Q1,Off-Season,C0052,Gopalganj,Farmer,Cultivator,1,47931,47931,0,0.0,47931.0,Cash,Delivered
+S00200,2023-10-13,2023,10,Q4,Rabi Prep,C0049,Muzaffarpur,Farmer,Tawa (Plough),1,44500,44500,2,890.0,43610.0,Bank Transfer,Delivered
+S00201,2024-01-10,2024,1,Q1,Rabi Peak,C0253,Muzaffarpur,Dealer,Cultivator,1,64986,64986,2,1299.72,63686.28,UPI,Pending
+S00202,2023-11-17,2023,11,Q4,Rabi Prep,C0116,Vaishali,Farmer,Zero Till Seed Drill,1,200125,200125,0,0.0,200125.0,UPI,Delivered
+S00203,2023-06-26,2023,6,Q2,Kharif Prep,C0163,Chapra (Saran),Dealer,Tawa (Plough),1,41133,41133,8,3290.64,37842.36,UPI,Delivered
+S00204,2023-11-17,2023,11,Q4,Rabi Prep,C0323,Patna,Dealer,Rotavator,1,105013,105013,0,0.0,105013.0,Cash,Delivered
+S00205,2024-09-02,2024,9,Q3,Kharif Peak,C0154,Patna,Dealer,Rotavator,1,110146,110146,0,0.0,110146.0,UPI,Delivered
+S00206,2023-06-27,2023,6,Q2,Kharif Prep,C0346,Gopalganj,Farmer,Zero Till Seed Drill,1,184178,184178,0,0.0,184178.0,Bank Transfer,Delivered
+S00207,2024-01-03,2024,1,Q1,Rabi Peak,C0052,Gopalganj,Farmer,Tawa (Plough),1,33879,33879,5,1693.95,32185.05,EMI/Finance,Delivered
+S00208,2024-05-21,2024,5,Q2,Off-Season,C0011,West Champaran,Dealer,Harvester,1,707805,707805,5,35390.25,672414.75,UPI,Delivered
+S00209,2023-02-01,2023,2,Q1,Off-Season,C0185,Vaishali,Farmer,Tawa (Plough),1,25226,25226,0,0.0,25226.0,UPI,Delivered
+S00210,2024-04-13,2024,4,Q2,Off-Season,C0029,Muzaffarpur,Dealer,Zero Till Seed Drill,1,184921,184921,0,0.0,184921.0,Cash,Delivered
+S00212,2023-04-15,2023,4,Q2,Off-Season,C0211,Chapra (Saran),Farmer,Threshing Machine,1,71222,71222,10,7122.2,64099.8,UPI,Delivered
+S00213,2023-03-31,2023,3,Q1,Off-Season,C0252,East Champaran,Dealer,Harvester,1,511544,511544,0,0.0,511544.0,Bank Transfer,Delivered
+S00214,2023-12-26,2023,12,Q4,Rabi Peak,C0126,Gopalganj,Dealer,Tawa (Plough),1,37997,37997,0,0.0,37997.0,Cash,Delivered
+S00215,2023-07-31,2023,7,Q3,Kharif Prep,C0127,Siwan,Farmer,Tawa (Plough),1,36680,36680,0,0.0,36680.0,UPI,Delivered
+S00216,2024-12-21,2024,12,Q4,Rabi Peak,C0101,Madhubani,Cooperative,Cultivator,1,72534,72534,5,3626.7,68907.3,EMI/Finance,Delivered
+S00217,2023-04-08,2023,4,Q2,Off-Season,C0117,Chapra (Saran),Farmer,Rotavator,1,134158,134158,8,10732.64,123425.36,EMI/Finance,Delivered
+S00218,2023-05-10,2023,5,Q2,Off-Season,C0295,Madhubani,Farmer,Threshing Machine,1,63696,63696,2,1273.92,62422.08,Bank Transfer,Delivered
+S00219,2024-11-23,2024,11,Q4,Rabi Prep,C0059,Chapra (Saran),Farmer,Cultivator,1,44317,44317,0,0.0,44317.0,UPI,Delivered
+S00220,2024-10-10,2024,10,Q4,Rabi Prep,C0007,West Champaran,Farmer,Tawa (Plough),1,43194,43194,0,0.0,43194.0,Cash,Delivered
+S00221,2024-01-13,2024,1,Q1,Rabi Peak,C0190,Gopalganj,Dealer,Harvester,1,705875,705875,0,0.0,705875.0,Bank Transfer,Delivered
+S00222,2024-04-14,2024,4,Q2,Off-Season,C0167,Gopalganj,Farmer,Threshing Machine,1,78476,78476,5,3923.8,74552.2,UPI,Pending
+S00223,2023-08-05,2023,8,Q3,Kharif Peak,C0071,Gopalganj,Farmer,Zero Till Seed Drill,1,162318,162318,0,0.0,162318.0,UPI,Delivered
+S00224,2024-05-11,2024,5,Q2,Off-Season,C0204,Bhagalpur,Farmer,Tawa (Plough),1,40365,40365,0,0.0,40365.0,UPI,Delivered
+S00225,2023-01-17,2023,1,Q1,Rabi Peak,C0325,Siwan,Cooperative,Rotavator,1,141207,141207,0,0.0,141207.0,EMI/Finance,Delivered
+S00226,2024-12-06,2024,12,Q4,Rabi Peak,C0284,Muzaffarpur,Farmer,Tawa (Plough),1,39299,39299,5,1964.95,37334.05,EMI/Finance,Delivered
+S00227,2024-01-05,2024,1,Q1,Rabi Peak,C0321,Siwan,Cooperative,Cultivator,1,59369,59369,2,1187.38,58181.62,Cash,Delivered
+S00228,2024-12-17,2024,12,Q4,Rabi Peak,C0106,Chapra (Saran),Farmer,Tawa (Plough),1,32065,32065,2,641.3,31423.7,Cash,Delivered
+S00229,2023-05-16,2023,5,Q2,Off-Season,C0016,Gopalganj,Farmer,Zero Till Seed Drill,1,188084,188084,0,0.0,188084.0,Bank Transfer,Delivered
+S00230,2024-03-08,2024,3,Q1,Off-Season,C0102,Gopalganj,Dealer,Threshing Machine,1,86306,86306,0,0.0,86306.0,Bank Transfer,Delivered
+S00231,2023-11-17,2023,11,Q4,Rabi Prep,C0283,Sitamarhi,Farmer,Cultivator,1,54611,54611,5,2730.55,51880.45,Bank Transfer,Delivered
+S00232,2024-11-24,2024,11,Q4,Rabi Prep,C0058,Samastipur,Cooperative,Rotavator,1,119767,119767,2,2395.34,117371.66,Cash,Delivered
+S00233,2023-08-07,2023,8,Q3,Kharif Peak,C0302,Chapra (Saran),Dealer,Threshing Machine,2,64920,129840,2,2596.8,127243.2,UPI,Delivered
+S00234,2023-04-13,2023,4,Q2,Off-Season,C0016,Gopalganj,Farmer,Rotavator,1,93071,93071,0,0.0,93071.0,EMI/Finance,Delivered
+S00235,2023-05-24,2023,5,Q2,Off-Season,C0216,Samastipur,Farmer,Cultivator,1,40521,40521,2,810.42,39710.58,Bank Transfer,Delivered
+S00236,2024-12-08,2024,12,Q4,Rabi Peak,C0164,Madhubani,Farmer,Rotavator,1,140513,140513,0,0.0,140513.0,UPI,Delivered
+S00237,2024-02-06,2024,2,Q1,Off-Season,C0102,Gopalganj,Dealer,Cultivator,1,38576,38576,5,1928.8,36647.2,Cash,Delivered
+S00238,2023-09-04,2023,9,Q3,Kharif Peak,C0012,Purnia,Farmer,Zero Till Seed Drill,1,197847,197847,5,9892.35,187954.65,Cash,Delivered
+S00239,2023-11-21,2023,11,Q4,Rabi Prep,C0037,Muzaffarpur,Farmer,Rotavator,1,141414,141414,0,0.0,141414.0,UPI,Delivered
+S00240,2024-04-27,2024,4,Q2,Off-Season,C0065,Muzaffarpur,Farmer,Tawa (Plough),1,43243,43243,2,864.86,42378.14,Cash,Delivered
+S00241,2023-03-03,2023,3,Q1,Off-Season,C0160,Gopalganj,Farmer,Tawa (Plough),1,31040,31040,2,620.8,30419.2,UPI,Delivered
+S00242,2024-12-19,2024,12,Q4,Rabi Peak,C0080,Begusarai,Cooperative,Harvester,1,785826,785826,2,15716.52,770109.48,Cash,Delivered
+S00243,2024-06-07,2024,6,Q2,Kharif Prep,C0003,Vaishali,Farmer,Tawa (Plough),1,44478,44478,0,0.0,44478.0,UPI,Delivered
+S00244,2024-10-27,2024,10,Q4,Rabi Prep,C0023,Chapra (Saran),Farmer,Threshing Machine,1,59332,59332,0,0.0,59332.0,EMI/Finance,Delivered
+S00245,2023-09-08,2023,9,Q3,Kharif Peak,C0314,Sitamarhi,Farmer,Rotavator,1,113474,113474,2,2269.48,111204.52,Cash,Delivered
+S00246,2024-11-04,2024,11,Q4,Rabi Prep,C0337,Gopalganj,Farmer,Threshing Machine,1,62827,62827,0,0.0,62827.0,Cash,Delivered
+S00247,2023-12-22,2023,12,Q4,Rabi Peak,C0078,Samastipur,Farmer,Zero Till Seed Drill,1,214472,214472,0,0.0,214472.0,Bank Transfer,Delivered
+S00248,2023-05-01,2023,5,Q2,Off-Season,C0239,Sitamarhi,Dealer,Tawa (Plough),1,18961,18961,0,0.0,18961.0,UPI,Delivered
+S00249,2024-08-13,2024,8,Q3,Kharif Peak,C0049,Muzaffarpur,Farmer,Threshing Machine,1,87515,87515,0,0.0,87515.0,UPI,Delivered
+S00250,2024-01-12,2024,1,Q1,Rabi Peak,C0062,West Champaran,Dealer,Rotavator,1,135680,135680,2,2713.6,132966.4,Bank Transfer,Delivered
+S00251,2024-06-05,2024,6,Q2,Kharif Prep,C0142,Begusarai,Farmer,Rotavator,1,141275,141275,0,0.0,141275.0,UPI,Delivered
+S00252,2023-06-03,2023,6,Q2,Kharif Prep,C0308,West Champaran,Cooperative,Rotavator,1,141196,141196,5,7059.8,134136.2,Bank Transfer,Delivered
+S00253,2023-08-18,2023,8,Q3,Kharif Peak,C0304,Samastipur,Farmer,Cultivator,2,62279,124558,0,0.0,124558.0,Bank Transfer,Delivered
+S00254,2023-05-03,2023,5,Q2,Off-Season,C0220,Samastipur,Cooperative,Zero Till Seed Drill,1,126903,126903,5,6345.15,120557.85,EMI/Finance,Pending
+S00255,2023-03-12,2023,3,Q1,Off-Season,C0240,Vaishali,Farmer,Tawa (Plough),1,27250,27250,0,0.0,27250.0,Cash,Delivered
+S00256,2024-01-13,2024,1,Q1,Rabi Peak,C0341,Vaishali,Farmer,Rotavator,1,121949,121949,2,2438.98,119510.02,Cash,Delivered
+S00257,2024-05-20,2024,5,Q2,Off-Season,C0123,Gopalganj,Farmer,Tawa (Plough),1,43424,43424,8,3473.92,39950.08,Bank Transfer,Delivered
+S00258,2023-01-07,2023,1,Q1,Rabi Peak,C0294,Chapra (Saran),Farmer,Tawa (Plough),1,18783,18783,0,0.0,18783.0,Bank Transfer,Delivered
+S00259,2023-12-10,2023,12,Q4,Rabi Peak,C0051,Gopalganj,Farmer,Rotavator,1,128077,128077,2,2561.54,125515.46,Cash,Delivered
+S00260,2023-09-01,2023,9,Q3,Kharif Peak,C0254,Siwan,Farmer,Harvester,2,481402,962804,0,0.0,962804.0,Cash,Delivered
+S00261,2023-08-26,2023,8,Q3,Kharif Peak,C0094,Madhubani,Farmer,Tawa (Plough),1,35031,35031,5,1751.55,33279.45,UPI,Delivered
+S00262,2024-08-17,2024,8,Q3,Kharif Peak,C0087,Gopalganj,Dealer,Rotavator,1,93749,93749,0,0.0,93749.0,UPI,Delivered
+S00263,2024-11-09,2024,11,Q4,Rabi Prep,C0291,East Champaran,Dealer,Tawa (Plough),1,25758,25758,5,1287.9,24470.1,EMI/Finance,Delivered
+S00264,2023-12-01,2023,12,Q4,Rabi Peak,C0232,Muzaffarpur,Farmer,Cultivator,1,52822,52822,8,4225.76,48596.24,Cash,Delivered
+S00265,2023-04-22,2023,4,Q2,Off-Season,C0149,Chapra (Saran),Farmer,Rotavator,1,95772,95772,0,0.0,95772.0,Cash,Delivered
+S00266,2023-08-01,2023,8,Q3,Kharif Peak,C0244,Gopalganj,Cooperative,Harvester,1,692927,692927,0,0.0,692927.0,Cash,Delivered
+S00267,2024-12-22,2024,12,Q4,Rabi Peak,C0114,Darbhanga,Farmer,Threshing Machine,1,57643,57643,5,2882.15,54760.85,Cash,Delivered
+S00268,2023-12-31,2023,12,Q4,Rabi Peak,C0102,Gopalganj,Dealer,Cultivator,1,38208,38208,0,0.0,38208.0,EMI/Finance,Delivered
+S00269,2024-02-19,2024,2,Q1,Off-Season,C0075,Gopalganj,Dealer,Tawa (Plough),1,36217,36217,0,0.0,36217.0,UPI,Delivered
+S00270,2023-05-24,2023,5,Q2,Off-Season,C0184,Siwan,Farmer,Rotavator,1,89041,89041,10,8904.1,80136.9,Cash,Delivered
+S00271,2024-01-17,2024,1,Q1,Rabi Peak,C0306,Gopalganj,Dealer,Threshing Machine,1,60507,60507,0,0.0,60507.0,Bank Transfer,Delivered
+S00272,2023-03-08,2023,3,Q1,Off-Season,C0114,Darbhanga,Farmer,Rotavator,1,127335,127335,0,0.0,127335.0,EMI/Finance,Delivered
+S00273,2023-12-06,2023,12,Q4,Rabi Peak,C0187,Sitamarhi,Farmer,Rotavator,1,115211,115211,8,9216.88,105994.12,UPI,Delivered
+S00274,2024-05-23,2024,5,Q2,Off-Season,C0075,Gopalganj,Dealer,Rotavator,1,129775,129775,0,0.0,129775.0,EMI/Finance,Delivered
+S00275,2024-04-01,2024,4,Q2,Off-Season,C0063,Darbhanga,Farmer,Tawa (Plough),1,19135,19135,2,382.7,18752.3,UPI,Delivered
+S00276,2024-07-17,2024,7,Q3,Kharif Prep,C0331,Muzaffarpur,Farmer,Harvester,1,495991,495991,0,0.0,495991.0,Cash,Delivered
+S00277,2024-06-22,2024,6,Q2,Kharif Prep,C0293,Gopalganj,Dealer,Cultivator,1,70629,70629,10,7062.9,63566.1,Bank Transfer,Delivered
+S00278,2024-07-11,2024,7,Q3,Kharif Prep,C0323,Patna,Dealer,Tawa (Plough),2,29273,58546,0,0.0,58546.0,UPI,Delivered
+S00280,2024-06-26,2024,6,Q2,Kharif Prep,C0099,Gopalganj,Farmer,Cultivator,3,73272,219816,10,21981.6,197834.4,Cash,Delivered
+S00281,2023-09-30,2023,9,Q3,Kharif Peak,C0054,Patna,Dealer,Zero Till Seed Drill,1,216607,216607,10,21660.7,194946.3,Cash,Delivered
+S00282,2024-02-02,2024,2,Q1,Off-Season,C0025,Vaishali,Farmer,Cultivator,1,46384,46384,2,927.68,45456.32,Bank Transfer,Delivered
+S00283,2024-08-28,2024,8,Q3,Kharif Peak,C0095,Gopalganj,Farmer,Rotavator,1,130911,130911,2,2618.22,128292.78,Cash,Pending
+S00284,2024-05-19,2024,5,Q2,Off-Season,C0197,Gopalganj,Farmer,Zero Till Seed Drill,1,143010,143010,0,0.0,143010.0,Cash,Delivered
+S00285,2024-06-23,2024,6,Q2,Kharif Prep,C0219,Samastipur,Farmer,Harvester,2,623924,1247848,0,0.0,1247848.0,Cash,Delivered
+S00286,2023-11-28,2023,11,Q4,Rabi Prep,C0034,Siwan,Farmer,Rotavator,1,94680,94680,8,7574.4,87105.6,Bank Transfer,Delivered
+S00287,2024-01-09,2024,1,Q1,Rabi Peak,C0052,Gopalganj,Farmer,Tawa (Plough),1,30241,30241,2,604.82,29636.18,UPI,Delivered
+S00288,2023-11-27,2023,11,Q4,Rabi Prep,C0102,Gopalganj,Dealer,Rotavator,1,95322,95322,0,0.0,95322.0,UPI,Delivered
+S00289,2023-11-21,2023,11,Q4,Rabi Prep,C0294,Chapra (Saran),Farmer,Rotavator,1,121829,121829,8,9746.32,112082.68,Bank Transfer,Delivered
+S00290,2024-08-26,2024,8,Q3,Kharif Peak,C0262,Muzaffarpur,Farmer,Tawa (Plough),1,30398,30398,2,607.96,29790.04,Cash,Delivered
+S00291,2024-12-19,2024,12,Q4,Rabi Peak,C0184,Siwan,Farmer,Tawa (Plough),1,30831,30831,5,1541.55,29289.45,UPI,Delivered
+S00292,2023-11-22,2023,11,Q4,Rabi Prep,C0038,Sitamarhi,Farmer,Tawa (Plough),1,38033,38033,2,760.66,37272.34,EMI/Finance,Delivered
+S00293,2023-03-21,2023,3,Q1,Off-Season,C0089,Siwan,Farmer,Cultivator,1,55939,55939,5,2796.95,53142.05,Cash,Delivered
+S00294,2024-10-16,2024,10,Q4,Rabi Prep,C0080,Begusarai,Cooperative,Threshing Machine,1,77003,77003,0,0.0,77003.0,Cash,Delivered
+S00295,2023-09-20,2023,9,Q3,Kharif Peak,C0346,Gopalganj,Farmer,Tawa (Plough),1,41606,41606,0,0.0,41606.0,Bank Transfer,Pending
+S00296,2024-02-28,2024,2,Q1,Off-Season,C0102,Gopalganj,Dealer,Zero Till Seed Drill,1,169638,169638,0,0.0,169638.0,Bank Transfer,Delivered
+S00297,2024-08-14,2024,8,Q3,Kharif Peak,C0167,Gopalganj,Farmer,Threshing Machine,1,69783,69783,0,0.0,69783.0,Bank Transfer,Delivered
+S00298,2023-11-23,2023,11,Q4,Rabi Prep,C0094,Madhubani,Farmer,Cultivator,1,41863,41863,0,0.0,41863.0,UPI,Delivered
+S00299,2024-07-14,2024,7,Q3,Kharif Prep,C0059,Chapra (Saran),Farmer,Tawa (Plough),1,21050,21050,10,2105.0,18945.0,EMI/Finance,Delivered
+S00300,2024-03-17,2024,3,Q1,Off-Season,C0048,Araria,Farmer,Tawa (Plough),1,23406,23406,0,0.0,23406.0,Cash,Delivered
+S00301,2023-07-14,2023,7,Q3,Kharif Prep,C0116,Vaishali,Farmer,Harvester,1,740514,740514,2,14810.28,725703.72,Cash,Delivered
+S00302,2023-09-01,2023,9,Q3,Kharif Peak,C0164,Madhubani,Farmer,Rotavator,1,110749,110749,5,5537.45,105211.55,Cash,Delivered
+S00303,2024-03-13,2024,3,Q1,Off-Season,C0199,Gopalganj,Farmer,Rotavator,1,138994,138994,2,2779.88,136214.12,Cash,Delivered
+S00304,2023-06-24,2023,6,Q2,Kharif Prep,C0043,Gopalganj,Farmer,Threshing Machine,1,60369,60369,0,0.0,60369.0,Bank Transfer,Delivered
+S00305,2024-11-07,2024,11,Q4,Rabi Prep,C0034,Siwan,Farmer,Cultivator,1,70659,70659,0,0.0,70659.0,UPI,Delivered
+S00306,2023-02-15,2023,2,Q1,Off-Season,C0242,Chapra (Saran),Farmer,Cultivator,1,65478,65478,5,3273.9,62204.1,UPI,Delivered
+S00307,2024-12-14,2024,12,Q4,Rabi Peak,C0333,Samastipur,Farmer,Threshing Machine,1,60616,60616,5,3030.8,57585.2,UPI,Delivered
+S00308,2023-08-21,2023,8,Q3,Kharif Peak,C0015,East Champaran,Cooperative,Zero Till Seed Drill,1,170738,170738,0,0.0,170738.0,UPI,Delivered
+S00309,2024-05-01,2024,5,Q2,Off-Season,C0028,Chapra (Saran),Cooperative,Zero Till Seed Drill,1,150886,150886,0,0.0,150886.0,EMI/Finance,Delivered
+S00310,2024-05-29,2024,5,Q2,Off-Season,C0186,Darbhanga,Farmer,Zero Till Seed Drill,1,187740,187740,2,3754.8,183985.2,UPI,Delivered
+S00311,2024-04-04,2024,4,Q2,Off-Season,C0250,Muzaffarpur,Farmer,Rotavator,2,95955,191910,5,9595.5,182314.5,Cash,Delivered
+S00312,2024-11-30,2024,11,Q4,Rabi Prep,C0069,Samastipur,Farmer,Harvester,1,778847,778847,2,15576.94,763270.06,Cash,Delivered
+S00313,2023-03-10,2023,3,Q1,Off-Season,C0114,Darbhanga,Farmer,Rotavator,1,121461,121461,0,0.0,121461.0,Cash,Delivered
+S00314,2023-01-13,2023,1,Q1,Rabi Peak,C0144,Sitamarhi,Farmer,Tawa (Plough),1,38416,38416,5,1920.8,36495.2,Cash,Delivered
+S00315,2024-08-03,2024,8,Q3,Kharif Peak,C0258,Patna,Farmer,Zero Till Seed Drill,2,219402,438804,0,0.0,438804.0,Cash,Delivered
+S00316,2023-10-20,2023,10,Q4,Rabi Prep,C0217,Gopalganj,Farmer,Tawa (Plough),1,29267,29267,0,0.0,29267.0,Bank Transfer,Delivered
+S00317,2024-04-29,2024,4,Q2,Off-Season,C0026,Gopalganj,Dealer,Rotavator,1,103049,103049,2,2060.98,100988.02,Bank Transfer,Delivered
+S00318,2024-02-10,2024,2,Q1,Off-Season,C0321,Siwan,Cooperative,Tawa (Plough),1,28862,28862,0,0.0,28862.0,UPI,Delivered
+S00319,2024-01-17,2024,1,Q1,Rabi Peak,C0344,Chapra (Saran),Farmer,Rotavator,1,138568,138568,0,0.0,138568.0,Bank Transfer,Delivered
+S00320,2024-12-02,2024,12,Q4,Rabi Peak,C0330,Madhubani,Farmer,Rotavator,1,141944,141944,0,0.0,141944.0,Bank Transfer,Delivered
+S00321,2023-11-25,2023,11,Q4,Rabi Prep,C0117,Chapra (Saran),Farmer,Cultivator,1,62313,62313,0,0.0,62313.0,UPI,Delivered
+S00322,2024-02-21,2024,2,Q1,Off-Season,C0331,Muzaffarpur,Farmer,Threshing Machine,1,88849,88849,5,4442.45,84406.55,UPI,Delivered
+S00323,2023-11-15,2023,11,Q4,Rabi Prep,C0001,Darbhanga,Farmer,Threshing Machine,1,81436,81436,5,4071.8,77364.2,EMI/Finance,Delivered
+S00324,2023-07-17,2023,7,Q3,Kharif Prep,C0030,Darbhanga,Dealer,Tawa (Plough),1,24577,24577,0,0.0,24577.0,UPI,Delivered
+S00325,2024-12-22,2024,12,Q4,Rabi Peak,C0201,Sitamarhi,Farmer,Rotavator,1,109140,109140,0,0.0,109140.0,UPI,Delivered
+S00326,2023-02-01,2023,2,Q1,Off-Season,C0114,Darbhanga,Farmer,Cultivator,1,67033,67033,0,0.0,67033.0,EMI/Finance,Delivered
+S00327,2023-12-25,2023,12,Q4,Rabi Peak,C0111,Muzaffarpur,Farmer,Cultivator,1,51951,51951,2,1039.02,50911.98,Cash,Delivered
+S00328,2023-06-16,2023,6,Q2,Kharif Prep,C0011,West Champaran,Dealer,Tawa (Plough),2,43553,87106,5,4355.3,82750.7,UPI,Delivered
+S00329,2023-10-03,2023,10,Q4,Rabi Prep,C0316,Sitamarhi,Farmer,Threshing Machine,1,88638,88638,5,4431.9,84206.1,Bank Transfer,Delivered
+S00330,2023-05-16,2023,5,Q2,Off-Season,C0188,West Champaran,Farmer,Threshing Machine,1,94396,94396,0,0.0,94396.0,UPI,Pending
+S00331,2024-12-30,2024,12,Q4,Rabi Peak,C0074,Darbhanga,Farmer,Tawa (Plough),1,39061,39061,5,1953.05,37107.95,EMI/Finance,Delivered
+S00332,2023-08-12,2023,8,Q3,Kharif Peak,C0030,Darbhanga,Dealer,Harvester,1,805045,805045,2,16100.9,788944.1,UPI,Delivered
+S00333,2024-11-09,2024,11,Q4,Rabi Prep,C0198,Patna,Dealer,Tawa (Plough),1,30262,30262,2,605.24,29656.76,Cash,Delivered
+S00334,2024-05-08,2024,5,Q2,Off-Season,C0323,Patna,Dealer,Rotavator,1,103119,103119,5,5155.95,97963.05,Cash,Delivered
+S00335,2024-10-29,2024,10,Q4,Rabi Prep,C0145,Muzaffarpur,Farmer,Cultivator,1,44825,44825,0,0.0,44825.0,Cash,Delivered
+S00337,2023-09-23,2023,9,Q3,Kharif Peak,C0276,Gopalganj,Farmer,Tawa (Plough),1,31257,31257,0,0.0,31257.0,Bank Transfer,Delivered
+S00338,2023-07-14,2023,7,Q3,Kharif Prep,C0348,Purnia,Farmer,Cultivator,1,49572,49572,2,991.44,48580.56,UPI,Pending
+S00339,2024-01-03,2024,1,Q1,Rabi Peak,C0338,Madhubani,Farmer,Zero Till Seed Drill,1,142280,142280,5,7114.0,135166.0,Cash,Delivered
+S00340,2023-05-12,2023,5,Q2,Off-Season,C0101,Madhubani,Cooperative,Threshing Machine,1,91636,91636,0,0.0,91636.0,Bank Transfer,Delivered
+S00341,2023-04-02,2023,4,Q2,Off-Season,C0075,Gopalganj,Dealer,Cultivator,1,49636,49636,0,0.0,49636.0,Bank Transfer,Delivered
+S00342,2023-09-24,2023,9,Q3,Kharif Peak,C0162,East Champaran,Farmer,Zero Till Seed Drill,1,180786,180786,0,0.0,180786.0,EMI/Finance,Delivered
+S00343,2024-09-27,2024,9,Q3,Kharif Peak,C0202,Siwan,Farmer,Rotavator,1,143289,143289,0,0.0,143289.0,Bank Transfer,Delivered
+S00345,2024-04-13,2024,4,Q2,Off-Season,C0037,Muzaffarpur,Farmer,Rotavator,1,141517,141517,5,7075.85,134441.15,UPI,Delivered
+S00346,2023-07-01,2023,7,Q3,Kharif Prep,C0196,Samastipur,Farmer,Cultivator,1,38801,38801,0,0.0,38801.0,Bank Transfer,Delivered
+S00347,2023-06-12,2023,6,Q2,Kharif Prep,C0104,Bhagalpur,Dealer,Zero Till Seed Drill,1,131539,131539,0,0.0,131539.0,UPI,Delivered
+S00348,2024-05-03,2024,5,Q2,Off-Season,C0118,Samastipur,Cooperative,Cultivator,1,37472,37472,2,749.44,36722.56,EMI/Finance,Delivered
+S00349,2024-06-27,2024,6,Q2,Kharif Prep,C0095,Gopalganj,Farmer,Rotavator,1,129351,129351,2,2587.02,126763.98,Cash,Delivered
+S00350,2023-11-16,2023,11,Q4,Rabi Prep,C0285,Patna,Cooperative,Rotavator,1,110136,110136,0,0.0,110136.0,Cash,Delivered
+S00352,2023-12-17,2023,12,Q4,Rabi Peak,C0302,Chapra (Saran),Dealer,Tawa (Plough),1,34062,34062,0,0.0,34062.0,EMI/Finance,Delivered
+S00353,2024-02-18,2024,2,Q1,Off-Season,C0171,West Champaran,Cooperative,Rotavator,1,99701,99701,0,0.0,99701.0,Bank Transfer,Delivered
+S00354,2023-06-23,2023,6,Q2,Kharif Prep,C0204,Bhagalpur,Farmer,Rotavator,1,131603,131603,0,0.0,131603.0,EMI/Finance,Delivered
+S00355,2024-07-01,2024,7,Q3,Kharif Prep,C0260,Chapra (Saran),Cooperative,Threshing Machine,3,93923,281769,2,5635.38,276133.62,Bank Transfer,Delivered
+S00356,2024-12-07,2024,12,Q4,Rabi Peak,C0077,Patna,Farmer,Rotavator,1,114118,114118,0,0.0,114118.0,UPI,Delivered
+S00357,2024-12-12,2024,12,Q4,Rabi Peak,C0241,Muzaffarpur,Farmer,Threshing Machine,1,55609,55609,2,1112.18,54496.82,Bank Transfer,Delivered
+S00358,2024-09-12,2024,9,Q3,Kharif Peak,C0230,Bhagalpur,Cooperative,Threshing Machine,1,82448,82448,0,0.0,82448.0,Bank Transfer,Delivered
+S00359,2023-04-27,2023,4,Q2,Off-Season,C0018,Siwan,Cooperative,Tawa (Plough),1,34309,34309,0,0.0,34309.0,Cash,Delivered
+S00360,2023-07-26,2023,7,Q3,Kharif Prep,C0350,Vaishali,Dealer,Cultivator,1,61853,61853,0,0.0,61853.0,UPI,Delivered
+S00361,2024-05-07,2024,5,Q2,Off-Season,C0162,East Champaran,Farmer,Cultivator,1,35179,35179,0,0.0,35179.0,Cash,Delivered
+S00362,2024-05-20,2024,5,Q2,Off-Season,C0217,Gopalganj,Farmer,Rotavator,1,90903,90903,0,0.0,90903.0,Bank Transfer,Delivered
+S00363,2024-10-21,2024,10,Q4,Rabi Prep,C0089,Siwan,Farmer,Cultivator,1,54400,54400,0,0.0,54400.0,Bank Transfer,Delivered
+S00364,2023-10-25,2023,10,Q4,Rabi Prep,C0341,Vaishali,Farmer,Cultivator,1,55493,55493,0,0.0,55493.0,EMI/Finance,Delivered
+S00365,2023-01-10,2023,1,Q1,Rabi Peak,C0221,Darbhanga,Farmer,Tawa (Plough),1,39736,39736,0,0.0,39736.0,EMI/Finance,Pending
+S00366,2023-10-02,2023,10,Q4,Rabi Prep,C0094,Madhubani,Farmer,Tawa (Plough),1,21045,21045,0,0.0,21045.0,Cash,Delivered
+S00367,2024-04-12,2024,4,Q2,Off-Season,C0286,Katihar,Farmer,Cultivator,1,60278,60278,0,0.0,60278.0,UPI,Delivered
+S00368,2023-06-20,2023,6,Q2,Kharif Prep,C0237,West Champaran,Farmer,Rotavator,1,130624,130624,10,13062.4,117561.6,Bank Transfer,Delivered
+S00369,2024-08-27,2024,8,Q3,Kharif Peak,C0253,Muzaffarpur,Dealer,Zero Till Seed Drill,1,194572,194572,0,0.0,194572.0,UPI,Delivered
+S00370,2023-01-30,2023,1,Q1,Rabi Peak,C0249,Chapra (Saran),Farmer,Tawa (Plough),2,41831,83662,0,0.0,83662.0,EMI/Finance,Delivered
+S00371,2024-02-26,2024,2,Q1,Off-Season,C0309,Chapra (Saran),Farmer,Harvester,1,483206,483206,0,0.0,483206.0,Bank Transfer,Delivered
+S00372,2024-08-13,2024,8,Q3,Kharif Peak,C0115,Chapra (Saran),Cooperative,Threshing Machine,2,69679,139358,2,2787.16,136570.84,Cash,Delivered
+S00373,2024-12-18,2024,12,Q4,Rabi Peak,C0163,Chapra (Saran),Dealer,Threshing Machine,1,83367,83367,0,0.0,83367.0,Cash,Delivered
+S00374,2024-01-30,2024,1,Q1,Rabi Peak,C0263,Sitamarhi,Farmer,Rotavator,1,139161,139161,10,13916.1,125244.9,Cash,Delivered
+S00375,2023-06-10,2023,6,Q2,Kharif Prep,C0222,Gopalganj,Farmer,Zero Till Seed Drill,1,181510,181510,5,9075.5,172434.5,Cash,Delivered
+S00376,2023-09-04,2023,9,Q3,Kharif Peak,C0186,Darbhanga,Farmer,Cultivator,1,53229,53229,0,0.0,53229.0,UPI,Delivered
+S00377,2023-08-29,2023,8,Q3,Kharif Peak,C0163,Chapra (Saran),Dealer,Rotavator,1,114110,114110,0,0.0,114110.0,EMI/Finance,Delivered
+S00378,2023-05-02,2023,5,Q2,Off-Season,C0238,Siwan,Farmer,Tawa (Plough),1,42419,42419,0,0.0,42419.0,UPI,Delivered
+S00379,2023-01-01,2023,1,Q1,Rabi Peak,C0161,Chapra (Saran),Farmer,Tawa (Plough),1,43945,43945,2,878.9,43066.1,Cash,Delivered
+S00380,2023-07-31,2023,7,Q3,Kharif Prep,C0021,Patna,Farmer,Threshing Machine,2,84898,169796,0,0.0,169796.0,Cash,Delivered
+S00381,2024-04-10,2024,4,Q2,Off-Season,C0093,Siwan,Farmer,Cultivator,1,74318,74318,2,1486.36,72831.64,Bank Transfer,Delivered
+S00382,2024-11-05,2024,11,Q4,Rabi Prep,C0007,West Champaran,Farmer,Cultivator,1,57371,57371,2,1147.42,56223.58,Bank Transfer,Delivered
+S00383,2024-01-18,2024,1,Q1,Rabi Peak,C0236,Chapra (Saran),Farmer,Threshing Machine,2,58000,116000,0,0.0,116000.0,Bank Transfer,Delivered
+S00384,2024-02-24,2024,2,Q1,Off-Season,C0325,Siwan,Cooperative,Rotavator,1,125032,125032,0,0.0,125032.0,EMI/Finance,Delivered
+S00385,2023-07-15,2023,7,Q3,Kharif Prep,C0344,Chapra (Saran),Farmer,Threshing Machine,1,62062,62062,0,0.0,62062.0,UPI,Delivered
+S00386,2023-05-07,2023,5,Q2,Off-Season,C0280,Vaishali,Farmer,Tawa (Plough),1,32762,32762,2,655.24,32106.76,UPI,Pending
+S00387,2023-01-05,2023,1,Q1,Rabi Peak,C0242,Chapra (Saran),Farmer,Zero Till Seed Drill,1,126366,126366,0,0.0,126366.0,UPI,Delivered
+S00388,2023-07-01,2023,7,Q3,Kharif Prep,C0271,Gopalganj,Cooperative,Threshing Machine,1,66380,66380,0,0.0,66380.0,UPI,Delivered
+S00389,2023-11-26,2023,11,Q4,Rabi Prep,C0090,Samastipur,Dealer,Zero Till Seed Drill,1,170418,170418,2,3408.36,167009.64,Bank Transfer,Delivered
+S00390,2024-02-12,2024,2,Q1,Off-Season,C0242,Chapra (Saran),Farmer,Tawa (Plough),1,27639,27639,0,0.0,27639.0,UPI,Delivered
+S00391,2024-06-08,2024,6,Q2,Kharif Prep,C0267,Siwan,Farmer,Cultivator,1,70901,70901,2,1418.02,69482.98,EMI/Finance,Delivered
+S00393,2024-10-27,2024,10,Q4,Rabi Prep,C0030,Darbhanga,Dealer,Tawa (Plough),1,23826,23826,2,476.52,23349.48,Cash,Delivered
+S00394,2023-12-27,2023,12,Q4,Rabi Peak,C0122,Siwan,Farmer,Zero Till Seed Drill,1,196389,196389,2,3927.78,192461.22,UPI,Delivered
+S00395,2024-06-30,2024,6,Q2,Kharif Prep,C0073,Gopalganj,Farmer,Cultivator,1,62681,62681,0,0.0,62681.0,Cash,Delivered
+S00396,2024-11-17,2024,11,Q4,Rabi Prep,C0220,Samastipur,Cooperative,Rotavator,1,102496,102496,0,0.0,102496.0,Cash,Delivered
+S00397,2023-03-05,2023,3,Q1,Off-Season,C0249,Chapra (Saran),Farmer,Threshing Machine,1,74342,74342,0,0.0,74342.0,UPI,Delivered
+S00398,2024-09-22,2024,9,Q3,Kharif Peak,C0226,Chapra (Saran),Farmer,Tawa (Plough),1,42231,42231,0,0.0,42231.0,UPI,Delivered
+S00399,2024-06-07,2024,6,Q2,Kharif Prep,C0177,Siwan,Farmer,Tawa (Plough),1,44175,44175,2,883.5,43291.5,Cash,Delivered
+S00400,2024-03-02,2024,3,Q1,Off-Season,C0134,Patna,Farmer,Tawa (Plough),1,40450,40450,2,809.0,39641.0,Cash,Delivered
+S00401,2024-09-27,2024,9,Q3,Kharif Peak,C0043,Gopalganj,Farmer,Tawa (Plough),1,32518,32518,8,2601.44,29916.56,Bank Transfer,Delivered
+S00402,2024-08-25,2024,8,Q3,Kharif Peak,C0119,Gopalganj,Farmer,Zero Till Seed Drill,1,199087,199087,2,3981.74,195105.26,Cash,Delivered
+S00403,2024-11-30,2024,11,Q4,Rabi Prep,C0060,Gopalganj,Farmer,Rotavator,1,96389,96389,0,0.0,96389.0,Cash,Delivered
+S00404,2023-09-28,2023,9,Q3,Kharif Peak,C0068,Samastipur,Dealer,Rotavator,1,123272,123272,0,0.0,123272.0,UPI,Delivered
+S00405,2023-02-10,2023,2,Q1,Off-Season,C0236,Chapra (Saran),Farmer,Rotavator,1,106143,106143,5,5307.15,100835.85,UPI,Delivered
+S00406,2023-11-05,2023,11,Q4,Rabi Prep,C0175,East Champaran,Dealer,Zero Till Seed Drill,1,195061,195061,0,0.0,195061.0,Bank Transfer,Delivered
+S00407,2023-07-08,2023,7,Q3,Kharif Prep,C0205,Gopalganj,Farmer,Zero Till Seed Drill,1,186209,186209,0,0.0,186209.0,UPI,Delivered
+S00408,2023-08-07,2023,8,Q3,Kharif Peak,C0340,East Champaran,Farmer,Threshing Machine,1,76696,76696,0,0.0,76696.0,Bank Transfer,Delivered
+S00409,2024-07-28,2024,7,Q3,Kharif Prep,C0310,Araria,Farmer,Tawa (Plough),1,39276,39276,2,785.52,38490.48,UPI,Delivered
+S00410,2024-09-20,2024,9,Q3,Kharif Peak,C0040,Begusarai,Farmer,Tawa (Plough),2,25989,51978,2,1039.56,50938.44,Cash,Delivered
+S00411,2023-04-27,2023,4,Q2,Off-Season,C0333,Samastipur,Farmer,Cultivator,1,70404,70404,0,0.0,70404.0,UPI,Delivered
+S00412,2024-06-10,2024,6,Q2,Kharif Prep,C0053,Muzaffarpur,Farmer,Tawa (Plough),1,32600,32600,0,0.0,32600.0,Bank Transfer,Delivered
+S00413,2023-03-26,2023,3,Q1,Off-Season,C0100,East Champaran,Dealer,Tawa (Plough),2,23485,46970,5,2348.5,44621.5,UPI,Delivered
+S00414,2023-08-04,2023,8,Q3,Kharif Peak,C0253,Muzaffarpur,Dealer,Threshing Machine,1,68970,68970,0,0.0,68970.0,Cash,Delivered
+S00415,2024-12-20,2024,12,Q4,Rabi Peak,C0045,Bhagalpur,Farmer,Tawa (Plough),1,42293,42293,2,845.86,41447.14,EMI/Finance,Delivered
+S00416,2023-06-07,2023,6,Q2,Kharif Prep,C0257,Bhagalpur,Dealer,Rotavator,1,131980,131980,0,0.0,131980.0,Cash,Delivered
+S00417,2024-07-25,2024,7,Q3,Kharif Prep,C0060,Gopalganj,Farmer,Rotavator,1,138845,138845,0,0.0,138845.0,UPI,Delivered
+S00418,2024-03-19,2024,3,Q1,Off-Season,C0114,Darbhanga,Farmer,Cultivator,1,60526,60526,0,0.0,60526.0,UPI,Delivered
+S00419,2024-08-22,2024,8,Q3,Kharif Peak,C0260,Chapra (Saran),Cooperative,Rotavator,1,140590,140590,8,11247.2,129342.8,Cash,Delivered
+S00420,2023-11-05,2023,11,Q4,Rabi Prep,C0266,Darbhanga,Farmer,Threshing Machine,1,73449,73449,0,0.0,73449.0,UPI,Delivered
+S00421,2024-04-30,2024,4,Q2,Off-Season,C0191,East Champaran,Farmer,Rotavator,1,99409,99409,0,0.0,99409.0,Bank Transfer,Delivered
+S00422,2024-10-11,2024,10,Q4,Rabi Prep,C0331,Muzaffarpur,Farmer,Rotavator,2,129386,258772,8,20701.76,238070.24,EMI/Finance,Delivered
+S00423,2023-01-12,2023,1,Q1,Rabi Peak,C0346,Gopalganj,Farmer,Zero Till Seed Drill,1,192754,192754,0,0.0,192754.0,UPI,Delivered
+S00424,2024-07-14,2024,7,Q3,Kharif Prep,C0046,Darbhanga,Cooperative,Tawa (Plough),1,27984,27984,2,559.68,27424.32,Bank Transfer,Delivered
+S00425,2024-10-23,2024,10,Q4,Rabi Prep,C0069,Samastipur,Farmer,Tawa (Plough),1,22667,22667,0,0.0,22667.0,Bank Transfer,Delivered
+S00427,2024-04-17,2024,4,Q2,Off-Season,C0109,Samastipur,Farmer,Threshing Machine,1,59793,59793,0,0.0,59793.0,Cash,Delivered
+S00428,2024-05-13,2024,5,Q2,Off-Season,C0315,Samastipur,Farmer,Tawa (Plough),1,29702,29702,2,594.04,29107.96,Cash,Delivered
+S00429,2023-07-18,2023,7,Q3,Kharif Prep,C0014,Gopalganj,Farmer,Cultivator,1,64533,64533,2,1290.66,63242.34,Bank Transfer,Delivered
+S00430,2024-08-03,2024,8,Q3,Kharif Peak,C0009,Purnia,Farmer,Cultivator,2,55731,111462,0,0.0,111462.0,Cash,Delivered
+S00431,2024-12-30,2024,12,Q4,Rabi Peak,C0078,Samastipur,Farmer,Threshing Machine,1,83581,83581,0,0.0,83581.0,Bank Transfer,Delivered
+S00432,2024-05-06,2024,5,Q2,Off-Season,C0348,Purnia,Farmer,Harvester,1,638083,638083,0,0.0,638083.0,Cash,Delivered
+S00433,2023-03-25,2023,3,Q1,Off-Season,C0084,Gopalganj,Dealer,Tawa (Plough),2,22587,45174,0,0.0,45174.0,Bank Transfer,Delivered
+S00434,2023-03-19,2023,3,Q1,Off-Season,C0312,Samastipur,Farmer,Tawa (Plough),1,34619,34619,5,1730.95,32888.05,UPI,Delivered
+S00435,2023-08-06,2023,8,Q3,Kharif Peak,C0187,Sitamarhi,Farmer,Tawa (Plough),1,36074,36074,5,1803.7,34270.3,UPI,Delivered
+S00436,2023-06-02,2023,6,Q2,Kharif Prep,C0222,Gopalganj,Farmer,Cultivator,2,49634,99268,2,1985.36,97282.64,EMI/Finance,Delivered
+S00437,2024-05-28,2024,5,Q2,Off-Season,C0336,Vaishali,Farmer,Zero Till Seed Drill,1,172007,172007,0,0.0,172007.0,Cash,Pending
+S00438,2024-09-20,2024,9,Q3,Kharif Peak,C0169,Samastipur,Dealer,Threshing Machine,1,88694,88694,0,0.0,88694.0,UPI,Delivered
+S00439,2023-05-30,2023,5,Q2,Off-Season,C0213,Sitamarhi,Cooperative,Threshing Machine,2,86686,173372,0,0.0,173372.0,Bank Transfer,Delivered
+S00440,2023-09-28,2023,9,Q3,Kharif Peak,C0051,Gopalganj,Farmer,Cultivator,1,37805,37805,0,0.0,37805.0,Bank Transfer,Delivered
+S00441,2024-04-10,2024,4,Q2,Off-Season,C0254,Siwan,Farmer,Tawa (Plough),3,19307,57921,0,0.0,57921.0,Bank Transfer,Delivered
+S00442,2023-10-08,2023,10,Q4,Rabi Prep,C0254,Siwan,Farmer,Tawa (Plough),1,26628,26628,2,532.56,26095.44,UPI,Delivered
+S00443,2024-08-24,2024,8,Q3,Kharif Peak,C0164,Madhubani,Farmer,Threshing Machine,1,60101,60101,0,0.0,60101.0,EMI/Finance,Delivered
+S00444,2023-12-28,2023,12,Q4,Rabi Peak,C0104,Bhagalpur,Dealer,Tawa (Plough),1,29306,29306,0,0.0,29306.0,UPI,Delivered
+S00445,2023-05-23,2023,5,Q2,Off-Season,C0084,Gopalganj,Dealer,Harvester,1,570581,570581,2,11411.62,559169.38,Cash,Delivered
+S00446,2024-01-06,2024,1,Q1,Rabi Peak,C0284,Muzaffarpur,Farmer,Threshing Machine,1,62754,62754,0,0.0,62754.0,Cash,Delivered
+S00447,2024-11-22,2024,11,Q4,Rabi Prep,C0043,Gopalganj,Farmer,Harvester,1,560469,560469,2,11209.38,549259.62,UPI,Delivered
+S00448,2023-05-11,2023,5,Q2,Off-Season,C0182,Darbhanga,Cooperative,Zero Till Seed Drill,1,141119,141119,0,0.0,141119.0,EMI/Finance,Delivered
+S00449,2023-06-20,2023,6,Q2,Kharif Prep,C0068,Samastipur,Dealer,Cultivator,1,46798,46798,0,0.0,46798.0,EMI/Finance,Delivered
+S00450,2024-11-08,2024,11,Q4,Rabi Prep,C0087,Gopalganj,Dealer,Tawa (Plough),1,20809,20809,2,416.18,20392.82,UPI,Delivered
+S00451,2023-08-13,2023,8,Q3,Kharif Peak,C0002,Gopalganj,Dealer,Tawa (Plough),1,37688,37688,2,753.76,36934.24,Bank Transfer,Delivered
+S00452,2024-06-07,2024,6,Q2,Kharif Prep,C0183,Muzaffarpur,Dealer,Cultivator,2,57457,114914,2,2298.28,112615.72,Cash,Delivered
+S00453,2023-05-16,2023,5,Q2,Off-Season,C0226,Chapra (Saran),Farmer,Rotavator,1,98261,98261,8,7860.88,90400.12,Bank Transfer,Delivered
+S00454,2024-09-12,2024,9,Q3,Kharif Peak,C0080,Begusarai,Cooperative,Rotavator,2,116186,232372,2,4647.44,227724.56,EMI/Finance,Delivered
+S00455,2023-05-01,2023,5,Q2,Off-Season,C0106,Chapra (Saran),Farmer,Rotavator,1,128213,128213,2,2564.26,125648.74,Bank Transfer,Delivered
+S00456,2024-11-25,2024,11,Q4,Rabi Prep,C0297,Begusarai,Dealer,Threshing Machine,1,89212,89212,5,4460.6,84751.4,Bank Transfer,Delivered
+S00457,2024-05-08,2024,5,Q2,Off-Season,C0240,Vaishali,Farmer,Tawa (Plough),1,30492,30492,5,1524.6,28967.4,EMI/Finance,Delivered
+S00458,2024-08-12,2024,8,Q3,Kharif Peak,C0062,West Champaran,Dealer,Rotavator,1,93774,93774,5,4688.7,89085.3,EMI/Finance,Delivered
+S00459,2024-09-04,2024,9,Q3,Kharif Peak,C0009,Purnia,Farmer,Tawa (Plough),1,31390,31390,0,0.0,31390.0,Bank Transfer,Delivered
+S00460,2024-06-19,2024,6,Q2,Kharif Prep,C0246,Patna,Farmer,Rotavator,1,85471,85471,0,0.0,85471.0,Bank Transfer,Delivered
+S00461,2023-04-20,2023,4,Q2,Off-Season,C0207,Bhagalpur,Farmer,Rotavator,1,127701,127701,0,0.0,127701.0,UPI,Delivered
+S00462,2024-09-18,2024,9,Q3,Kharif Peak,C0337,Gopalganj,Farmer,Cultivator,1,61047,61047,0,0.0,61047.0,Bank Transfer,Delivered
+S00463,2024-01-15,2024,1,Q1,Rabi Peak,C0232,Muzaffarpur,Farmer,Zero Till Seed Drill,1,183407,183407,0,0.0,183407.0,Cash,Delivered
+S00464,2023-05-22,2023,5,Q2,Off-Season,C0223,West Champaran,Farmer,Tawa (Plough),1,39603,39603,0,0.0,39603.0,Bank Transfer,Pending
+S00465,2023-04-13,2023,4,Q2,Off-Season,C0096,Patna,Dealer,Rotavator,1,111251,111251,5,5562.55,105688.45,UPI,Delivered
+S00466,2023-02-23,2023,2,Q1,Off-Season,C0347,Chapra (Saran),Farmer,Rotavator,1,126672,126672,0,0.0,126672.0,Cash,Delivered
+S00467,2024-03-21,2024,3,Q1,Off-Season,C0123,Gopalganj,Farmer,Rotavator,1,102241,102241,0,0.0,102241.0,Cash,Delivered
+S00468,2024-02-15,2024,2,Q1,Off-Season,C0102,Gopalganj,Dealer,Threshing Machine,1,89144,89144,8,7131.52,82012.48,Cash,Delivered
+S00469,2023-06-29,2023,6,Q2,Kharif Prep,C0036,Madhubani,Cooperative,Threshing Machine,1,83768,83768,5,4188.4,79579.6,EMI/Finance,Delivered
+S00470,2023-07-19,2023,7,Q3,Kharif Prep,C0263,Sitamarhi,Farmer,Rotavator,1,124289,124289,2,2485.78,121803.22,UPI,Delivered
+S00471,2024-01-04,2024,1,Q1,Rabi Peak,C0035,Chapra (Saran),Farmer,Cultivator,2,35018,70036,0,0.0,70036.0,Cash,Delivered
+S00472,2024-11-16,2024,11,Q4,Rabi Prep,C0104,Bhagalpur,Dealer,Cultivator,1,73409,73409,0,0.0,73409.0,Bank Transfer,Delivered
+S00473,2024-07-16,2024,7,Q3,Kharif Prep,C0148,Chapra (Saran),Farmer,Cultivator,2,71642,143284,0,0.0,143284.0,EMI/Finance,Delivered
+S00474,2024-09-12,2024,9,Q3,Kharif Peak,C0203,Gopalganj,Farmer,Tawa (Plough),2,32901,65802,2,1316.04,64485.96,Cash,Delivered
+S00475,2023-04-20,2023,4,Q2,Off-Season,C0073,Gopalganj,Farmer,Zero Till Seed Drill,1,185951,185951,8,14876.08,171074.92,Bank Transfer,Pending
+S00476,2024-07-04,2024,7,Q3,Kharif Prep,C0082,Patna,Farmer,Tawa (Plough),1,36838,36838,0,0.0,36838.0,UPI,Delivered
+S00477,2023-09-07,2023,9,Q3,Kharif Peak,C0111,Muzaffarpur,Farmer,Tawa (Plough),1,43414,43414,0,0.0,43414.0,UPI,Delivered
+S00478,2023-04-30,2023,4,Q2,Off-Season,C0115,Chapra (Saran),Cooperative,Cultivator,1,60078,60078,10,6007.8,54070.2,Bank Transfer,Delivered
+S00479,2023-11-20,2023,11,Q4,Rabi Prep,C0285,Patna,Cooperative,Harvester,1,635124,635124,0,0.0,635124.0,Bank Transfer,Delivered
+S00480,2023-04-06,2023,4,Q2,Off-Season,C0157,West Champaran,Dealer,Cultivator,1,57412,57412,8,4592.96,52819.04,UPI,Delivered
+S00481,2024-08-10,2024,8,Q3,Kharif Peak,C0032,Siwan,Farmer,Cultivator,1,47462,47462,0,0.0,47462.0,Bank Transfer,Delivered
+S00482,2023-07-31,2023,7,Q3,Kharif Prep,C0194,Patna,Farmer,Cultivator,1,51364,51364,0,0.0,51364.0,Bank Transfer,Delivered
+S00483,2023-03-22,2023,3,Q1,Off-Season,C0122,Siwan,Farmer,Threshing Machine,1,87287,87287,5,4364.35,82922.65,UPI,Delivered
+S00484,2024-05-08,2024,5,Q2,Off-Season,C0031,Gopalganj,Farmer,Cultivator,1,55671,55671,10,5567.1,50103.9,EMI/Finance,Delivered
+S00485,2024-05-17,2024,5,Q2,Off-Season,C0279,Siwan,Farmer,Rotavator,2,135086,270172,0,0.0,270172.0,Cash,Delivered
+S00486,2023-02-25,2023,2,Q1,Off-Season,C0070,Gopalganj,Farmer,Zero Till Seed Drill,1,175466,175466,0,0.0,175466.0,UPI,Delivered
+S00487,2024-12-03,2024,12,Q4,Rabi Peak,C0227,Chapra (Saran),Farmer,Tawa (Plough),2,32981,65962,2,1319.24,64642.76,UPI,Delivered
+S00488,2023-01-13,2023,1,Q1,Rabi Peak,C0317,Patna,Cooperative,Threshing Machine,1,79866,79866,0,0.0,79866.0,UPI,Delivered
+S00489,2024-07-15,2024,7,Q3,Kharif Prep,C0324,East Champaran,Dealer,Cultivator,1,52655,52655,2,1053.1,51601.9,UPI,Delivered
+S00490,2023-08-04,2023,8,Q3,Kharif Peak,C0169,Samastipur,Dealer,Harvester,1,844367,844367,5,42218.35,802148.65,Cash,Delivered
+S00491,2023-05-15,2023,5,Q2,Off-Season,C0031,Gopalganj,Farmer,Tawa (Plough),1,40479,40479,0,0.0,40479.0,Cash,Delivered
+S00492,2024-03-18,2024,3,Q1,Off-Season,C0335,Samastipur,Farmer,Tawa (Plough),1,24424,24424,8,1953.92,22470.08,Cash,Delivered
+S00493,2023-06-30,2023,6,Q2,Kharif Prep,C0143,Sitamarhi,Farmer,Harvester,3,520501,1561503,5,78075.15,1483427.85,UPI,Delivered
+S00494,2024-05-13,2024,5,Q2,Off-Season,C0186,Darbhanga,Farmer,Cultivator,1,71840,71840,0,0.0,71840.0,Cash,Delivered
+S00495,2023-08-09,2023,8,Q3,Kharif Peak,C0212,East Champaran,Farmer,Tawa (Plough),1,33615,33615,0,0.0,33615.0,Bank Transfer,Delivered
+S00496,2024-01-04,2024,1,Q1,Rabi Peak,C0172,Gopalganj,Farmer,Zero Till Seed Drill,1,153779,153779,0,0.0,153779.0,UPI,Delivered
+S00497,2024-09-12,2024,9,Q3,Kharif Peak,C0150,Gopalganj,Dealer,Rotavator,1,122741,122741,0,0.0,122741.0,EMI/Finance,Delivered
+S00498,2023-11-29,2023,11,Q4,Rabi Prep,C0346,Gopalganj,Farmer,Threshing Machine,1,86948,86948,0,0.0,86948.0,Cash,Delivered
+S00499,2024-04-19,2024,4,Q2,Off-Season,C0205,Gopalganj,Farmer,Threshing Machine,1,64492,64492,2,1289.84,63202.16,EMI/Finance,Delivered
+S00500,2024-09-19,2024,9,Q3,Kharif Peak,C0301,Samastipur,Farmer,Zero Till Seed Drill,1,129351,129351,0,0.0,129351.0,Cash,Delivered
+S00501,2024-12-28,2024,12,Q4,Rabi Peak,C0043,Gopalganj,Farmer,Cultivator,1,60916,60916,0,0.0,60916.0,EMI/Finance,Delivered
+S00502,2024-08-24,2024,8,Q3,Kharif Peak,C0096,Patna,Dealer,Zero Till Seed Drill,1,179020,179020,0,0.0,179020.0,Cash,Delivered
+S00503,2024-11-08,2024,11,Q4,Rabi Prep,C0287,Patna,Farmer,Cultivator,1,40247,40247,0,0.0,40247.0,Cash,Delivered
+S00504,2024-04-29,2024,4,Q2,Off-Season,C0266,Darbhanga,Farmer,Zero Till Seed Drill,1,123455,123455,0,0.0,123455.0,EMI/Finance,Delivered
+S00505,2024-09-24,2024,9,Q3,Kharif Peak,C0324,East Champaran,Dealer,Rotavator,2,127915,255830,0,0.0,255830.0,Cash,Delivered
+S00506,2024-03-29,2024,3,Q1,Off-Season,C0177,Siwan,Farmer,Threshing Machine,1,63603,63603,0,0.0,63603.0,Cash,Delivered
+S00507,2023-11-30,2023,11,Q4,Rabi Prep,C0311,Gopalganj,Farmer,Tawa (Plough),2,33308,66616,0,0.0,66616.0,Cash,Delivered
+S00508,2024-12-15,2024,12,Q4,Rabi Peak,C0020,Gopalganj,Farmer,Zero Till Seed Drill,1,197441,197441,2,3948.82,193492.18,UPI,Delivered
+S00509,2024-06-20,2024,6,Q2,Kharif Prep,C0113,Patna,Cooperative,Threshing Machine,1,89982,89982,0,0.0,89982.0,UPI,Delivered
+S00510,2024-03-28,2024,3,Q1,Off-Season,C0239,Sitamarhi,Dealer,Cultivator,1,62014,62014,0,0.0,62014.0,Cash,Delivered
+S00511,2023-05-20,2023,5,Q2,Off-Season,C0342,Muzaffarpur,Farmer,Cultivator,1,65749,65749,2,1314.98,64434.02,UPI,Delivered
+S00512,2023-11-03,2023,11,Q4,Rabi Prep,C0229,Purnia,Dealer,Rotavator,1,113209,113209,2,2264.18,110944.82,Bank Transfer,Delivered
+S00513,2023-07-13,2023,7,Q3,Kharif Prep,C0286,Katihar,Farmer,Harvester,1,743891,743891,0,0.0,743891.0,Bank Transfer,Delivered
+S00514,2024-01-23,2024,1,Q1,Rabi Peak,C0201,Sitamarhi,Farmer,Cultivator,1,40191,40191,0,0.0,40191.0,Bank Transfer,Delivered
+S00515,2024-12-11,2024,12,Q4,Rabi Peak,C0149,Chapra (Saran),Farmer,Threshing Machine,1,73656,73656,0,0.0,73656.0,Cash,Delivered
+S00516,2023-03-12,2023,3,Q1,Off-Season,C0310,Araria,Farmer,Rotavator,1,103978,103978,0,0.0,103978.0,UPI,Delivered
+S00517,2024-05-18,2024,5,Q2,Off-Season,C0059,Chapra (Saran),Farmer,Rotavator,1,86271,86271,8,6901.68,79369.32,Cash,Pending
+S00518,2023-10-16,2023,10,Q4,Rabi Prep,C0174,Samastipur,Farmer,Cultivator,1,63732,63732,0,0.0,63732.0,Cash,Delivered
+S00519,2023-12-17,2023,12,Q4,Rabi Peak,C0035,Chapra (Saran),Farmer,Harvester,3,711302,2133906,0,0.0,2133906.0,Bank Transfer,Delivered
+S00520,2023-05-30,2023,5,Q2,Off-Season,C0145,Muzaffarpur,Farmer,Rotavator,1,135833,135833,0,0.0,135833.0,Cash,Delivered
+S00521,2023-09-14,2023,9,Q3,Kharif Peak,C0031,Gopalganj,Farmer,Tawa (Plough),1,18413,18413,5,920.65,17492.35,Cash,Delivered
+S00522,2024-03-29,2024,3,Q1,Off-Season,C0220,Samastipur,Cooperative,Cultivator,1,37196,37196,2,743.92,36452.08,Cash,Delivered
+S00523,2023-08-02,2023,8,Q3,Kharif Peak,C0277,Chapra (Saran),Farmer,Harvester,2,807272,1614544,8,129163.52,1485380.48,Cash,Delivered
+S00524,2024-07-16,2024,7,Q3,Kharif Prep,C0200,Katihar,Farmer,Zero Till Seed Drill,1,153202,153202,0,0.0,153202.0,UPI,Delivered
+S00525,2024-11-13,2024,11,Q4,Rabi Prep,C0227,Chapra (Saran),Farmer,Rotavator,1,92400,92400,0,0.0,92400.0,Cash,Delivered
+S00526,2024-08-21,2024,8,Q3,Kharif Peak,C0318,Chapra (Saran),Farmer,Rotavator,1,136717,136717,8,10937.36,125779.64,UPI,Delivered
+S00527,2024-12-05,2024,12,Q4,Rabi Peak,C0220,Samastipur,Cooperative,Zero Till Seed Drill,1,168679,168679,0,0.0,168679.0,UPI,Delivered
+S00528,2023-12-13,2023,12,Q4,Rabi Peak,C0106,Chapra (Saran),Farmer,Tawa (Plough),1,42889,42889,0,0.0,42889.0,UPI,Delivered
+S00529,2023-04-20,2023,4,Q2,Off-Season,C0109,Samastipur,Farmer,Rotavator,1,100248,100248,2,2004.96,98243.04,UPI,Delivered
+S00530,2024-03-25,2024,3,Q1,Off-Season,C0222,Gopalganj,Farmer,Threshing Machine,1,56399,56399,0,0.0,56399.0,Cash,Delivered
+S00531,2024-05-11,2024,5,Q2,Off-Season,C0203,Gopalganj,Farmer,Threshing Machine,1,91636,91636,2,1832.72,89803.28,Cash,Delivered
+S00532,2023-12-23,2023,12,Q4,Rabi Peak,C0011,West Champaran,Dealer,Cultivator,1,65696,65696,5,3284.8,62411.2,EMI/Finance,Delivered
+S00533,2023-03-12,2023,3,Q1,Off-Season,C0168,Samastipur,Farmer,Zero Till Seed Drill,1,178901,178901,0,0.0,178901.0,UPI,Delivered
+S00534,2024-10-15,2024,10,Q4,Rabi Prep,C0317,Patna,Cooperative,Zero Till Seed Drill,1,216161,216161,0,0.0,216161.0,EMI/Finance,Delivered
+S00535,2023-09-02,2023,9,Q3,Kharif Peak,C0206,Muzaffarpur,Farmer,Cultivator,1,39151,39151,0,0.0,39151.0,UPI,Delivered
+S00536,2024-05-24,2024,5,Q2,Off-Season,C0173,Chapra (Saran),Farmer,Tawa (Plough),1,23050,23050,0,0.0,23050.0,UPI,Delivered
+S00537,2024-06-19,2024,6,Q2,Kharif Prep,C0099,Gopalganj,Farmer,Threshing Machine,1,57868,57868,0,0.0,57868.0,EMI/Finance,Delivered
+S00538,2024-05-12,2024,5,Q2,Off-Season,C0087,Gopalganj,Dealer,Rotavator,1,87085,87085,5,4354.25,82730.75,Bank Transfer,Delivered
+S00539,2024-12-19,2024,12,Q4,Rabi Peak,C0252,East Champaran,Dealer,Zero Till Seed Drill,1,126433,126433,2,2528.66,123904.34,Cash,Delivered
+S00540,2023-08-02,2023,8,Q3,Kharif Peak,C0035,Chapra (Saran),Farmer,Threshing Machine,1,60240,60240,2,1204.8,59035.2,UPI,Delivered
+S00541,2024-03-01,2024,3,Q1,Off-Season,C0130,Darbhanga,Farmer,Tawa (Plough),1,44025,44025,5,2201.25,41823.75,Cash,Delivered
+S00542,2023-03-14,2023,3,Q1,Off-Season,C0075,Gopalganj,Dealer,Tawa (Plough),2,20553,41106,8,3288.48,37817.52,Cash,Delivered
+S00543,2024-06-28,2024,6,Q2,Kharif Prep,C0346,Gopalganj,Farmer,Cultivator,1,47656,47656,0,0.0,47656.0,UPI,Delivered
+S00544,2024-07-25,2024,7,Q3,Kharif Prep,C0141,West Champaran,Dealer,Harvester,1,505319,505319,2,10106.38,495212.62,Bank Transfer,Delivered
+S00545,2024-03-13,2024,3,Q1,Off-Season,C0173,Chapra (Saran),Farmer,Tawa (Plough),1,23466,23466,0,0.0,23466.0,UPI,Delivered
+S00547,2024-01-16,2024,1,Q1,Rabi Peak,C0324,East Champaran,Dealer,Harvester,1,782000,782000,2,15640.0,766360.0,UPI,Delivered
+S00548,2023-08-08,2023,8,Q3,Kharif Peak,C0167,Gopalganj,Farmer,Cultivator,2,71060,142120,0,0.0,142120.0,EMI/Finance,Delivered
+S00550,2023-11-06,2023,11,Q4,Rabi Prep,C0050,Gopalganj,Farmer,Rotavator,1,99541,99541,0,0.0,99541.0,Bank Transfer,Pending
+S00551,2023-10-10,2023,10,Q4,Rabi Prep,C0100,East Champaran,Dealer,Tawa (Plough),1,34753,34753,8,2780.24,31972.760000000002,Cash,Delivered
+S00552,2023-12-31,2023,12,Q4,Rabi Peak,C0246,Patna,Farmer,Rotavator,1,102366,102366,2,2047.32,100318.68,Cash,Delivered
+S00553,2023-04-05,2023,4,Q2,Off-Season,C0143,Sitamarhi,Farmer,Zero Till Seed Drill,2,194588,389176,2,7783.52,381392.48,Bank Transfer,Delivered
+S00554,2023-06-27,2023,6,Q2,Kharif Prep,C0265,Gopalganj,Dealer,Zero Till Seed Drill,1,210386,210386,5,10519.3,199866.7,Cash,Delivered
+S00555,2023-02-08,2023,2,Q1,Off-Season,C0238,Siwan,Farmer,Threshing Machine,1,92767,92767,5,4638.35,88128.65,EMI/Finance,Delivered
+S00556,2024-03-20,2024,3,Q1,Off-Season,C0140,Darbhanga,Cooperative,Harvester,1,513197,513197,0,0.0,513197.0,Bank Transfer,Delivered
+S00557,2023-01-12,2023,1,Q1,Rabi Peak,C0342,Muzaffarpur,Farmer,Threshing Machine,1,80066,80066,0,0.0,80066.0,Cash,Delivered
+S00558,2023-12-01,2023,12,Q4,Rabi Peak,C0031,Gopalganj,Farmer,Zero Till Seed Drill,1,148940,148940,2,2978.8,145961.2,EMI/Finance,Pending
+S00559,2024-09-01,2024,9,Q3,Kharif Peak,C0230,Bhagalpur,Cooperative,Zero Till Seed Drill,1,131807,131807,0,0.0,131807.0,UPI,Delivered
+S00560,2023-03-26,2023,3,Q1,Off-Season,C0238,Siwan,Farmer,Harvester,1,840759,840759,0,0.0,840759.0,Cash,Delivered
+S00561,2024-12-15,2024,12,Q4,Rabi Peak,C0145,Muzaffarpur,Farmer,Rotavator,1,93838,93838,0,0.0,93838.0,UPI,Delivered
+S00562,2024-07-28,2024,7,Q3,Kharif Prep,C0332,Bhagalpur,Farmer,Threshing Machine,1,89357,89357,0,0.0,89357.0,Bank Transfer,Delivered
+S00563,2024-08-12,2024,8,Q3,Kharif Peak,C0068,Samastipur,Dealer,Rotavator,1,129023,129023,0,0.0,129023.0,Cash,Delivered
+S00564,2024-11-02,2024,11,Q4,Rabi Prep,C0325,Siwan,Cooperative,Rotavator,1,104976,104976,0,0.0,104976.0,Bank Transfer,Delivered
+S00565,2024-09-30,2024,9,Q3,Kharif Peak,C0003,Vaishali,Farmer,Rotavator,2,87941,175882,0,0.0,175882.0,Bank Transfer,Delivered
+S00566,2023-03-29,2023,3,Q1,Off-Season,C0094,Madhubani,Farmer,Rotavator,1,88574,88574,2,1771.48,86802.52,Cash,Delivered
+S00567,2023-10-22,2023,10,Q4,Rabi Prep,C0337,Gopalganj,Farmer,Rotavator,1,130468,130468,0,0.0,130468.0,UPI,Delivered
+S00568,2024-07-04,2024,7,Q3,Kharif Prep,C0278,Gopalganj,Farmer,Rotavator,1,120810,120810,0,0.0,120810.0,UPI,Delivered
+S00569,2023-05-25,2023,5,Q2,Off-Season,C0009,Purnia,Farmer,Threshing Machine,1,56205,56205,8,4496.4,51708.6,UPI,Delivered
+S00570,2023-03-03,2023,3,Q1,Off-Season,C0259,Gopalganj,Dealer,Cultivator,1,52778,52778,2,1055.56,51722.44,Cash,Delivered
+S00571,2023-10-05,2023,10,Q4,Rabi Prep,C0151,Patna,Farmer,Threshing Machine,1,78607,78607,0,0.0,78607.0,EMI/Finance,Delivered
+S00572,2023-08-25,2023,8,Q3,Kharif Peak,C0085,Darbhanga,Cooperative,Tawa (Plough),2,34663,69326,0,0.0,69326.0,Cash,Delivered
+S00573,2024-06-28,2024,6,Q2,Kharif Prep,C0284,Muzaffarpur,Farmer,Rotavator,1,98033,98033,0,0.0,98033.0,EMI/Finance,Delivered
+S00574,2023-09-11,2023,9,Q3,Kharif Peak,C0114,Darbhanga,Farmer,Tawa (Plough),1,27991,27991,0,0.0,27991.0,Cash,Delivered
+S00575,2023-12-27,2023,12,Q4,Rabi Peak,C0010,Gopalganj,Dealer,Cultivator,1,54813,54813,10,5481.3,49331.7,UPI,Delivered
+S00576,2024-10-02,2024,10,Q4,Rabi Prep,C0267,Siwan,Farmer,Cultivator,2,60373,120746,5,6037.3,114708.7,Cash,Delivered
+S00577,2023-10-14,2023,10,Q4,Rabi Prep,C0010,Gopalganj,Dealer,Cultivator,2,57399,114798,2,2295.96,112502.04,Cash,Delivered
+S00578,2024-11-25,2024,11,Q4,Rabi Prep,C0167,Gopalganj,Farmer,Threshing Machine,1,69904,69904,2,1398.08,68505.92,UPI,Delivered
+S00579,2024-09-11,2024,9,Q3,Kharif Peak,C0081,Darbhanga,Farmer,Cultivator,1,70535,70535,2,1410.7,69124.3,UPI,Delivered
+S00580,2023-07-27,2023,7,Q3,Kharif Prep,C0030,Darbhanga,Dealer,Tawa (Plough),1,28125,28125,5,1406.25,26718.75,EMI/Finance,Delivered
+S00581,2023-05-29,2023,5,Q2,Off-Season,C0041,Gopalganj,Farmer,Threshing Machine,2,92017,184034,0,0.0,184034.0,UPI,Pending
+S00582,2023-05-02,2023,5,Q2,Off-Season,C0241,Muzaffarpur,Farmer,Rotavator,1,140018,140018,2,2800.36,137217.64,Bank Transfer,Delivered
+S00583,2024-02-28,2024,2,Q1,Off-Season,C0285,Patna,Cooperative,Tawa (Plough),1,27940,27940,8,2235.2,25704.8,EMI/Finance,Delivered
+S00584,2023-10-08,2023,10,Q4,Rabi Prep,C0315,Samastipur,Farmer,Rotavator,1,97316,97316,0,0.0,97316.0,Bank Transfer,Delivered
+S00585,2023-10-01,2023,10,Q4,Rabi Prep,C0256,Siwan,Dealer,Threshing Machine,1,70133,70133,0,0.0,70133.0,Cash,Delivered
+S00586,2024-05-03,2024,5,Q2,Off-Season,C0087,Gopalganj,Dealer,Rotavator,1,140452,140452,2,2809.04,137642.96,UPI,Delivered
+S00587,2024-05-18,2024,5,Q2,Off-Season,C0223,West Champaran,Farmer,Harvester,1,535871,535871,0,0.0,535871.0,Bank Transfer,Delivered
+S00588,2023-10-04,2023,10,Q4,Rabi Prep,C0125,Chapra (Saran),Dealer,Tawa (Plough),1,25292,25292,10,2529.2,22762.8,Bank Transfer,Delivered
+S00589,2024-03-25,2024,3,Q1,Off-Season,C0253,Muzaffarpur,Dealer,Tawa (Plough),1,34054,34054,5,1702.7,32351.3,EMI/Finance,Delivered
+S00590,2023-02-12,2023,2,Q1,Off-Season,C0021,Patna,Farmer,Threshing Machine,1,79928,79928,0,0.0,79928.0,EMI/Finance,Delivered
+S00591,2024-07-03,2024,7,Q3,Kharif Prep,C0310,Araria,Farmer,Zero Till Seed Drill,1,212289,212289,0,0.0,212289.0,UPI,Delivered
+S00592,2023-02-13,2023,2,Q1,Off-Season,C0057,Chapra (Saran),Farmer,Tawa (Plough),1,26051,26051,0,0.0,26051.0,Bank Transfer,Delivered
+S00593,2024-06-12,2024,6,Q2,Kharif Prep,C0203,Gopalganj,Farmer,Tawa (Plough),1,19615,19615,0,0.0,19615.0,EMI/Finance,Delivered
+S00594,2023-10-20,2023,10,Q4,Rabi Prep,C0047,Madhubani,Farmer,Harvester,1,671491,671491,8,53719.28,617771.72,Bank Transfer,Delivered
+S00595,2024-04-19,2024,4,Q2,Off-Season,C0202,Siwan,Farmer,Tawa (Plough),1,32801,32801,0,0.0,32801.0,Cash,Delivered
+S00596,2024-12-13,2024,12,Q4,Rabi Peak,C0214,Darbhanga,Farmer,Zero Till Seed Drill,1,171520,171520,0,0.0,171520.0,Cash,Delivered
+S00597,2024-12-30,2024,12,Q4,Rabi Peak,C0290,Gopalganj,Farmer,Tawa (Plough),1,32899,32899,0,0.0,32899.0,UPI,Delivered
+S00598,2023-06-17,2023,6,Q2,Kharif Prep,C0262,Muzaffarpur,Farmer,Threshing Machine,1,63096,63096,2,1261.92,61834.08,UPI,Delivered
+S00599,2024-12-25,2024,12,Q4,Rabi Peak,C0153,East Champaran,Dealer,Cultivator,1,68532,68532,0,0.0,68532.0,UPI,Delivered
+S00600,2023-06-24,2023,6,Q2,Kharif Prep,C0313,Madhubani,Dealer,Tawa (Plough),1,36530,36530,5,1826.5,34703.5,Cash,Delivered
+S00601,2024-12-30,2024,12,Q4,Rabi Peak,C0216,Samastipur,Farmer,Rotavator,1,105189,105189,5,5259.45,99929.55,UPI,Delivered
+S00602,2023-05-01,2023,5,Q2,Off-Season,C0305,Bhagalpur,Farmer,Tawa (Plough),1,24647,24647,5,1232.35,23414.65,Cash,Delivered
+S00603,2024-05-25,2024,5,Q2,Off-Season,C0274,Gopalganj,Farmer,Zero Till Seed Drill,1,120753,120753,0,0.0,120753.0,Cash,Delivered
+S00604,2024-04-09,2024,4,Q2,Off-Season,C0216,Samastipur,Farmer,Harvester,1,491631,491631,0,0.0,491631.0,EMI/Finance,Delivered
+S00605,2024-10-05,2024,10,Q4,Rabi Prep,C0027,Madhubani,Farmer,Zero Till Seed Drill,1,147215,147215,0,0.0,147215.0,Bank Transfer,Delivered
+S00606,2023-02-03,2023,2,Q1,Off-Season,C0095,Gopalganj,Farmer,Threshing Machine,1,94536,94536,8,7562.88,86973.12,Cash,Delivered
+S00607,2023-07-02,2023,7,Q3,Kharif Prep,C0149,Chapra (Saran),Farmer,Rotavator,1,103637,103637,2,2072.74,101564.26,UPI,Delivered
+S00608,2023-07-01,2023,7,Q3,Kharif Prep,C0198,Patna,Dealer,Tawa (Plough),1,42554,42554,8,3404.32,39149.68,Cash,Delivered
+S00609,2024-01-13,2024,1,Q1,Rabi Peak,C0099,Gopalganj,Farmer,Tawa (Plough),1,44878,44878,0,0.0,44878.0,UPI,Delivered
+S00610,2023-05-18,2023,5,Q2,Off-Season,C0340,East Champaran,Farmer,Rotavator,1,141322,141322,0,0.0,141322.0,UPI,Delivered
+S00611,2024-09-18,2024,9,Q3,Kharif Peak,C0129,Gopalganj,Farmer,Rotavator,1,122445,122445,2,2448.9,119996.1,EMI/Finance,Delivered
+S00612,2024-12-06,2024,12,Q4,Rabi Peak,C0332,Bhagalpur,Farmer,Threshing Machine,1,73821,73821,5,3691.05,70129.95,Cash,Delivered
+S00613,2024-09-30,2024,9,Q3,Kharif Peak,C0031,Gopalganj,Farmer,Cultivator,1,43500,43500,0,0.0,43500.0,Bank Transfer,Delivered
+S00614,2023-07-04,2023,7,Q3,Kharif Prep,C0069,Samastipur,Farmer,Tawa (Plough),1,25625,25625,10,2562.5,23062.5,Cash,Delivered
+S00615,2024-10-02,2024,10,Q4,Rabi Prep,C0137,Chapra (Saran),Farmer,Tawa (Plough),1,42165,42165,5,2108.25,40056.75,EMI/Finance,Delivered
+S00616,2023-12-08,2023,12,Q4,Rabi Peak,C0224,Siwan,Dealer,Cultivator,1,48915,48915,0,0.0,48915.0,Cash,Delivered
+S00617,2023-11-12,2023,11,Q4,Rabi Prep,C0349,Chapra (Saran),Dealer,Cultivator,1,71044,71044,0,0.0,71044.0,Bank Transfer,Delivered
+S00618,2024-08-05,2024,8,Q3,Kharif Peak,C0109,Samastipur,Farmer,Threshing Machine,1,56908,56908,0,0.0,56908.0,Bank Transfer,Delivered
+S00619,2024-05-05,2024,5,Q2,Off-Season,C0145,Muzaffarpur,Farmer,Tawa (Plough),1,44124,44124,0,0.0,44124.0,Cash,Delivered
+S00620,2024-07-03,2024,7,Q3,Kharif Prep,C0216,Samastipur,Farmer,Tawa (Plough),1,33154,33154,0,0.0,33154.0,Bank Transfer,Delivered
+S00621,2023-11-03,2023,11,Q4,Rabi Prep,C0250,Muzaffarpur,Farmer,Zero Till Seed Drill,1,208892,208892,0,0.0,208892.0,Cash,Delivered
+S00622,2023-12-29,2023,12,Q4,Rabi Peak,C0135,Chapra (Saran),Farmer,Rotavator,1,94784,94784,0,0.0,94784.0,EMI/Finance,Delivered
+S00623,2023-06-19,2023,6,Q2,Kharif Prep,C0086,Gopalganj,Dealer,Zero Till Seed Drill,1,171061,171061,0,0.0,171061.0,Bank Transfer,Delivered
+S00624,2023-11-19,2023,11,Q4,Rabi Prep,C0021,Patna,Farmer,Threshing Machine,1,72792,72792,0,0.0,72792.0,Cash,Delivered
+S00625,2023-11-06,2023,11,Q4,Rabi Prep,C0100,East Champaran,Dealer,Rotavator,1,104812,104812,0,0.0,104812.0,Cash,Delivered
+S00626,2023-04-05,2023,4,Q2,Off-Season,C0151,Patna,Farmer,Harvester,1,463073,463073,8,37045.84,426027.16000000003,Cash,Delivered
+S00627,2024-05-10,2024,5,Q2,Off-Season,C0108,West Champaran,Dealer,Threshing Machine,1,89316,89316,0,0.0,89316.0,Bank Transfer,Delivered
+S00628,2024-06-12,2024,6,Q2,Kharif Prep,C0327,Gopalganj,Farmer,Threshing Machine,1,63697,63697,0,0.0,63697.0,UPI,Delivered
+S00629,2023-04-29,2023,4,Q2,Off-Season,C0321,Siwan,Cooperative,Rotavator,1,87885,87885,2,1757.7,86127.3,Cash,Delivered
+S00630,2023-02-17,2023,2,Q1,Off-Season,C0203,Gopalganj,Farmer,Rotavator,1,135212,135212,0,0.0,135212.0,UPI,Delivered
+S00631,2023-08-03,2023,8,Q3,Kharif Peak,C0030,Darbhanga,Dealer,Cultivator,1,47618,47618,0,0.0,47618.0,Bank Transfer,Delivered
+S00632,2023-10-07,2023,10,Q4,Rabi Prep,C0249,Chapra (Saran),Farmer,Rotavator,1,102933,102933,8,8234.64,94698.36,UPI,Delivered
+S00633,2024-07-09,2024,7,Q3,Kharif Prep,C0141,West Champaran,Dealer,Cultivator,1,55872,55872,8,4469.76,51402.24,Bank Transfer,Delivered
+S00634,2023-06-25,2023,6,Q2,Kharif Prep,C0033,Madhubani,Farmer,Rotavator,2,125190,250380,0,0.0,250380.0,Cash,Delivered
+S00635,2024-11-22,2024,11,Q4,Rabi Prep,C0183,Muzaffarpur,Dealer,Rotavator,1,110139,110139,0,0.0,110139.0,Cash,Delivered
+S00636,2024-08-29,2024,8,Q3,Kharif Peak,C0115,Chapra (Saran),Cooperative,Threshing Machine,1,84218,84218,0,0.0,84218.0,Bank Transfer,Delivered
+S00637,2024-11-17,2024,11,Q4,Rabi Prep,C0240,Vaishali,Farmer,Tawa (Plough),2,20573,41146,5,2057.3,39088.7,UPI,Delivered
+S00638,2024-12-16,2024,12,Q4,Rabi Peak,C0085,Darbhanga,Cooperative,Harvester,1,688857,688857,2,13777.14,675079.86,Bank Transfer,Delivered
+S00639,2023-08-18,2023,8,Q3,Kharif Peak,C0147,Vaishali,Farmer,Rotavator,1,143700,143700,8,11496.0,132204.0,UPI,Delivered
+S00640,2024-11-12,2024,11,Q4,Rabi Prep,C0172,Gopalganj,Farmer,Cultivator,1,56283,56283,0,0.0,56283.0,UPI,Delivered
+S00641,2024-04-17,2024,4,Q2,Off-Season,C0066,Gopalganj,Farmer,Tawa (Plough),1,27249,27249,2,544.98,26704.02,Cash,Delivered
+S00642,2023-04-20,2023,4,Q2,Off-Season,C0022,Gopalganj,Dealer,Cultivator,1,39648,39648,0,0.0,39648.0,UPI,Delivered
+S00643,2024-09-27,2024,9,Q3,Kharif Peak,C0300,Gopalganj,Cooperative,Cultivator,2,45421,90842,0,0.0,90842.0,Cash,Delivered
+S00644,2024-08-28,2024,8,Q3,Kharif Peak,C0313,Madhubani,Dealer,Harvester,1,678250,678250,0,0.0,678250.0,Bank Transfer,Delivered
+S00645,2024-11-16,2024,11,Q4,Rabi Prep,C0090,Samastipur,Dealer,Rotavator,1,131655,131655,0,0.0,131655.0,UPI,Delivered
+S00646,2024-07-22,2024,7,Q3,Kharif Prep,C0164,Madhubani,Farmer,Rotavator,1,114177,114177,8,9134.16,105042.84,Cash,Delivered
+S00647,2024-09-02,2024,9,Q3,Kharif Peak,C0232,Muzaffarpur,Farmer,Tawa (Plough),1,30416,30416,2,608.32,29807.68,Cash,Delivered
+S00648,2023-05-23,2023,5,Q2,Off-Season,C0059,Chapra (Saran),Farmer,Tawa (Plough),1,42739,42739,0,0.0,42739.0,Cash,Delivered
+S00649,2024-06-28,2024,6,Q2,Kharif Prep,C0145,Muzaffarpur,Farmer,Cultivator,1,72875,72875,0,0.0,72875.0,EMI/Finance,Delivered
+S00650,2024-11-26,2024,11,Q4,Rabi Prep,C0045,Bhagalpur,Farmer,Cultivator,1,63490,63490,8,5079.2,58410.8,EMI/Finance,Delivered
+S00651,2024-09-18,2024,9,Q3,Kharif Peak,C0104,Bhagalpur,Dealer,Tawa (Plough),1,31244,31244,5,1562.2,29681.8,Cash,Delivered
+S00652,2023-02-24,2023,2,Q1,Off-Season,C0034,Siwan,Farmer,Rotavator,1,121702,121702,0,0.0,121702.0,EMI/Finance,Delivered
+S00653,2023-08-29,2023,8,Q3,Kharif Peak,C0236,Chapra (Saran),Farmer,Harvester,1,759415,759415,0,0.0,759415.0,UPI,Delivered
+S00654,2024-07-12,2024,7,Q3,Kharif Prep,C0329,Gopalganj,Dealer,Rotavator,1,96364,96364,0,0.0,96364.0,UPI,Delivered
+S00655,2024-03-03,2024,3,Q1,Off-Season,C0070,Gopalganj,Farmer,Rotavator,1,142195,142195,0,0.0,142195.0,Cash,Delivered
+S00656,2024-05-13,2024,5,Q2,Off-Season,C0218,Darbhanga,Farmer,Threshing Machine,1,63898,63898,2,1277.96,62620.04,UPI,Delivered
+S00657,2024-12-13,2024,12,Q4,Rabi Peak,C0205,Gopalganj,Farmer,Threshing Machine,1,82898,82898,0,0.0,82898.0,UPI,Delivered
+S00658,2024-01-29,2024,1,Q1,Rabi Peak,C0176,Gopalganj,Cooperative,Cultivator,1,47176,47176,0,0.0,47176.0,UPI,Delivered
+S00659,2024-12-30,2024,12,Q4,Rabi Peak,C0219,Samastipur,Farmer,Zero Till Seed Drill,2,173849,347698,2,6953.96,340744.04,Cash,Delivered
+S00660,2024-05-09,2024,5,Q2,Off-Season,C0288,Begusarai,Dealer,Threshing Machine,1,62416,62416,8,4993.28,57422.72,Cash,Delivered
+S00661,2024-06-23,2024,6,Q2,Kharif Prep,C0342,Muzaffarpur,Farmer,Tawa (Plough),1,42595,42595,0,0.0,42595.0,Cash,Delivered
+S00662,2023-04-01,2023,4,Q2,Off-Season,C0005,Gopalganj,Farmer,Cultivator,1,40117,40117,0,0.0,40117.0,UPI,Delivered
+S00663,2023-12-18,2023,12,Q4,Rabi Peak,C0130,Darbhanga,Farmer,Zero Till Seed Drill,1,121413,121413,0,0.0,121413.0,UPI,Delivered
+S00664,2024-03-07,2024,3,Q1,Off-Season,C0167,Gopalganj,Farmer,Cultivator,1,54308,54308,0,0.0,54308.0,EMI/Finance,Delivered
+S00665,2024-07-31,2024,7,Q3,Kharif Prep,C0333,Samastipur,Farmer,Cultivator,1,66009,66009,2,1320.18,64688.82,Bank Transfer,Delivered
+S00666,2024-10-01,2024,10,Q4,Rabi Prep,C0008,Samastipur,Farmer,Rotavator,1,116769,116769,0,0.0,116769.0,EMI/Finance,Delivered
+S00667,2023-05-16,2023,5,Q2,Off-Season,C0046,Darbhanga,Cooperative,Threshing Machine,1,73036,73036,0,0.0,73036.0,Cash,Delivered
+S00668,2024-08-28,2024,8,Q3,Kharif Peak,C0129,Gopalganj,Farmer,Threshing Machine,1,84271,84271,0,0.0,84271.0,Bank Transfer,Delivered
+S00669,2023-07-05,2023,7,Q3,Kharif Prep,C0332,Bhagalpur,Farmer,Tawa (Plough),1,19084,19084,0,0.0,19084.0,Cash,Delivered
+S00670,2023-06-07,2023,6,Q2,Kharif Prep,C0333,Samastipur,Farmer,Tawa (Plough),3,42666,127998,5,6399.9,121598.1,Cash,Delivered
+S00671,2024-10-14,2024,10,Q4,Rabi Prep,C0344,Chapra (Saran),Farmer,Rotavator,1,122863,122863,0,0.0,122863.0,UPI,Delivered
+S00672,2023-04-29,2023,4,Q2,Off-Season,C0321,Siwan,Cooperative,Rotavator,1,115409,115409,0,0.0,115409.0,Bank Transfer,Delivered
+S00673,2024-06-29,2024,6,Q2,Kharif Prep,C0118,Samastipur,Cooperative,Cultivator,1,60563,60563,0,0.0,60563.0,EMI/Finance,Delivered
+S00674,2024-04-04,2024,4,Q2,Off-Season,C0166,East Champaran,Cooperative,Cultivator,2,55688,111376,2,2227.52,109148.48,Cash,Delivered
+S00675,2024-10-14,2024,10,Q4,Rabi Prep,C0289,East Champaran,Farmer,Cultivator,1,63297,63297,2,1265.94,62031.06,Cash,Delivered
+S00676,2023-04-11,2023,4,Q2,Off-Season,C0321,Siwan,Cooperative,Cultivator,1,73284,73284,5,3664.2,69619.8,Bank Transfer,Delivered
+S00677,2024-08-25,2024,8,Q3,Kharif Peak,C0115,Chapra (Saran),Cooperative,Tawa (Plough),1,35037,35037,2,700.74,34336.26,Cash,Delivered
+S00678,2024-11-19,2024,11,Q4,Rabi Prep,C0197,Gopalganj,Farmer,Rotavator,1,89453,89453,0,0.0,89453.0,Cash,Delivered
+S00679,2023-08-13,2023,8,Q3,Kharif Peak,C0122,Siwan,Farmer,Threshing Machine,1,71508,71508,0,0.0,71508.0,Cash,Delivered
+S00680,2024-11-03,2024,11,Q4,Rabi Prep,C0206,Muzaffarpur,Farmer,Tawa (Plough),2,25104,50208,2,1004.16,49203.84,Bank Transfer,Delivered
+S00681,2024-09-11,2024,9,Q3,Kharif Peak,C0184,Siwan,Farmer,Rotavator,1,128017,128017,2,2560.34,125456.66,Bank Transfer,Delivered
+S00682,2023-04-24,2023,4,Q2,Off-Season,C0204,Bhagalpur,Farmer,Threshing Machine,1,71602,71602,2,1432.04,70169.96,Cash,Delivered
+S00683,2023-10-11,2023,10,Q4,Rabi Prep,C0329,Gopalganj,Dealer,Tawa (Plough),2,40682,81364,5,4068.2,77295.8,Cash,Delivered
+S00684,2023-03-17,2023,3,Q1,Off-Season,C0239,Sitamarhi,Dealer,Cultivator,1,39088,39088,0,0.0,39088.0,Cash,Pending
+S00685,2023-09-29,2023,9,Q3,Kharif Peak,C0041,Gopalganj,Farmer,Rotavator,1,89548,89548,8,7163.84,82384.16,UPI,Delivered
+S00686,2024-05-18,2024,5,Q2,Off-Season,C0235,Siwan,Farmer,Rotavator,1,120430,120430,0,0.0,120430.0,UPI,Delivered
+S00687,2023-09-23,2023,9,Q3,Kharif Peak,C0251,Muzaffarpur,Dealer,Rotavator,1,89778,89778,2,1795.56,87982.44,Bank Transfer,Delivered
+S00688,2024-05-24,2024,5,Q2,Off-Season,C0022,Gopalganj,Dealer,Rotavator,1,126965,126965,0,0.0,126965.0,UPI,Delivered
+S00689,2023-12-04,2023,12,Q4,Rabi Peak,C0216,Samastipur,Farmer,Tawa (Plough),1,36829,36829,2,736.58,36092.42,Bank Transfer,Delivered
+S00690,2024-02-18,2024,2,Q1,Off-Season,C0345,Samastipur,Farmer,Tawa (Plough),1,43589,43589,0,0.0,43589.0,Cash,Delivered
+S00691,2024-12-06,2024,12,Q4,Rabi Peak,C0346,Gopalganj,Farmer,Tawa (Plough),1,33796,33796,0,0.0,33796.0,EMI/Finance,Delivered
+S00692,2023-11-07,2023,11,Q4,Rabi Prep,C0197,Gopalganj,Farmer,Harvester,3,781492,2344476,2,46889.52,2297586.48,UPI,Delivered
+S00693,2023-12-15,2023,12,Q4,Rabi Peak,C0024,Madhubani,Farmer,Rotavator,1,115122,115122,0,0.0,115122.0,Cash,Delivered
+S00694,2024-01-29,2024,1,Q1,Rabi Peak,C0145,Muzaffarpur,Farmer,Threshing Machine,1,74586,74586,5,3729.3,70856.7,UPI,Delivered
+S00695,2023-03-28,2023,3,Q1,Off-Season,C0083,Vaishali,Dealer,Tawa (Plough),1,32351,32351,0,0.0,32351.0,Cash,Delivered
+S00696,2024-08-30,2024,8,Q3,Kharif Peak,C0131,Gopalganj,Farmer,Cultivator,1,60478,60478,0,0.0,60478.0,Cash,Delivered
+S00697,2024-04-05,2024,4,Q2,Off-Season,C0255,Sitamarhi,Farmer,Tawa (Plough),1,18537,18537,0,0.0,18537.0,Bank Transfer,Delivered
+S00698,2023-05-02,2023,5,Q2,Off-Season,C0048,Araria,Farmer,Rotavator,1,127850,127850,0,0.0,127850.0,Bank Transfer,Delivered
+S00699,2023-06-02,2023,6,Q2,Kharif Prep,C0008,Samastipur,Farmer,Threshing Machine,2,70268,140536,0,0.0,140536.0,Cash,Delivered
+S00700,2024-04-27,2024,4,Q2,Off-Season,C0001,Darbhanga,Farmer,Tawa (Plough),1,38262,38262,2,765.24,37496.76,Cash,Delivered
+S00701,2023-02-21,2023,2,Q1,Off-Season,C0017,Chapra (Saran),Farmer,Tawa (Plough),1,44893,44893,0,0.0,44893.0,Cash,Delivered
+S00702,2023-04-19,2023,4,Q2,Off-Season,C0158,Katihar,Farmer,Rotavator,1,123992,123992,0,0.0,123992.0,Bank Transfer,Delivered
+S00703,2024-11-25,2024,11,Q4,Rabi Prep,C0021,Patna,Farmer,Harvester,2,513335,1026670,2,20533.4,1006136.6,Cash,Delivered
+S00704,2023-08-07,2023,8,Q3,Kharif Peak,C0146,Madhubani,Farmer,Tawa (Plough),1,37434,37434,0,0.0,37434.0,Cash,Delivered
+S00705,2023-06-22,2023,6,Q2,Kharif Prep,C0344,Chapra (Saran),Farmer,Threshing Machine,1,91268,91268,0,0.0,91268.0,UPI,Delivered
+S00706,2024-10-09,2024,10,Q4,Rabi Prep,C0340,East Champaran,Farmer,Threshing Machine,1,65338,65338,0,0.0,65338.0,Cash,Delivered
+S00707,2023-04-02,2023,4,Q2,Off-Season,C0075,Gopalganj,Dealer,Threshing Machine,2,93910,187820,0,0.0,187820.0,Bank Transfer,Delivered
+S00708,2024-12-09,2024,12,Q4,Rabi Peak,C0174,Samastipur,Farmer,Rotavator,1,94377,94377,0,0.0,94377.0,UPI,Delivered
+S00709,2024-09-17,2024,9,Q3,Kharif Peak,C0022,Gopalganj,Dealer,Threshing Machine,1,94077,94077,0,0.0,94077.0,EMI/Finance,Delivered
+S00710,2023-11-05,2023,11,Q4,Rabi Prep,C0338,Madhubani,Farmer,Cultivator,1,35299,35299,0,0.0,35299.0,EMI/Finance,Pending
+S00711,2024-09-25,2024,9,Q3,Kharif Peak,C0211,Chapra (Saran),Farmer,Cultivator,1,70371,70371,0,0.0,70371.0,UPI,Delivered
+S00712,2023-02-24,2023,2,Q1,Off-Season,C0035,Chapra (Saran),Farmer,Rotavator,1,137206,137206,5,6860.3,130345.7,EMI/Finance,Delivered
+S00713,2023-06-13,2023,6,Q2,Kharif Prep,C0017,Chapra (Saran),Farmer,Threshing Machine,1,57825,57825,0,0.0,57825.0,Cash,Delivered
+S00714,2024-09-23,2024,9,Q3,Kharif Peak,C0314,Sitamarhi,Farmer,Tawa (Plough),1,42851,42851,0,0.0,42851.0,Cash,Delivered
+S00715,2023-06-11,2023,6,Q2,Kharif Prep,C0284,Muzaffarpur,Farmer,Tawa (Plough),1,33894,33894,0,0.0,33894.0,Cash,Delivered
+S00716,2024-08-16,2024,8,Q3,Kharif Peak,C0108,West Champaran,Dealer,Cultivator,1,48025,48025,5,2401.25,45623.75,Cash,Delivered
+S00717,2023-08-22,2023,8,Q3,Kharif Peak,C0051,Gopalganj,Farmer,Rotavator,1,133349,133349,0,0.0,133349.0,EMI/Finance,Delivered
+S00718,2024-08-22,2024,8,Q3,Kharif Peak,C0042,Siwan,Farmer,Zero Till Seed Drill,1,177129,177129,8,14170.32,162958.68,UPI,Delivered
+S00719,2023-05-20,2023,5,Q2,Off-Season,C0349,Chapra (Saran),Dealer,Harvester,1,551793,551793,10,55179.3,496613.7,Cash,Delivered
+S00720,2024-12-09,2024,12,Q4,Rabi Peak,C0144,Sitamarhi,Farmer,Zero Till Seed Drill,1,156779,156779,5,7838.95,148940.05,UPI,Delivered
+S00721,2023-12-18,2023,12,Q4,Rabi Peak,C0092,Darbhanga,Dealer,Rotavator,1,104343,104343,5,5217.15,99125.85,UPI,Delivered
+S00722,2023-06-24,2023,6,Q2,Kharif Prep,C0321,Siwan,Cooperative,Zero Till Seed Drill,1,192450,192450,0,0.0,192450.0,EMI/Finance,Delivered
+S00723,2023-08-10,2023,8,Q3,Kharif Peak,C0191,East Champaran,Farmer,Zero Till Seed Drill,1,180655,180655,2,3613.1,177041.9,Bank Transfer,Delivered
+S00724,2023-12-02,2023,12,Q4,Rabi Peak,C0115,Chapra (Saran),Cooperative,Harvester,2,566605,1133210,2,22664.2,1110545.8,Cash,Delivered
+S00725,2023-01-06,2023,1,Q1,Rabi Peak,C0115,Chapra (Saran),Cooperative,Harvester,1,473186,473186,0,0.0,473186.0,Bank Transfer,Delivered
+S00726,2024-06-27,2024,6,Q2,Kharif Prep,C0264,Madhubani,Farmer,Cultivator,1,41422,41422,0,0.0,41422.0,UPI,Delivered
+S00727,2024-02-21,2024,2,Q1,Off-Season,C0342,Muzaffarpur,Farmer,Tawa (Plough),1,22348,22348,0,0.0,22348.0,EMI/Finance,Delivered
+S00728,2024-11-16,2024,11,Q4,Rabi Prep,C0158,Katihar,Farmer,Cultivator,1,65099,65099,2,1301.98,63797.02,Cash,Delivered
+S00729,2023-05-22,2023,5,Q2,Off-Season,C0093,Siwan,Farmer,Tawa (Plough),1,31282,31282,5,1564.1,29717.9,UPI,Delivered
+S00730,2023-01-02,2023,1,Q1,Rabi Peak,C0292,Gopalganj,Farmer,Tawa (Plough),1,20316,20316,2,406.32,19909.68,UPI,Delivered
+S00731,2023-10-04,2023,10,Q4,Rabi Prep,C0334,Gopalganj,Farmer,Threshing Machine,1,90549,90549,0,0.0,90549.0,Bank Transfer,Delivered
+S00732,2023-12-10,2023,12,Q4,Rabi Peak,C0200,Katihar,Farmer,Threshing Machine,1,58592,58592,8,4687.36,53904.64,UPI,Delivered
+S00733,2024-01-28,2024,1,Q1,Rabi Peak,C0040,Begusarai,Farmer,Cultivator,1,37678,37678,0,0.0,37678.0,UPI,Delivered
+S00734,2024-12-27,2024,12,Q4,Rabi Peak,C0134,Patna,Farmer,Tawa (Plough),3,22535,67605,0,0.0,67605.0,Cash,Delivered
+S00735,2024-08-17,2024,8,Q3,Kharif Peak,C0333,Samastipur,Farmer,Tawa (Plough),1,41030,41030,2,820.6,40209.4,Cash,Delivered
+S00736,2023-10-01,2023,10,Q4,Rabi Prep,C0146,Madhubani,Farmer,Zero Till Seed Drill,1,175434,175434,0,0.0,175434.0,Cash,Delivered
+S00737,2024-06-23,2024,6,Q2,Kharif Prep,C0043,Gopalganj,Farmer,Tawa (Plough),1,33406,33406,2,668.12,32737.88,UPI,Delivered
+S00738,2024-09-27,2024,9,Q3,Kharif Peak,C0012,Purnia,Farmer,Cultivator,1,39300,39300,5,1965.0,37335.0,Cash,Delivered
+S00739,2023-07-03,2023,7,Q3,Kharif Prep,C0196,Samastipur,Farmer,Cultivator,1,40042,40042,0,0.0,40042.0,Bank Transfer,Delivered
+S00740,2023-07-29,2023,7,Q3,Kharif Prep,C0184,Siwan,Farmer,Zero Till Seed Drill,1,202218,202218,0,0.0,202218.0,Bank Transfer,Delivered
+S00741,2024-04-30,2024,4,Q2,Off-Season,C0283,Sitamarhi,Farmer,Cultivator,1,64088,64088,0,0.0,64088.0,Cash,Delivered
+S00742,2023-08-26,2023,8,Q3,Kharif Peak,C0304,Samastipur,Farmer,Tawa (Plough),1,35026,35026,0,0.0,35026.0,Cash,Delivered
+S00743,2023-12-01,2023,12,Q4,Rabi Peak,C0345,Samastipur,Farmer,Zero Till Seed Drill,1,207274,207274,5,10363.7,196910.3,UPI,Delivered
+S00744,2023-05-16,2023,5,Q2,Off-Season,C0349,Chapra (Saran),Dealer,Tawa (Plough),1,28043,28043,0,0.0,28043.0,UPI,Pending
+S00745,2023-02-18,2023,2,Q1,Off-Season,C0036,Madhubani,Cooperative,Rotavator,1,103637,103637,0,0.0,103637.0,EMI/Finance,Delivered
+S00746,2023-10-20,2023,10,Q4,Rabi Prep,C0297,Begusarai,Dealer,Rotavator,1,96492,96492,2,1929.84,94562.16,Bank Transfer,Delivered
+S00747,2023-09-01,2023,9,Q3,Kharif Peak,C0117,Chapra (Saran),Farmer,Rotavator,1,105750,105750,0,0.0,105750.0,UPI,Delivered
+S00748,2024-12-25,2024,12,Q4,Rabi Peak,C0225,Chapra (Saran),Farmer,Rotavator,2,105771,211542,0,0.0,211542.0,UPI,Pending
+S00749,2024-06-30,2024,6,Q2,Kharif Prep,C0288,Begusarai,Dealer,Cultivator,1,36633,36633,0,0.0,36633.0,Cash,Delivered
+S00750,2023-11-24,2023,11,Q4,Rabi Prep,C0321,Siwan,Cooperative,Rotavator,1,133398,133398,0,0.0,133398.0,UPI,Delivered
+S00751,2023-10-24,2023,10,Q4,Rabi Prep,C0124,Madhubani,Farmer,Tawa (Plough),3,42712,128136,2,2562.72,125573.28,Cash,Delivered
+S00752,2024-03-28,2024,3,Q1,Off-Season,C0311,Gopalganj,Farmer,Cultivator,1,42360,42360,8,3388.8,38971.2,Cash,Delivered
+S00753,2023-11-12,2023,11,Q4,Rabi Prep,C0167,Gopalganj,Farmer,Rotavator,1,125469,125469,0,0.0,125469.0,Cash,Delivered
+S00754,2024-10-18,2024,10,Q4,Rabi Prep,C0273,Siwan,Farmer,Rotavator,1,119500,119500,8,9560.0,109940.0,Cash,Delivered
+S00755,2024-07-05,2024,7,Q3,Kharif Prep,C0173,Chapra (Saran),Farmer,Tawa (Plough),1,40186,40186,0,0.0,40186.0,UPI,Delivered
+S00756,2023-11-22,2023,11,Q4,Rabi Prep,C0066,Gopalganj,Farmer,Threshing Machine,2,88525,177050,8,14164.0,162886.0,UPI,Delivered
+S00757,2024-03-13,2024,3,Q1,Off-Season,C0140,Darbhanga,Cooperative,Cultivator,1,59433,59433,0,0.0,59433.0,Cash,Delivered
+S00758,2024-07-28,2024,7,Q3,Kharif Prep,C0090,Samastipur,Dealer,Rotavator,2,132700,265400,2,5308.0,260092.0,UPI,Delivered
+S00759,2023-06-17,2023,6,Q2,Kharif Prep,C0100,East Champaran,Dealer,Tawa (Plough),1,31888,31888,0,0.0,31888.0,Bank Transfer,Delivered
+S00760,2023-05-28,2023,5,Q2,Off-Season,C0093,Siwan,Farmer,Rotavator,3,116104,348312,0,0.0,348312.0,Cash,Delivered
+S00761,2024-08-27,2024,8,Q3,Kharif Peak,C0289,East Champaran,Farmer,Tawa (Plough),1,20898,20898,2,417.96,20480.04,Cash,Delivered
+S00762,2024-04-18,2024,4,Q2,Off-Season,C0184,Siwan,Farmer,Threshing Machine,1,63973,63973,5,3198.65,60774.35,Cash,Delivered
+S00763,2023-11-06,2023,11,Q4,Rabi Prep,C0264,Madhubani,Farmer,Tawa (Plough),1,27958,27958,2,559.16,27398.84,Cash,Delivered
+S00764,2023-06-07,2023,6,Q2,Kharif Prep,C0155,Vaishali,Farmer,Cultivator,1,65968,65968,2,1319.36,64648.64,Cash,Delivered
+S00765,2024-12-05,2024,12,Q4,Rabi Peak,C0127,Siwan,Farmer,Threshing Machine,1,56864,56864,0,0.0,56864.0,EMI/Finance,Delivered
+S00766,2024-01-06,2024,1,Q1,Rabi Peak,C0027,Madhubani,Farmer,Zero Till Seed Drill,1,194130,194130,0,0.0,194130.0,Bank Transfer,Pending
+S00767,2023-05-03,2023,5,Q2,Off-Season,C0111,Muzaffarpur,Farmer,Cultivator,1,72700,72700,0,0.0,72700.0,UPI,Delivered
+S00768,2024-04-17,2024,4,Q2,Off-Season,C0209,Gopalganj,Farmer,Tawa (Plough),1,22439,22439,0,0.0,22439.0,UPI,Delivered
+S00769,2023-12-31,2023,12,Q4,Rabi Peak,C0197,Gopalganj,Farmer,Rotavator,1,104114,104114,8,8329.12,95784.88,UPI,Delivered
+S00770,2023-07-07,2023,7,Q3,Kharif Prep,C0187,Sitamarhi,Farmer,Tawa (Plough),1,37620,37620,0,0.0,37620.0,EMI/Finance,Delivered
+S00771,2024-12-02,2024,12,Q4,Rabi Peak,C0303,Patna,Farmer,Tawa (Plough),1,26895,26895,2,537.9,26357.1,Cash,Delivered
+S00772,2023-05-28,2023,5,Q2,Off-Season,C0027,Madhubani,Farmer,Rotavator,1,118958,118958,5,5947.9,113010.1,UPI,Delivered
+S00773,2023-06-16,2023,6,Q2,Kharif Prep,C0297,Begusarai,Dealer,Rotavator,1,95128,95128,5,4756.4,90371.6,Bank Transfer,Delivered
+S00774,2024-12-07,2024,12,Q4,Rabi Peak,C0301,Samastipur,Farmer,Tawa (Plough),1,35224,35224,2,704.48,34519.52,Bank Transfer,Delivered
+S00775,2024-03-03,2024,3,Q1,Off-Season,C0004,Gopalganj,Farmer,Harvester,1,490055,490055,0,0.0,490055.0,Cash,Delivered
+S00776,2024-12-08,2024,12,Q4,Rabi Peak,C0075,Gopalganj,Dealer,Cultivator,2,63962,127924,2,2558.48,125365.52,Bank Transfer,Delivered
+S00777,2024-12-27,2024,12,Q4,Rabi Peak,C0031,Gopalganj,Farmer,Cultivator,1,42772,42772,5,2138.6,40633.4,Cash,Delivered
+S00778,2023-05-09,2023,5,Q2,Off-Season,C0151,Patna,Farmer,Rotavator,1,90151,90151,5,4507.55,85643.45,Cash,Delivered
+S00779,2024-05-10,2024,5,Q2,Off-Season,C0168,Samastipur,Farmer,Tawa (Plough),1,19393,19393,0,0.0,19393.0,Bank Transfer,Delivered
+S00780,2024-04-25,2024,4,Q2,Off-Season,C0091,Siwan,Cooperative,Rotavator,1,101581,101581,0,0.0,101581.0,Cash,Delivered
+S00781,2023-05-07,2023,5,Q2,Off-Season,C0150,Gopalganj,Dealer,Tawa (Plough),1,24730,24730,0,0.0,24730.0,Bank Transfer,Delivered
+S00782,2023-05-30,2023,5,Q2,Off-Season,C0131,Gopalganj,Farmer,Tawa (Plough),2,27089,54178,0,0.0,54178.0,Cash,Delivered
+S00783,2024-09-19,2024,9,Q3,Kharif Peak,C0043,Gopalganj,Farmer,Cultivator,1,72370,72370,5,3618.5,68751.5,Bank Transfer,Delivered
+S00784,2023-07-16,2023,7,Q3,Kharif Prep,C0061,Gopalganj,Farmer,Tawa (Plough),2,23628,47256,0,0.0,47256.0,EMI/Finance,Delivered
+S00785,2023-08-08,2023,8,Q3,Kharif Peak,C0201,Sitamarhi,Farmer,Tawa (Plough),1,41191,41191,2,823.82,40367.18,Cash,Delivered
+S00786,2023-04-20,2023,4,Q2,Off-Season,C0131,Gopalganj,Farmer,Rotavator,3,108253,324759,0,0.0,324759.0,UPI,Delivered
+S00787,2023-11-18,2023,11,Q4,Rabi Prep,C0280,Vaishali,Farmer,Rotavator,1,92229,92229,0,0.0,92229.0,UPI,Delivered
+S00788,2023-02-11,2023,2,Q1,Off-Season,C0350,Vaishali,Dealer,Rotavator,1,117355,117355,0,0.0,117355.0,UPI,Delivered
+S00789,2024-03-30,2024,3,Q1,Off-Season,C0026,Gopalganj,Dealer,Cultivator,1,61691,61691,5,3084.55,58606.45,Cash,Delivered
+S00790,2024-05-02,2024,5,Q2,Off-Season,C0068,Samastipur,Dealer,Tawa (Plough),1,30040,30040,10,3004.0,27036.0,UPI,Delivered
+S00791,2024-03-24,2024,3,Q1,Off-Season,C0251,Muzaffarpur,Dealer,Zero Till Seed Drill,1,208672,208672,0,0.0,208672.0,UPI,Delivered
+S00792,2023-04-15,2023,4,Q2,Off-Season,C0049,Muzaffarpur,Farmer,Threshing Machine,1,66057,66057,10,6605.7,59451.3,Cash,Delivered
+S00793,2024-02-18,2024,2,Q1,Off-Season,C0133,Sitamarhi,Farmer,Rotavator,1,139926,139926,0,0.0,139926.0,Bank Transfer,Delivered
+S00795,2024-06-07,2024,6,Q2,Kharif Prep,C0010,Gopalganj,Dealer,Cultivator,1,64794,64794,0,0.0,64794.0,UPI,Delivered
+S00796,2023-05-18,2023,5,Q2,Off-Season,C0075,Gopalganj,Dealer,Rotavator,1,133352,133352,0,0.0,133352.0,Bank Transfer,Pending
+S00797,2024-01-27,2024,1,Q1,Rabi Peak,C0113,Patna,Cooperative,Threshing Machine,1,76427,76427,2,1528.54,74898.46,Cash,Delivered
+S00798,2024-06-16,2024,6,Q2,Kharif Prep,C0332,Bhagalpur,Farmer,Tawa (Plough),1,43976,43976,0,0.0,43976.0,UPI,Delivered
+S00799,2024-07-09,2024,7,Q3,Kharif Prep,C0256,Siwan,Dealer,Cultivator,1,70424,70424,8,5633.92,64790.08,Cash,Delivered
+S00800,2023-05-02,2023,5,Q2,Off-Season,C0227,Chapra (Saran),Farmer,Cultivator,1,55614,55614,0,0.0,55614.0,Cash,Delivered
+S00801,2024-11-06,2024,11,Q4,Rabi Prep,C0069,Samastipur,Farmer,Tawa (Plough),2,27930,55860,0,0.0,55860.0,UPI,Delivered
+S00802,2024-02-03,2024,2,Q1,Off-Season,C0221,Darbhanga,Farmer,Zero Till Seed Drill,1,134336,134336,0,0.0,134336.0,UPI,Delivered
+S00803,2024-04-26,2024,4,Q2,Off-Season,C0233,Araria,Farmer,Harvester,1,531951,531951,0,0.0,531951.0,UPI,Pending
+S00804,2024-09-23,2024,9,Q3,Kharif Peak,C0013,West Champaran,Farmer,Threshing Machine,1,73640,73640,0,0.0,73640.0,Cash,Delivered
+S00805,2023-12-24,2023,12,Q4,Rabi Peak,C0272,Samastipur,Farmer,Tawa (Plough),1,37135,37135,5,1856.75,35278.25,Cash,Delivered
+S00806,2023-12-20,2023,12,Q4,Rabi Peak,C0052,Gopalganj,Farmer,Tawa (Plough),1,31498,31498,2,629.96,30868.04,Cash,Delivered
+S00807,2024-08-29,2024,8,Q3,Kharif Peak,C0013,West Champaran,Farmer,Rotavator,1,130088,130088,0,0.0,130088.0,Cash,Delivered
+S00808,2023-11-30,2023,11,Q4,Rabi Prep,C0303,Patna,Farmer,Rotavator,1,128107,128107,2,2562.14,125544.86,EMI/Finance,Delivered
+S00809,2024-12-13,2024,12,Q4,Rabi Peak,C0100,East Champaran,Dealer,Harvester,3,461658,1384974,0,0.0,1384974.0,UPI,Delivered
+S00810,2024-05-15,2024,5,Q2,Off-Season,C0135,Chapra (Saran),Farmer,Rotavator,1,129244,129244,0,0.0,129244.0,Bank Transfer,Delivered
+S00811,2023-06-20,2023,6,Q2,Kharif Prep,C0111,Muzaffarpur,Farmer,Threshing Machine,2,78811,157622,0,0.0,157622.0,UPI,Pending
+S00812,2023-03-19,2023,3,Q1,Off-Season,C0313,Madhubani,Dealer,Tawa (Plough),1,35558,35558,0,0.0,35558.0,Cash,Delivered
+S00813,2023-08-20,2023,8,Q3,Kharif Peak,C0143,Sitamarhi,Farmer,Threshing Machine,1,61026,61026,2,1220.52,59805.48,UPI,Delivered
+S00814,2024-08-03,2024,8,Q3,Kharif Peak,C0017,Chapra (Saran),Farmer,Tawa (Plough),1,33573,33573,0,0.0,33573.0,Cash,Delivered
+S00815,2024-05-31,2024,5,Q2,Off-Season,C0164,Madhubani,Farmer,Tawa (Plough),1,32185,32185,0,0.0,32185.0,UPI,Delivered
+S00816,2024-06-11,2024,6,Q2,Kharif Prep,C0339,Siwan,Farmer,Harvester,1,737080,737080,0,0.0,737080.0,Bank Transfer,Delivered
+S00817,2024-08-13,2024,8,Q3,Kharif Peak,C0346,Gopalganj,Farmer,Zero Till Seed Drill,2,206613,413226,2,8264.52,404961.48,UPI,Delivered
+S00818,2024-06-29,2024,6,Q2,Kharif Prep,C0139,Gopalganj,Farmer,Tawa (Plough),2,43202,86404,8,6912.32,79491.68,Bank Transfer,Delivered
+S00819,2023-07-25,2023,7,Q3,Kharif Prep,C0094,Madhubani,Farmer,Cultivator,1,44682,44682,2,893.64,43788.36,Bank Transfer,Delivered
+S00820,2024-02-25,2024,2,Q1,Off-Season,C0043,Gopalganj,Farmer,Cultivator,1,39222,39222,5,1961.1,37260.9,Cash,Delivered
+S00821,2023-06-14,2023,6,Q2,Kharif Prep,C0146,Madhubani,Farmer,Cultivator,1,74402,74402,0,0.0,74402.0,Cash,Delivered
+S00822,2023-11-14,2023,11,Q4,Rabi Prep,C0331,Muzaffarpur,Farmer,Harvester,3,743509,2230527,0,0.0,2230527.0,EMI/Finance,Delivered
+S00823,2023-10-07,2023,10,Q4,Rabi Prep,C0266,Darbhanga,Farmer,Rotavator,1,101934,101934,0,0.0,101934.0,UPI,Delivered
+S00824,2023-02-13,2023,2,Q1,Off-Season,C0283,Sitamarhi,Farmer,Tawa (Plough),1,33920,33920,0,0.0,33920.0,EMI/Finance,Delivered
+S00825,2023-11-02,2023,11,Q4,Rabi Prep,C0226,Chapra (Saran),Farmer,Tawa (Plough),2,31336,62672,2,1253.44,61418.56,EMI/Finance,Delivered
+S00826,2023-05-24,2023,5,Q2,Off-Season,C0233,Araria,Farmer,Cultivator,1,72419,72419,8,5793.52,66625.48,UPI,Delivered
+S00827,2024-06-21,2024,6,Q2,Kharif Prep,C0040,Begusarai,Farmer,Cultivator,1,40914,40914,0,0.0,40914.0,Bank Transfer,Delivered
+S00828,2024-08-21,2024,8,Q3,Kharif Peak,C0033,Madhubani,Farmer,Threshing Machine,2,70462,140924,0,0.0,140924.0,Cash,Delivered
+S00829,2023-10-09,2023,10,Q4,Rabi Prep,C0209,Gopalganj,Farmer,Harvester,1,583329,583329,0,0.0,583329.0,UPI,Delivered
+S00830,2023-04-26,2023,4,Q2,Off-Season,C0208,Chapra (Saran),Farmer,Cultivator,1,62772,62772,0,0.0,62772.0,Cash,Delivered
+S00831,2023-05-29,2023,5,Q2,Off-Season,C0283,Sitamarhi,Farmer,Cultivator,1,59100,59100,0,0.0,59100.0,EMI/Finance,Delivered
+S00832,2024-11-09,2024,11,Q4,Rabi Prep,C0277,Chapra (Saran),Farmer,Tawa (Plough),1,19791,19791,5,989.55,18801.45,Cash,Delivered
+S00833,2023-11-13,2023,11,Q4,Rabi Prep,C0052,Gopalganj,Farmer,Threshing Machine,2,78780,157560,2,3151.2,154408.8,UPI,Delivered
+S00834,2024-03-29,2024,3,Q1,Off-Season,C0110,Gopalganj,Dealer,Cultivator,2,60754,121508,8,9720.64,111787.36,Cash,Delivered
+S00835,2023-08-30,2023,8,Q3,Kharif Peak,C0265,Gopalganj,Dealer,Cultivator,2,45500,91000,2,1820.0,89180.0,EMI/Finance,Delivered
+S00836,2024-02-21,2024,2,Q1,Off-Season,C0118,Samastipur,Cooperative,Tawa (Plough),1,26979,26979,5,1348.95,25630.05,EMI/Finance,Delivered
+S00837,2024-02-27,2024,2,Q1,Off-Season,C0229,Purnia,Dealer,Tawa (Plough),1,28902,28902,5,1445.1,27456.9,Bank Transfer,Delivered
+S00838,2024-12-16,2024,12,Q4,Rabi Peak,C0139,Gopalganj,Farmer,Cultivator,1,39349,39349,2,786.98,38562.02,Bank Transfer,Delivered
+S00839,2024-04-09,2024,4,Q2,Off-Season,C0047,Madhubani,Farmer,Threshing Machine,1,58414,58414,0,0.0,58414.0,UPI,Delivered
+S00840,2023-01-04,2023,1,Q1,Rabi Peak,C0043,Gopalganj,Farmer,Harvester,1,779408,779408,2,15588.16,763819.84,Cash,Delivered
+S00841,2024-12-31,2024,12,Q4,Rabi Peak,C0230,Bhagalpur,Cooperative,Tawa (Plough),1,39272,39272,5,1963.6,37308.4,Bank Transfer,Delivered
+S00842,2023-11-24,2023,11,Q4,Rabi Prep,C0278,Gopalganj,Farmer,Harvester,1,835441,835441,0,0.0,835441.0,UPI,Delivered
+S00843,2023-10-16,2023,10,Q4,Rabi Prep,C0280,Vaishali,Farmer,Rotavator,1,112164,112164,0,0.0,112164.0,UPI,Delivered
+S00844,2024-08-07,2024,8,Q3,Kharif Peak,C0318,Chapra (Saran),Farmer,Cultivator,2,36505,73010,2,1460.2,71549.8,UPI,Delivered
+S00845,2024-04-18,2024,4,Q2,Off-Season,C0265,Gopalganj,Dealer,Rotavator,1,130957,130957,0,0.0,130957.0,UPI,Delivered
+S00846,2023-06-02,2023,6,Q2,Kharif Prep,C0138,Muzaffarpur,Farmer,Rotavator,1,109112,109112,2,2182.24,106929.76,Cash,Delivered
+S00847,2024-04-09,2024,4,Q2,Off-Season,C0005,Gopalganj,Farmer,Tawa (Plough),1,34192,34192,2,683.84,33508.16,Cash,Delivered
+S00848,2023-09-30,2023,9,Q3,Kharif Peak,C0315,Samastipur,Farmer,Cultivator,1,67385,67385,0,0.0,67385.0,Cash,Delivered
+S00849,2023-10-17,2023,10,Q4,Rabi Prep,C0157,West Champaran,Dealer,Threshing Machine,1,67410,67410,0,0.0,67410.0,Cash,Delivered
+S00850,2023-09-26,2023,9,Q3,Kharif Peak,C0285,Patna,Cooperative,Cultivator,2,64555,129110,0,0.0,129110.0,Bank Transfer,Delivered
+S00851,2023-01-11,2023,1,Q1,Rabi Peak,C0290,Gopalganj,Farmer,Harvester,2,619473,1238946,0,0.0,1238946.0,Cash,Delivered
+S00852,2024-03-09,2024,3,Q1,Off-Season,C0188,West Champaran,Farmer,Threshing Machine,1,71792,71792,2,1435.84,70356.16,Cash,Delivered
+S00853,2024-04-27,2024,4,Q2,Off-Season,C0098,Vaishali,Dealer,Tawa (Plough),2,37869,75738,8,6059.04,69678.96,UPI,Delivered
+S00854,2023-02-16,2023,2,Q1,Off-Season,C0195,Chapra (Saran),Dealer,Rotavator,1,118065,118065,0,0.0,118065.0,UPI,Delivered
+S00855,2024-07-26,2024,7,Q3,Kharif Prep,C0018,Siwan,Cooperative,Rotavator,1,96755,96755,0,0.0,96755.0,EMI/Finance,Delivered
+S00856,2023-05-16,2023,5,Q2,Off-Season,C0072,Muzaffarpur,Cooperative,Rotavator,1,131547,131547,0,0.0,131547.0,Cash,Delivered
+S00857,2023-05-11,2023,5,Q2,Off-Season,C0154,Patna,Dealer,Zero Till Seed Drill,1,156831,156831,8,12546.48,144284.52,Cash,Delivered
+S00858,2024-09-19,2024,9,Q3,Kharif Peak,C0101,Madhubani,Cooperative,Tawa (Plough),1,26642,26642,0,0.0,26642.0,Cash,Delivered
+S00859,2024-05-18,2024,5,Q2,Off-Season,C0019,Darbhanga,Farmer,Tawa (Plough),1,22956,22956,8,1836.48,21119.52,UPI,Delivered
+S00860,2023-07-13,2023,7,Q3,Kharif Prep,C0092,Darbhanga,Dealer,Rotavator,1,100064,100064,0,0.0,100064.0,Cash,Delivered
+S00861,2023-04-29,2023,4,Q2,Off-Season,C0070,Gopalganj,Farmer,Tawa (Plough),1,34217,34217,0,0.0,34217.0,Bank Transfer,Delivered
+S00862,2024-05-19,2024,5,Q2,Off-Season,C0248,Bhagalpur,Farmer,Rotavator,1,132170,132170,0,0.0,132170.0,Cash,Delivered
+S00863,2023-07-04,2023,7,Q3,Kharif Prep,C0264,Madhubani,Farmer,Tawa (Plough),1,42573,42573,0,0.0,42573.0,EMI/Finance,Delivered
+S00864,2024-08-20,2024,8,Q3,Kharif Peak,C0282,Darbhanga,Farmer,Tawa (Plough),1,18135,18135,2,362.7,17772.3,UPI,Delivered
+S00865,2024-05-25,2024,5,Q2,Off-Season,C0021,Patna,Farmer,Threshing Machine,1,76538,76538,2,1530.76,75007.24,Bank Transfer,Delivered
+S00866,2024-08-27,2024,8,Q3,Kharif Peak,C0155,Vaishali,Farmer,Tawa (Plough),1,21475,21475,0,0.0,21475.0,Cash,Delivered
+S00867,2024-11-06,2024,11,Q4,Rabi Prep,C0257,Bhagalpur,Dealer,Harvester,2,779439,1558878,2,31177.56,1527700.44,Cash,Pending
+S00868,2024-11-02,2024,11,Q4,Rabi Prep,C0185,Vaishali,Farmer,Threshing Machine,1,84694,84694,2,1693.88,83000.12,Bank Transfer,Pending
+S00869,2024-08-05,2024,8,Q3,Kharif Peak,C0038,Sitamarhi,Farmer,Rotavator,1,141575,141575,2,2831.5,138743.5,Cash,Delivered
+S00870,2023-03-14,2023,3,Q1,Off-Season,C0073,Gopalganj,Farmer,Zero Till Seed Drill,1,198943,198943,0,0.0,198943.0,Cash,Pending
+S00871,2024-02-13,2024,2,Q1,Off-Season,C0155,Vaishali,Farmer,Rotavator,1,140859,140859,0,0.0,140859.0,UPI,Delivered
+S00872,2024-10-31,2024,10,Q4,Rabi Prep,C0125,Chapra (Saran),Dealer,Rotavator,1,104565,104565,0,0.0,104565.0,Bank Transfer,Delivered
+S00873,2024-12-02,2024,12,Q4,Rabi Peak,C0288,Begusarai,Dealer,Threshing Machine,1,78530,78530,5,3926.5,74603.5,UPI,Delivered
+S00874,2024-02-02,2024,2,Q1,Off-Season,C0144,Sitamarhi,Farmer,Harvester,1,745204,745204,0,0.0,745204.0,UPI,Delivered
+S00875,2023-07-10,2023,7,Q3,Kharif Prep,C0265,Gopalganj,Dealer,Harvester,1,673355,673355,0,0.0,673355.0,EMI/Finance,Delivered
+S00876,2024-10-25,2024,10,Q4,Rabi Prep,C0156,Muzaffarpur,Farmer,Threshing Machine,2,65162,130324,0,0.0,130324.0,UPI,Delivered
+S00877,2024-04-24,2024,4,Q2,Off-Season,C0241,Muzaffarpur,Farmer,Harvester,1,700405,700405,10,70040.5,630364.5,Bank Transfer,Delivered
+S00878,2023-09-12,2023,9,Q3,Kharif Peak,C0169,Samastipur,Dealer,Zero Till Seed Drill,1,158729,158729,2,3174.58,155554.42,EMI/Finance,Delivered
+S00879,2024-06-06,2024,6,Q2,Kharif Prep,C0309,Chapra (Saran),Farmer,Harvester,1,499537,499537,2,9990.74,489546.26,Bank Transfer,Delivered
+S00880,2024-08-22,2024,8,Q3,Kharif Peak,C0176,Gopalganj,Cooperative,Rotavator,1,117993,117993,2,2359.86,115633.14,UPI,Delivered
+S00881,2024-02-07,2024,2,Q1,Off-Season,C0248,Bhagalpur,Farmer,Rotavator,1,112279,112279,0,0.0,112279.0,UPI,Delivered
+S00882,2024-11-17,2024,11,Q4,Rabi Prep,C0227,Chapra (Saran),Farmer,Harvester,1,588975,588975,8,47118.0,541857.0,Bank Transfer,Delivered
+S00883,2023-03-22,2023,3,Q1,Off-Season,C0132,Gopalganj,Farmer,Threshing Machine,1,94587,94587,2,1891.74,92695.26,UPI,Delivered
+S00884,2024-02-09,2024,2,Q1,Off-Season,C0107,Gopalganj,Cooperative,Rotavator,1,96254,96254,0,0.0,96254.0,UPI,Delivered
+S00885,2024-09-08,2024,9,Q3,Kharif Peak,C0060,Gopalganj,Farmer,Threshing Machine,1,74844,74844,10,7484.4,67359.6,UPI,Delivered
+S00886,2024-12-07,2024,12,Q4,Rabi Peak,C0131,Gopalganj,Farmer,Threshing Machine,1,74834,74834,0,0.0,74834.0,Cash,Delivered
+S00887,2024-12-13,2024,12,Q4,Rabi Peak,C0141,West Champaran,Dealer,Tawa (Plough),1,18878,18878,2,377.56,18500.44,UPI,Delivered
+S00888,2024-10-03,2024,10,Q4,Rabi Prep,C0020,Gopalganj,Farmer,Tawa (Plough),1,35648,35648,0,0.0,35648.0,UPI,Delivered
+S00889,2023-01-23,2023,1,Q1,Rabi Peak,C0328,Gopalganj,Farmer,Rotavator,1,144140,144140,2,2882.8,141257.2,EMI/Finance,Delivered
+S00890,2024-04-05,2024,4,Q2,Off-Season,C0262,Muzaffarpur,Farmer,Zero Till Seed Drill,1,146389,146389,5,7319.45,139069.55,UPI,Delivered
+S00891,2023-04-16,2023,4,Q2,Off-Season,C0096,Patna,Dealer,Threshing Machine,2,83297,166594,5,8329.7,158264.3,Bank Transfer,Delivered
+S00892,2024-07-21,2024,7,Q3,Kharif Prep,C0233,Araria,Farmer,Tawa (Plough),1,19212,19212,0,0.0,19212.0,UPI,Delivered
+S00893,2024-11-25,2024,11,Q4,Rabi Prep,C0083,Vaishali,Dealer,Tawa (Plough),1,33987,33987,0,0.0,33987.0,Cash,Delivered
+S00894,2024-07-20,2024,7,Q3,Kharif Prep,C0331,Muzaffarpur,Farmer,Rotavator,1,143515,143515,5,7175.75,136339.25,Cash,Delivered
+S00895,2024-10-23,2024,10,Q4,Rabi Prep,C0011,West Champaran,Dealer,Cultivator,1,63588,63588,0,0.0,63588.0,Cash,Delivered
+S00896,2023-08-26,2023,8,Q3,Kharif Peak,C0092,Darbhanga,Dealer,Zero Till Seed Drill,2,197025,394050,0,0.0,394050.0,UPI,Delivered
+S00897,2024-11-03,2024,11,Q4,Rabi Prep,C0269,Vaishali,Farmer,Harvester,1,603822,603822,0,0.0,603822.0,UPI,Pending
+S00898,2024-10-30,2024,10,Q4,Rabi Prep,C0131,Gopalganj,Farmer,Threshing Machine,1,85954,85954,5,4297.7,81656.3,UPI,Delivered
+S00899,2023-03-30,2023,3,Q1,Off-Season,C0182,Darbhanga,Cooperative,Threshing Machine,1,63460,63460,0,0.0,63460.0,UPI,Delivered
+S00900,2024-05-20,2024,5,Q2,Off-Season,C0274,Gopalganj,Farmer,Cultivator,1,48725,48725,10,4872.5,43852.5,UPI,Delivered
+S00901,2024-11-24,2024,11,Q4,Rabi Prep,C0116,Vaishali,Farmer,Rotavator,1,139260,139260,0,0.0,139260.0,Bank Transfer,Delivered
+S00902,2023-04-27,2023,4,Q2,Off-Season,C0238,Siwan,Farmer,Threshing Machine,1,62909,62909,0,0.0,62909.0,EMI/Finance,Delivered
+S00903,2023-02-17,2023,2,Q1,Off-Season,C0262,Muzaffarpur,Farmer,Tawa (Plough),1,36252,36252,0,0.0,36252.0,Bank Transfer,Delivered
+S00904,2024-11-16,2024,11,Q4,Rabi Prep,C0051,Gopalganj,Farmer,Rotavator,2,88304,176608,0,0.0,176608.0,UPI,Delivered
+S00905,2023-04-24,2023,4,Q2,Off-Season,C0218,Darbhanga,Farmer,Tawa (Plough),1,43613,43613,5,2180.65,41432.35,EMI/Finance,Delivered
+S00906,2023-02-12,2023,2,Q1,Off-Season,C0136,Vaishali,Dealer,Zero Till Seed Drill,1,141895,141895,5,7094.75,134800.25,EMI/Finance,Delivered
+S00907,2023-10-27,2023,10,Q4,Rabi Prep,C0259,Gopalganj,Dealer,Threshing Machine,1,88154,88154,5,4407.7,83746.3,Cash,Delivered
+S00908,2023-05-22,2023,5,Q2,Off-Season,C0098,Vaishali,Dealer,Rotavator,1,98231,98231,0,0.0,98231.0,Bank Transfer,Delivered
+S00909,2024-04-30,2024,4,Q2,Off-Season,C0097,Gopalganj,Farmer,Cultivator,1,68097,68097,0,0.0,68097.0,Bank Transfer,Delivered
+S00910,2024-10-06,2024,10,Q4,Rabi Prep,C0064,Begusarai,Dealer,Threshing Machine,1,64935,64935,0,0.0,64935.0,Bank Transfer,Delivered
+S00911,2024-03-15,2024,3,Q1,Off-Season,C0300,Gopalganj,Cooperative,Harvester,2,664595,1329190,8,106335.2,1222854.8,UPI,Delivered
+S00912,2023-01-31,2023,1,Q1,Rabi Peak,C0142,Begusarai,Farmer,Harvester,1,455215,455215,0,0.0,455215.0,Cash,Delivered
+S00913,2024-02-16,2024,2,Q1,Off-Season,C0242,Chapra (Saran),Farmer,Tawa (Plough),1,23384,23384,0,0.0,23384.0,Cash,Delivered
+S00914,2023-06-04,2023,6,Q2,Kharif Prep,C0036,Madhubani,Cooperative,Tawa (Plough),2,19894,39788,10,3978.8,35809.2,Bank Transfer,Delivered
+S00915,2023-10-30,2023,10,Q4,Rabi Prep,C0176,Gopalganj,Cooperative,Harvester,1,806972,806972,5,40348.6,766623.4,Bank Transfer,Delivered
+S00916,2023-12-19,2023,12,Q4,Rabi Peak,C0008,Samastipur,Farmer,Rotavator,2,103335,206670,2,4133.4,202536.6,Cash,Delivered
+S00917,2024-10-21,2024,10,Q4,Rabi Prep,C0329,Gopalganj,Dealer,Rotavator,1,120679,120679,2,2413.58,118265.42,UPI,Delivered
+S00918,2024-10-26,2024,10,Q4,Rabi Prep,C0309,Chapra (Saran),Farmer,Harvester,2,553439,1106878,0,0.0,1106878.0,UPI,Delivered
+S00919,2023-05-10,2023,5,Q2,Off-Season,C0146,Madhubani,Farmer,Zero Till Seed Drill,1,190882,190882,0,0.0,190882.0,UPI,Delivered
+S00920,2024-10-12,2024,10,Q4,Rabi Prep,C0010,Gopalganj,Dealer,Rotavator,2,86827,173654,0,0.0,173654.0,Cash,Delivered
+S00921,2023-11-08,2023,11,Q4,Rabi Prep,C0058,Samastipur,Cooperative,Threshing Machine,1,88113,88113,0,0.0,88113.0,UPI,Delivered
+S00922,2023-12-29,2023,12,Q4,Rabi Peak,C0273,Siwan,Farmer,Rotavator,1,134581,134581,0,0.0,134581.0,Cash,Delivered
+S00923,2024-04-09,2024,4,Q2,Off-Season,C0243,Gopalganj,Farmer,Cultivator,1,50472,50472,10,5047.2,45424.8,UPI,Delivered
+S00924,2024-10-04,2024,10,Q4,Rabi Prep,C0246,Patna,Farmer,Threshing Machine,1,94029,94029,0,0.0,94029.0,Bank Transfer,Delivered
+S00925,2024-08-09,2024,8,Q3,Kharif Peak,C0118,Samastipur,Cooperative,Threshing Machine,1,79750,79750,0,0.0,79750.0,Cash,Delivered
+S00926,2024-01-05,2024,1,Q1,Rabi Peak,C0194,Patna,Farmer,Harvester,1,526836,526836,5,26341.8,500494.2,Cash,Delivered
+S00927,2023-05-14,2023,5,Q2,Off-Season,C0181,Gopalganj,Farmer,Harvester,1,683918,683918,2,13678.36,670239.64,UPI,Delivered
+S00928,2024-02-09,2024,2,Q1,Off-Season,C0116,Vaishali,Farmer,Tawa (Plough),1,37146,37146,0,0.0,37146.0,UPI,Delivered
+S00929,2024-05-16,2024,5,Q2,Off-Season,C0334,Gopalganj,Farmer,Threshing Machine,1,82323,82323,0,0.0,82323.0,Cash,Delivered
+S00930,2023-05-13,2023,5,Q2,Off-Season,C0042,Siwan,Farmer,Tawa (Plough),1,34816,34816,0,0.0,34816.0,Cash,Delivered
+S00931,2023-06-10,2023,6,Q2,Kharif Prep,C0096,Patna,Dealer,Tawa (Plough),2,30102,60204,0,0.0,60204.0,EMI/Finance,Delivered
+S00932,2024-01-14,2024,1,Q1,Rabi Peak,C0165,Darbhanga,Dealer,Zero Till Seed Drill,1,125279,125279,0,0.0,125279.0,Cash,Delivered
+S00933,2023-10-29,2023,10,Q4,Rabi Prep,C0247,Bhagalpur,Farmer,Zero Till Seed Drill,1,138726,138726,2,2774.52,135951.48,Cash,Delivered
+S00934,2023-10-18,2023,10,Q4,Rabi Prep,C0256,Siwan,Dealer,Rotavator,1,138682,138682,0,0.0,138682.0,UPI,Delivered
+S00935,2023-02-15,2023,2,Q1,Off-Season,C0217,Gopalganj,Farmer,Harvester,1,750448,750448,0,0.0,750448.0,Cash,Delivered
+S00936,2024-09-12,2024,9,Q3,Kharif Peak,C0266,Darbhanga,Farmer,Rotavator,1,94078,94078,0,0.0,94078.0,UPI,Delivered
+S00937,2023-11-30,2023,11,Q4,Rabi Prep,C0249,Chapra (Saran),Farmer,Rotavator,1,125944,125944,0,0.0,125944.0,Cash,Delivered
+S00938,2024-07-07,2024,7,Q3,Kharif Prep,C0109,Samastipur,Farmer,Rotavator,2,128938,257876,2,5157.52,252718.48,UPI,Delivered
+S00939,2024-12-25,2024,12,Q4,Rabi Peak,C0013,West Champaran,Farmer,Rotavator,1,126294,126294,2,2525.88,123768.12,UPI,Delivered
+S00940,2024-07-26,2024,7,Q3,Kharif Prep,C0096,Patna,Dealer,Rotavator,1,125547,125547,5,6277.35,119269.65,EMI/Finance,Delivered
+S00941,2024-05-02,2024,5,Q2,Off-Season,C0112,Bhagalpur,Farmer,Zero Till Seed Drill,1,122446,122446,8,9795.68,112650.32,Cash,Delivered
+S00942,2023-07-30,2023,7,Q3,Kharif Prep,C0183,Muzaffarpur,Dealer,Cultivator,1,72981,72981,5,3649.05,69331.95,UPI,Delivered
+S00943,2023-02-16,2023,2,Q1,Off-Season,C0138,Muzaffarpur,Farmer,Zero Till Seed Drill,1,123049,123049,0,0.0,123049.0,Cash,Delivered
+S00944,2024-01-27,2024,1,Q1,Rabi Peak,C0305,Bhagalpur,Farmer,Cultivator,2,42513,85026,0,0.0,85026.0,Cash,Delivered
+S00945,2023-04-02,2023,4,Q2,Off-Season,C0118,Samastipur,Cooperative,Rotavator,1,111691,111691,0,0.0,111691.0,EMI/Finance,Delivered
+S00946,2024-12-31,2024,12,Q4,Rabi Peak,C0178,Muzaffarpur,Farmer,Rotavator,1,110555,110555,0,0.0,110555.0,EMI/Finance,Delivered
+S00947,2023-05-04,2023,5,Q2,Off-Season,C0345,Samastipur,Farmer,Rotavator,1,100703,100703,2,2014.06,98688.94,UPI,Delivered
+S00948,2024-01-30,2024,1,Q1,Rabi Peak,C0009,Purnia,Farmer,Tawa (Plough),1,26824,26824,0,0.0,26824.0,UPI,Delivered
+S00949,2024-02-22,2024,2,Q1,Off-Season,C0076,Darbhanga,Farmer,Threshing Machine,1,56220,56220,8,4497.6,51722.4,Bank Transfer,Delivered
+S00950,2024-07-22,2024,7,Q3,Kharif Prep,C0022,Gopalganj,Dealer,Threshing Machine,1,63229,63229,0,0.0,63229.0,Cash,Delivered
+S00951,2023-07-28,2023,7,Q3,Kharif Prep,C0312,Samastipur,Farmer,Tawa (Plough),1,22665,22665,10,2266.5,20398.5,Bank Transfer,Delivered
+S00952,2024-03-09,2024,3,Q1,Off-Season,C0157,West Champaran,Dealer,Tawa (Plough),1,36191,36191,0,0.0,36191.0,UPI,Delivered
+S00953,2023-10-24,2023,10,Q4,Rabi Prep,C0254,Siwan,Farmer,Threshing Machine,1,65969,65969,8,5277.52,60691.479999999996,UPI,Delivered
+S00954,2024-11-27,2024,11,Q4,Rabi Prep,C0287,Patna,Farmer,Cultivator,1,58030,58030,0,0.0,58030.0,Bank Transfer,Delivered
+S00955,2023-06-15,2023,6,Q2,Kharif Prep,C0229,Purnia,Dealer,Threshing Machine,1,91902,91902,0,0.0,91902.0,Bank Transfer,Delivered
+S00956,2024-07-23,2024,7,Q3,Kharif Prep,C0078,Samastipur,Farmer,Tawa (Plough),1,32154,32154,0,0.0,32154.0,Bank Transfer,Delivered
+S00957,2023-12-17,2023,12,Q4,Rabi Peak,C0238,Siwan,Farmer,Threshing Machine,1,84669,84669,2,1693.38,82975.62,Cash,Delivered
+S00958,2024-09-05,2024,9,Q3,Kharif Peak,C0345,Samastipur,Farmer,Cultivator,1,43763,43763,0,0.0,43763.0,UPI,Delivered
+S00959,2024-11-19,2024,11,Q4,Rabi Prep,C0055,Muzaffarpur,Dealer,Rotavator,2,121424,242848,2,4856.96,237991.04,Bank Transfer,Delivered
+S00960,2024-10-26,2024,10,Q4,Rabi Prep,C0115,Chapra (Saran),Cooperative,Threshing Machine,1,90300,90300,5,4515.0,85785.0,Bank Transfer,Delivered
+S00961,2023-12-28,2023,12,Q4,Rabi Peak,C0014,Gopalganj,Farmer,Tawa (Plough),1,30333,30333,0,0.0,30333.0,Cash,Delivered
+S00962,2024-12-14,2024,12,Q4,Rabi Peak,C0264,Madhubani,Farmer,Tawa (Plough),1,22088,22088,8,1767.04,20320.96,UPI,Delivered
+S00963,2023-01-21,2023,1,Q1,Rabi Peak,C0107,Gopalganj,Cooperative,Tawa (Plough),2,40300,80600,0,0.0,80600.0,Cash,Delivered
+S00964,2023-11-07,2023,11,Q4,Rabi Prep,C0087,Gopalganj,Dealer,Tawa (Plough),1,25246,25246,0,0.0,25246.0,UPI,Delivered
+S00965,2024-12-21,2024,12,Q4,Rabi Peak,C0114,Darbhanga,Farmer,Threshing Machine,1,68702,68702,10,6870.2,61831.8,UPI,Delivered
+S00966,2023-10-12,2023,10,Q4,Rabi Prep,C0090,Samastipur,Dealer,Zero Till Seed Drill,1,184751,184751,0,0.0,184751.0,Bank Transfer,Delivered
+S00967,2024-09-09,2024,9,Q3,Kharif Peak,C0263,Sitamarhi,Farmer,Zero Till Seed Drill,1,128566,128566,2,2571.32,125994.68,Cash,Delivered
+S00969,2024-12-10,2024,12,Q4,Rabi Peak,C0188,West Champaran,Farmer,Threshing Machine,1,71575,71575,5,3578.75,67996.25,Cash,Delivered
+S00970,2024-11-20,2024,11,Q4,Rabi Prep,C0301,Samastipur,Farmer,Tawa (Plough),1,19699,19699,0,0.0,19699.0,Bank Transfer,Delivered
+S00971,2023-05-05,2023,5,Q2,Off-Season,C0131,Gopalganj,Farmer,Threshing Machine,1,85578,85578,0,0.0,85578.0,Cash,Delivered
+S00972,2023-02-18,2023,2,Q1,Off-Season,C0171,West Champaran,Cooperative,Cultivator,1,62529,62529,0,0.0,62529.0,UPI,Delivered
+S00973,2024-08-08,2024,8,Q3,Kharif Peak,C0105,Siwan,Farmer,Tawa (Plough),1,42164,42164,2,843.28,41320.72,EMI/Finance,Delivered
+S00974,2023-07-21,2023,7,Q3,Kharif Prep,C0003,Vaishali,Farmer,Rotavator,1,105368,105368,2,2107.36,103260.64,Cash,Delivered
+S00975,2023-01-25,2023,1,Q1,Rabi Peak,C0175,East Champaran,Dealer,Zero Till Seed Drill,2,202090,404180,5,20209.0,383971.0,Cash,Delivered
+S00976,2023-12-15,2023,12,Q4,Rabi Peak,C0251,Muzaffarpur,Dealer,Tawa (Plough),1,44923,44923,5,2246.15,42676.85,EMI/Finance,Delivered
+S00977,2024-09-26,2024,9,Q3,Kharif Peak,C0050,Gopalganj,Farmer,Harvester,1,500159,500159,2,10003.18,490155.82,Cash,Delivered
+S00978,2023-02-04,2023,2,Q1,Off-Season,C0347,Chapra (Saran),Farmer,Cultivator,1,39261,39261,0,0.0,39261.0,Bank Transfer,Delivered
+S00979,2024-09-17,2024,9,Q3,Kharif Peak,C0334,Gopalganj,Farmer,Threshing Machine,1,59311,59311,0,0.0,59311.0,Cash,Delivered
+S00980,2024-02-16,2024,2,Q1,Off-Season,C0089,Siwan,Farmer,Rotavator,1,134280,134280,5,6714.0,127566.0,Bank Transfer,Delivered
+S00981,2024-04-09,2024,4,Q2,Off-Season,C0098,Vaishali,Dealer,Cultivator,1,63056,63056,2,1261.12,61794.88,Cash,Delivered
+S00982,2023-01-27,2023,1,Q1,Rabi Peak,C0170,Darbhanga,Dealer,Harvester,1,622068,622068,0,0.0,622068.0,Cash,Delivered
+S00983,2024-08-30,2024,8,Q3,Kharif Peak,C0057,Chapra (Saran),Farmer,Tawa (Plough),2,24344,48688,0,0.0,48688.0,UPI,Delivered
+S00984,2024-05-07,2024,5,Q2,Off-Season,C0345,Samastipur,Farmer,Threshing Machine,1,84138,84138,0,0.0,84138.0,Cash,Delivered
+S00985,2024-08-21,2024,8,Q3,Kharif Peak,C0299,Vaishali,Dealer,Harvester,1,791681,791681,0,0.0,791681.0,EMI/Finance,Delivered
+S00986,2023-05-31,2023,5,Q2,Off-Season,C0126,Gopalganj,Dealer,Harvester,1,766318,766318,0,0.0,766318.0,Cash,Delivered
+S00987,2024-11-25,2024,11,Q4,Rabi Prep,C0072,Muzaffarpur,Cooperative,Rotavator,1,100557,100557,5,5027.85,95529.15,EMI/Finance,Delivered
+S00988,2023-07-20,2023,7,Q3,Kharif Prep,C0319,West Champaran,Farmer,Tawa (Plough),2,38989,77978,5,3898.9,74079.1,Cash,Delivered
+S00989,2024-12-12,2024,12,Q4,Rabi Peak,C0030,Darbhanga,Dealer,Threshing Machine,1,85631,85631,0,0.0,85631.0,UPI,Pending
+S00990,2024-09-22,2024,9,Q3,Kharif Peak,C0348,Purnia,Farmer,Cultivator,1,56536,56536,0,0.0,56536.0,Bank Transfer,Delivered
+S00991,2023-08-13,2023,8,Q3,Kharif Peak,C0328,Gopalganj,Farmer,Tawa (Plough),1,38931,38931,0,0.0,38931.0,UPI,Delivered
+S00992,2023-12-06,2023,12,Q4,Rabi Peak,C0186,Darbhanga,Farmer,Tawa (Plough),1,30317,30317,0,0.0,30317.0,EMI/Finance,Delivered
+S00993,2023-03-17,2023,3,Q1,Off-Season,C0325,Siwan,Cooperative,Cultivator,1,71352,71352,0,0.0,71352.0,Cash,Delivered
+S00994,2024-01-04,2024,1,Q1,Rabi Peak,C0002,Gopalganj,Dealer,Rotavator,1,86945,86945,0,0.0,86945.0,Cash,Delivered
+S00995,2023-06-28,2023,6,Q2,Kharif Prep,C0293,Gopalganj,Dealer,Cultivator,1,71340,71340,0,0.0,71340.0,Cash,Delivered
+S00996,2023-04-14,2023,4,Q2,Off-Season,C0319,West Champaran,Farmer,Rotavator,1,129397,129397,2,2587.94,126809.06,EMI/Finance,Delivered
+S00997,2023-08-04,2023,8,Q3,Kharif Peak,C0015,East Champaran,Cooperative,Cultivator,1,50738,50738,0,0.0,50738.0,Cash,Delivered
+S00998,2024-09-30,2024,9,Q3,Kharif Peak,C0340,East Champaran,Farmer,Tawa (Plough),1,41296,41296,0,0.0,41296.0,EMI/Finance,Delivered
+S00999,2023-07-16,2023,7,Q3,Kharif Prep,C0035,Chapra (Saran),Farmer,Zero Till Seed Drill,1,211010,211010,2,4220.2,206789.8,EMI/Finance,Delivered
+S01000,2023-02-17,2023,2,Q1,Off-Season,C0306,Gopalganj,Dealer,Tawa (Plough),1,37245,37245,0,0.0,37245.0,Bank Transfer,Delivered
+S01001,2023-02-24,2023,2,Q1,Off-Season,C0139,Gopalganj,Farmer,Threshing Machine,1,73354,73354,5,3667.7,69686.3,EMI/Finance,Delivered
+S01002,2023-08-03,2023,8,Q3,Kharif Peak,C0010,Gopalganj,Dealer,Threshing Machine,1,85845,85845,2,1716.9,84128.1,Cash,Delivered
+S01003,2024-10-22,2024,10,Q4,Rabi Prep,C0083,Vaishali,Dealer,Tawa (Plough),1,30263,30263,0,0.0,30263.0,Cash,Delivered
+S01004,2024-12-12,2024,12,Q4,Rabi Peak,C0196,Samastipur,Farmer,Zero Till Seed Drill,1,184853,184853,2,3697.06,181155.94,UPI,Delivered
+S01005,2024-10-27,2024,10,Q4,Rabi Prep,C0274,Gopalganj,Farmer,Rotavator,2,99386,198772,0,0.0,198772.0,Cash,Delivered
+S01006,2024-03-11,2024,3,Q1,Off-Season,C0346,Gopalganj,Farmer,Tawa (Plough),1,36722,36722,5,1836.1,34885.9,Cash,Delivered
+S01007,2023-03-28,2023,3,Q1,Off-Season,C0143,Sitamarhi,Farmer,Cultivator,1,69001,69001,2,1380.02,67620.98,UPI,Delivered
+S01008,2024-03-12,2024,3,Q1,Off-Season,C0292,Gopalganj,Farmer,Harvester,1,676757,676757,5,33837.85,642919.15,Cash,Delivered
+S01009,2023-07-03,2023,7,Q3,Kharif Prep,C0229,Purnia,Dealer,Harvester,1,589263,589263,0,0.0,589263.0,Cash,Delivered
+S01010,2024-06-09,2024,6,Q2,Kharif Prep,C0017,Chapra (Saran),Farmer,Zero Till Seed Drill,1,130244,130244,8,10419.52,119824.48,Cash,Delivered
+S01011,2023-02-09,2023,2,Q1,Off-Season,C0329,Gopalganj,Dealer,Zero Till Seed Drill,1,163746,163746,0,0.0,163746.0,Cash,Delivered
+S01012,2024-11-30,2024,11,Q4,Rabi Prep,C0087,Gopalganj,Dealer,Tawa (Plough),1,24246,24246,10,2424.6,21821.4,EMI/Finance,Delivered
+S01014,2024-02-20,2024,2,Q1,Off-Season,C0218,Darbhanga,Farmer,Tawa (Plough),1,42831,42831,0,0.0,42831.0,UPI,Delivered
+S01015,2023-06-02,2023,6,Q2,Kharif Prep,C0236,Chapra (Saran),Farmer,Tawa (Plough),1,25457,25457,2,509.14,24947.86,UPI,Delivered
+S01016,2024-07-19,2024,7,Q3,Kharif Prep,C0034,Siwan,Farmer,Tawa (Plough),1,41675,41675,0,0.0,41675.0,Cash,Delivered
+S01017,2024-03-15,2024,3,Q1,Off-Season,C0333,Samastipur,Farmer,Tawa (Plough),1,40870,40870,0,0.0,40870.0,EMI/Finance,Delivered
+S01018,2023-05-23,2023,5,Q2,Off-Season,C0056,Gopalganj,Farmer,Zero Till Seed Drill,1,136822,136822,2,2736.44,134085.56,UPI,Delivered
+S01019,2023-12-30,2023,12,Q4,Rabi Peak,C0311,Gopalganj,Farmer,Cultivator,1,62469,62469,5,3123.45,59345.55,Bank Transfer,Delivered
+S01020,2023-11-03,2023,11,Q4,Rabi Prep,C0230,Bhagalpur,Cooperative,Cultivator,1,36523,36523,0,0.0,36523.0,Cash,Pending
+S01021,2023-12-05,2023,12,Q4,Rabi Peak,C0256,Siwan,Dealer,Zero Till Seed Drill,2,199036,398072,2,7961.44,390110.56,UPI,Delivered
+S01022,2024-02-05,2024,2,Q1,Off-Season,C0274,Gopalganj,Farmer,Rotavator,1,110325,110325,0,0.0,110325.0,UPI,Delivered
+S01023,2023-11-08,2023,11,Q4,Rabi Prep,C0292,Gopalganj,Farmer,Rotavator,1,91836,91836,0,0.0,91836.0,Bank Transfer,Delivered
+S01024,2023-01-28,2023,1,Q1,Rabi Peak,C0049,Muzaffarpur,Farmer,Rotavator,2,89554,179108,0,0.0,179108.0,Cash,Delivered
+S01025,2024-06-20,2024,6,Q2,Kharif Prep,C0104,Bhagalpur,Dealer,Rotavator,1,88765,88765,0,0.0,88765.0,Cash,Delivered
+S01026,2024-02-05,2024,2,Q1,Off-Season,C0029,Muzaffarpur,Dealer,Rotavator,1,92257,92257,0,0.0,92257.0,Bank Transfer,Delivered
+S01027,2023-07-31,2023,7,Q3,Kharif Prep,C0193,Gopalganj,Farmer,Rotavator,1,98479,98479,5,4923.95,93555.05,Bank Transfer,Delivered
+S01028,2024-08-11,2024,8,Q3,Kharif Peak,C0007,West Champaran,Farmer,Tawa (Plough),1,37250,37250,2,745.0,36505.0,UPI,Delivered
+S01029,2023-05-27,2023,5,Q2,Off-Season,C0115,Chapra (Saran),Cooperative,Harvester,1,659315,659315,0,0.0,659315.0,Cash,Delivered
+S01030,2024-05-17,2024,5,Q2,Off-Season,C0260,Chapra (Saran),Cooperative,Harvester,1,752059,752059,0,0.0,752059.0,UPI,Delivered
+S01031,2023-12-22,2023,12,Q4,Rabi Peak,C0019,Darbhanga,Farmer,Threshing Machine,1,74493,74493,5,3724.65,70768.35,Bank Transfer,Delivered
+S01032,2023-07-03,2023,7,Q3,Kharif Prep,C0325,Siwan,Cooperative,Tawa (Plough),1,42026,42026,0,0.0,42026.0,Bank Transfer,Delivered
+S01033,2023-04-08,2023,4,Q2,Off-Season,C0245,Gopalganj,Farmer,Cultivator,1,37861,37861,5,1893.05,35967.95,Cash,Delivered
+S01034,2023-10-26,2023,10,Q4,Rabi Prep,C0040,Begusarai,Farmer,Threshing Machine,1,59374,59374,2,1187.48,58186.52,Cash,Delivered
+S01035,2024-07-20,2024,7,Q3,Kharif Prep,C0118,Samastipur,Cooperative,Rotavator,1,109165,109165,0,0.0,109165.0,Bank Transfer,Delivered
+S01036,2024-04-06,2024,4,Q2,Off-Season,C0129,Gopalganj,Farmer,Rotavator,1,98590,98590,0,0.0,98590.0,Cash,Delivered
+S01037,2024-04-17,2024,4,Q2,Off-Season,C0105,Siwan,Farmer,Cultivator,1,61171,61171,0,0.0,61171.0,Cash,Delivered
+S01038,2023-05-20,2023,5,Q2,Off-Season,C0324,East Champaran,Dealer,Cultivator,1,65424,65424,0,0.0,65424.0,UPI,Delivered
+S01039,2024-03-24,2024,3,Q1,Off-Season,C0201,Sitamarhi,Farmer,Rotavator,1,138767,138767,0,0.0,138767.0,Bank Transfer,Delivered
+S01040,2023-07-01,2023,7,Q3,Kharif Prep,C0111,Muzaffarpur,Farmer,Cultivator,1,70039,70039,0,0.0,70039.0,Bank Transfer,Delivered
+S01041,2023-10-07,2023,10,Q4,Rabi Prep,C0333,Samastipur,Farmer,Rotavator,1,108467,108467,2,2169.34,106297.66,EMI/Finance,Delivered
+S01042,2024-03-28,2024,3,Q1,Off-Season,C0255,Sitamarhi,Farmer,Threshing Machine,1,89267,89267,2,1785.34,87481.66,EMI/Finance,Delivered
+S01043,2023-11-12,2023,11,Q4,Rabi Prep,C0084,Gopalganj,Dealer,Harvester,1,763631,763631,5,38181.55,725449.45,Bank Transfer,Delivered
+S01044,2024-01-19,2024,1,Q1,Rabi Peak,C0021,Patna,Farmer,Tawa (Plough),1,24553,24553,0,0.0,24553.0,EMI/Finance,Delivered
+S01045,2023-07-16,2023,7,Q3,Kharif Prep,C0180,Vaishali,Farmer,Threshing Machine,1,59140,59140,5,2957.0,56183.0,Bank Transfer,Delivered
+S01046,2023-06-21,2023,6,Q2,Kharif Prep,C0091,Siwan,Cooperative,Threshing Machine,1,57884,57884,0,0.0,57884.0,Cash,Delivered
+S01047,2023-07-14,2023,7,Q3,Kharif Prep,C0061,Gopalganj,Farmer,Threshing Machine,1,90501,90501,0,0.0,90501.0,Cash,Delivered
+S01048,2023-11-28,2023,11,Q4,Rabi Prep,C0026,Gopalganj,Dealer,Rotavator,1,111354,111354,0,0.0,111354.0,Cash,Delivered
+S01049,2024-11-04,2024,11,Q4,Rabi Prep,C0094,Madhubani,Farmer,Tawa (Plough),1,39297,39297,0,0.0,39297.0,EMI/Finance,Delivered
+S01050,2024-09-05,2024,9,Q3,Kharif Peak,C0101,Madhubani,Cooperative,Zero Till Seed Drill,1,133344,133344,5,6667.2,126676.8,EMI/Finance,Delivered
+S01051,2023-09-15,2023,9,Q3,Kharif Peak,C0329,Gopalganj,Dealer,Tawa (Plough),1,37656,37656,2,753.12,36902.88,UPI,Delivered
+S01052,2024-12-11,2024,12,Q4,Rabi Peak,C0037,Muzaffarpur,Farmer,Rotavator,1,96490,96490,5,4824.5,91665.5,Cash,Delivered
+S01053,2024-05-08,2024,5,Q2,Off-Season,C0305,Bhagalpur,Farmer,Rotavator,1,86156,86156,2,1723.12,84432.88,UPI,Delivered
+S01054,2023-08-27,2023,8,Q3,Kharif Peak,C0087,Gopalganj,Dealer,Zero Till Seed Drill,3,212357,637071,0,0.0,637071.0,UPI,Delivered
+S01055,2023-11-13,2023,11,Q4,Rabi Prep,C0056,Gopalganj,Farmer,Cultivator,1,63082,63082,2,1261.64,61820.36,Cash,Delivered
+S01056,2023-10-31,2023,10,Q4,Rabi Prep,C0015,East Champaran,Cooperative,Rotavator,1,109625,109625,0,0.0,109625.0,EMI/Finance,Delivered
+S01057,2024-03-30,2024,3,Q1,Off-Season,C0131,Gopalganj,Farmer,Threshing Machine,1,76541,76541,0,0.0,76541.0,Bank Transfer,Delivered
+S01058,2024-02-29,2024,2,Q1,Off-Season,C0135,Chapra (Saran),Farmer,Threshing Machine,1,73904,73904,0,0.0,73904.0,Bank Transfer,Delivered
+S01059,2023-07-30,2023,7,Q3,Kharif Prep,C0330,Madhubani,Farmer,Zero Till Seed Drill,3,207163,621489,5,31074.45,590414.55,Bank Transfer,Delivered
+S01060,2024-01-26,2024,1,Q1,Rabi Peak,C0303,Patna,Farmer,Zero Till Seed Drill,1,144057,144057,0,0.0,144057.0,EMI/Finance,Delivered
+S01061,2023-07-17,2023,7,Q3,Kharif Prep,C0348,Purnia,Farmer,Rotavator,2,94275,188550,0,0.0,188550.0,Cash,Delivered
+S01062,2023-07-29,2023,7,Q3,Kharif Prep,C0080,Begusarai,Cooperative,Cultivator,1,40122,40122,0,0.0,40122.0,Cash,Delivered
+S01063,2024-03-10,2024,3,Q1,Off-Season,C0089,Siwan,Farmer,Rotavator,1,101316,101316,2,2026.32,99289.68,EMI/Finance,Delivered
+S01064,2024-05-07,2024,5,Q2,Off-Season,C0002,Gopalganj,Dealer,Rotavator,1,108565,108565,0,0.0,108565.0,UPI,Delivered
+S01065,2024-03-19,2024,3,Q1,Off-Season,C0322,Gopalganj,Dealer,Tawa (Plough),2,44856,89712,0,0.0,89712.0,Bank Transfer,Delivered
+S01066,2023-03-27,2023,3,Q1,Off-Season,C0311,Gopalganj,Farmer,Tawa (Plough),1,27837,27837,0,0.0,27837.0,Bank Transfer,Delivered
+S01067,2024-04-19,2024,4,Q2,Off-Season,C0061,Gopalganj,Farmer,Cultivator,1,53561,53561,2,1071.22,52489.78,Cash,Delivered
+S01068,2024-04-25,2024,4,Q2,Off-Season,C0311,Gopalganj,Farmer,Rotavator,1,97427,97427,5,4871.35,92555.65,Bank Transfer,Delivered
+S01069,2024-02-19,2024,2,Q1,Off-Season,C0136,Vaishali,Dealer,Tawa (Plough),2,30931,61862,0,0.0,61862.0,UPI,Delivered
+S01070,2024-08-25,2024,8,Q3,Kharif Peak,C0175,East Champaran,Dealer,Rotavator,1,142999,142999,8,11439.92,131559.08,UPI,Delivered
+S01071,2023-07-18,2023,7,Q3,Kharif Prep,C0135,Chapra (Saran),Farmer,Tawa (Plough),1,26364,26364,5,1318.2,25045.8,Cash,Delivered
+S01072,2024-10-12,2024,10,Q4,Rabi Prep,C0175,East Champaran,Dealer,Threshing Machine,1,58781,58781,8,4702.48,54078.520000000004,Bank Transfer,Delivered
+S01073,2023-02-05,2023,2,Q1,Off-Season,C0122,Siwan,Farmer,Tawa (Plough),1,29842,29842,2,596.84,29245.16,Bank Transfer,Delivered
+S01074,2023-09-25,2023,9,Q3,Kharif Peak,C0258,Patna,Farmer,Threshing Machine,1,64657,64657,2,1293.14,63363.86,EMI/Finance,Delivered
+S01075,2023-01-13,2023,1,Q1,Rabi Peak,C0001,Darbhanga,Farmer,Rotavator,1,91049,91049,8,7283.92,83765.08,UPI,Delivered
+S01076,2023-03-24,2023,3,Q1,Off-Season,C0298,Bhagalpur,Cooperative,Zero Till Seed Drill,1,144749,144749,0,0.0,144749.0,UPI,Delivered
+S01077,2024-05-27,2024,5,Q2,Off-Season,C0230,Bhagalpur,Cooperative,Tawa (Plough),2,39577,79154,2,1583.08,77570.92,Bank Transfer,Delivered
+S01078,2023-04-02,2023,4,Q2,Off-Season,C0007,West Champaran,Farmer,Rotavator,1,122526,122526,0,0.0,122526.0,Cash,Delivered
+S01079,2024-02-12,2024,2,Q1,Off-Season,C0330,Madhubani,Farmer,Threshing Machine,3,55420,166260,5,8313.0,157947.0,Cash,Delivered
+S01080,2024-12-14,2024,12,Q4,Rabi Peak,C0149,Chapra (Saran),Farmer,Harvester,1,668545,668545,2,13370.9,655174.1,Cash,Delivered
+S01081,2024-12-21,2024,12,Q4,Rabi Peak,C0167,Gopalganj,Farmer,Rotavator,1,116881,116881,8,9350.48,107530.52,UPI,Delivered
+S01082,2023-07-10,2023,7,Q3,Kharif Prep,C0056,Gopalganj,Farmer,Rotavator,1,134146,134146,5,6707.3,127438.7,Cash,Delivered
+S01083,2024-02-23,2024,2,Q1,Off-Season,C0337,Gopalganj,Farmer,Harvester,1,777376,777376,2,15547.52,761828.48,Cash,Delivered
+S01084,2023-05-08,2023,5,Q2,Off-Season,C0176,Gopalganj,Cooperative,Cultivator,1,57423,57423,0,0.0,57423.0,UPI,Delivered
+S01085,2023-01-10,2023,1,Q1,Rabi Peak,C0310,Araria,Farmer,Rotavator,2,134269,268538,2,5370.76,263167.24,Bank Transfer,Delivered
+S01086,2023-08-05,2023,8,Q3,Kharif Peak,C0075,Gopalganj,Dealer,Zero Till Seed Drill,1,120951,120951,0,0.0,120951.0,EMI/Finance,Delivered
+S01087,2024-05-12,2024,5,Q2,Off-Season,C0017,Chapra (Saran),Farmer,Harvester,1,626700,626700,0,0.0,626700.0,Bank Transfer,Delivered
+S01088,2023-11-19,2023,11,Q4,Rabi Prep,C0318,Chapra (Saran),Farmer,Tawa (Plough),1,29836,29836,0,0.0,29836.0,Cash,Delivered
+S01089,2023-12-05,2023,12,Q4,Rabi Peak,C0197,Gopalganj,Farmer,Tawa (Plough),1,18101,18101,2,362.02,17738.98,Bank Transfer,Delivered
+S01090,2023-05-23,2023,5,Q2,Off-Season,C0168,Samastipur,Farmer,Rotavator,1,93054,93054,0,0.0,93054.0,Bank Transfer,Delivered
+S01091,2024-01-13,2024,1,Q1,Rabi Peak,C0051,Gopalganj,Farmer,Harvester,1,809758,809758,0,0.0,809758.0,UPI,Delivered
+S01092,2024-10-15,2024,10,Q4,Rabi Prep,C0217,Gopalganj,Farmer,Tawa (Plough),1,44627,44627,2,892.54,43734.46,EMI/Finance,Pending
+S01093,2023-11-30,2023,11,Q4,Rabi Prep,C0162,East Champaran,Farmer,Threshing Machine,1,70306,70306,0,0.0,70306.0,UPI,Delivered
+S01094,2024-03-14,2024,3,Q1,Off-Season,C0015,East Champaran,Cooperative,Tawa (Plough),3,33601,100803,5,5040.15,95762.85,EMI/Finance,Delivered
+S01095,2023-10-28,2023,10,Q4,Rabi Prep,C0292,Gopalganj,Farmer,Threshing Machine,1,64382,64382,5,3219.1,61162.9,Bank Transfer,Delivered
+S01097,2024-04-23,2024,4,Q2,Off-Season,C0043,Gopalganj,Farmer,Rotavator,2,114247,228494,0,0.0,228494.0,UPI,Delivered
+S01098,2023-06-24,2023,6,Q2,Kharif Prep,C0292,Gopalganj,Farmer,Tawa (Plough),1,39618,39618,0,0.0,39618.0,EMI/Finance,Delivered
+S01099,2023-12-01,2023,12,Q4,Rabi Peak,C0186,Darbhanga,Farmer,Tawa (Plough),1,43110,43110,2,862.2,42247.8,Bank Transfer,Pending
+S01100,2024-11-17,2024,11,Q4,Rabi Prep,C0112,Bhagalpur,Farmer,Rotavator,2,93896,187792,2,3755.84,184036.16,UPI,Delivered
+S01101,2023-12-07,2023,12,Q4,Rabi Peak,C0037,Muzaffarpur,Farmer,Tawa (Plough),1,36873,36873,2,737.46,36135.54,UPI,Delivered
+S01102,2024-01-26,2024,1,Q1,Rabi Peak,C0087,Gopalganj,Dealer,Threshing Machine,2,91824,183648,0,0.0,183648.0,Cash,Delivered
+S01103,2023-10-25,2023,10,Q4,Rabi Prep,C0047,Madhubani,Farmer,Rotavator,1,90841,90841,2,1816.82,89024.18,Cash,Pending
+S01104,2024-08-09,2024,8,Q3,Kharif Peak,C0318,Chapra (Saran),Farmer,Cultivator,2,55537,111074,2,2221.48,108852.52,Cash,Delivered
+S01105,2024-07-02,2024,7,Q3,Kharif Prep,C0196,Samastipur,Farmer,Rotavator,2,110437,220874,0,0.0,220874.0,UPI,Delivered
+S01106,2023-05-10,2023,5,Q2,Off-Season,C0006,Patna,Farmer,Zero Till Seed Drill,1,198855,198855,0,0.0,198855.0,Cash,Delivered
+S01107,2023-11-20,2023,11,Q4,Rabi Prep,C0215,Bhagalpur,Farmer,Rotavator,1,104452,104452,0,0.0,104452.0,UPI,Delivered
+S01108,2023-05-30,2023,5,Q2,Off-Season,C0273,Siwan,Farmer,Threshing Machine,1,57250,57250,0,0.0,57250.0,EMI/Finance,Delivered
+S01109,2024-12-24,2024,12,Q4,Rabi Peak,C0294,Chapra (Saran),Farmer,Zero Till Seed Drill,1,202716,202716,0,0.0,202716.0,Bank Transfer,Delivered
+S01110,2023-12-08,2023,12,Q4,Rabi Peak,C0115,Chapra (Saran),Cooperative,Rotavator,1,131973,131973,2,2639.46,129333.54,Bank Transfer,Delivered
+S01112,2024-11-06,2024,11,Q4,Rabi Prep,C0094,Madhubani,Farmer,Tawa (Plough),3,23216,69648,0,0.0,69648.0,Cash,Delivered
+S01113,2023-12-23,2023,12,Q4,Rabi Peak,C0003,Vaishali,Farmer,Tawa (Plough),1,30814,30814,2,616.28,30197.72,Cash,Delivered
+S01114,2024-12-18,2024,12,Q4,Rabi Peak,C0085,Darbhanga,Cooperative,Tawa (Plough),1,30903,30903,0,0.0,30903.0,Bank Transfer,Delivered
+S01115,2023-02-25,2023,2,Q1,Off-Season,C0074,Darbhanga,Farmer,Tawa (Plough),1,41251,41251,2,825.02,40425.98,UPI,Delivered
+S01116,2024-05-09,2024,5,Q2,Off-Season,C0058,Samastipur,Cooperative,Cultivator,1,44491,44491,5,2224.55,42266.45,Cash,Delivered
+S01117,2024-01-06,2024,1,Q1,Rabi Peak,C0043,Gopalganj,Farmer,Threshing Machine,1,92727,92727,5,4636.35,88090.65,EMI/Finance,Delivered
+S01118,2024-03-13,2024,3,Q1,Off-Season,C0118,Samastipur,Cooperative,Threshing Machine,2,66024,132048,0,0.0,132048.0,EMI/Finance,Delivered
+S01119,2023-02-23,2023,2,Q1,Off-Season,C0098,Vaishali,Dealer,Rotavator,1,118779,118779,2,2375.58,116403.42,EMI/Finance,Delivered
+S01120,2024-02-18,2024,2,Q1,Off-Season,C0152,Chapra (Saran),Farmer,Cultivator,1,42785,42785,0,0.0,42785.0,Bank Transfer,Pending
+S01121,2024-10-30,2024,10,Q4,Rabi Prep,C0178,Muzaffarpur,Farmer,Threshing Machine,1,60872,60872,5,3043.6,57828.4,Bank Transfer,Delivered
+S01122,2024-10-30,2024,10,Q4,Rabi Prep,C0180,Vaishali,Farmer,Harvester,1,456083,456083,0,0.0,456083.0,UPI,Delivered
+S01123,2024-06-05,2024,6,Q2,Kharif Prep,C0173,Chapra (Saran),Farmer,Cultivator,1,73459,73459,2,1469.18,71989.82,Cash,Delivered
+S01124,2024-08-30,2024,8,Q3,Kharif Peak,C0061,Gopalganj,Farmer,Rotavator,3,116731,350193,2,7003.86,343189.14,Cash,Delivered
+S01125,2023-11-30,2023,11,Q4,Rabi Prep,C0047,Madhubani,Farmer,Rotavator,1,144564,144564,0,0.0,144564.0,UPI,Delivered
+S01126,2024-02-08,2024,2,Q1,Off-Season,C0055,Muzaffarpur,Dealer,Zero Till Seed Drill,1,190309,190309,0,0.0,190309.0,Cash,Delivered
+S01127,2024-07-05,2024,7,Q3,Kharif Prep,C0115,Chapra (Saran),Cooperative,Threshing Machine,1,63132,63132,0,0.0,63132.0,Bank Transfer,Delivered
+S01128,2024-09-05,2024,9,Q3,Kharif Peak,C0058,Samastipur,Cooperative,Threshing Machine,1,55348,55348,5,2767.4,52580.6,Cash,Delivered
+S01129,2023-07-31,2023,7,Q3,Kharif Prep,C0269,Vaishali,Farmer,Threshing Machine,1,60755,60755,5,3037.75,57717.25,Cash,Pending
+S01130,2024-06-02,2024,6,Q2,Kharif Prep,C0253,Muzaffarpur,Dealer,Cultivator,1,70679,70679,10,7067.9,63611.1,Bank Transfer,Delivered
+S01131,2023-02-17,2023,2,Q1,Off-Season,C0017,Chapra (Saran),Farmer,Tawa (Plough),2,35021,70042,0,0.0,70042.0,UPI,Delivered
+S01132,2024-05-17,2024,5,Q2,Off-Season,C0219,Samastipur,Farmer,Threshing Machine,2,89253,178506,10,17850.6,160655.4,UPI,Delivered
+S01133,2024-12-05,2024,12,Q4,Rabi Peak,C0173,Chapra (Saran),Farmer,Rotavator,1,138724,138724,0,0.0,138724.0,Cash,Delivered
+S01134,2023-08-09,2023,8,Q3,Kharif Peak,C0335,Samastipur,Farmer,Tawa (Plough),1,37731,37731,2,754.62,36976.38,Cash,Delivered
+S01135,2024-03-08,2024,3,Q1,Off-Season,C0084,Gopalganj,Dealer,Rotavator,1,101709,101709,2,2034.18,99674.82,Cash,Delivered
+S01137,2024-12-14,2024,12,Q4,Rabi Peak,C0043,Gopalganj,Farmer,Threshing Machine,1,79388,79388,2,1587.76,77800.24,UPI,Delivered
+S01138,2023-06-07,2023,6,Q2,Kharif Prep,C0235,Siwan,Farmer,Cultivator,1,63418,63418,8,5073.44,58344.56,Cash,Delivered
+S01139,2024-06-28,2024,6,Q2,Kharif Prep,C0007,West Champaran,Farmer,Rotavator,1,120937,120937,0,0.0,120937.0,Cash,Delivered
+S01140,2023-10-07,2023,10,Q4,Rabi Prep,C0221,Darbhanga,Farmer,Rotavator,1,137304,137304,0,0.0,137304.0,UPI,Pending
+S01141,2024-01-23,2024,1,Q1,Rabi Peak,C0083,Vaishali,Dealer,Tawa (Plough),2,43648,87296,0,0.0,87296.0,Bank Transfer,Delivered
+S01142,2024-05-16,2024,5,Q2,Off-Season,C0134,Patna,Farmer,Rotavator,1,107865,107865,5,5393.25,102471.75,UPI,Delivered
+S01143,2023-02-19,2023,2,Q1,Off-Season,C0331,Muzaffarpur,Farmer,Rotavator,1,134274,134274,0,0.0,134274.0,Bank Transfer,Pending
+S01144,2024-06-28,2024,6,Q2,Kharif Prep,C0187,Sitamarhi,Farmer,Zero Till Seed Drill,1,172776,172776,0,0.0,172776.0,Cash,Delivered
+S01145,2023-06-09,2023,6,Q2,Kharif Prep,C0316,Sitamarhi,Farmer,Threshing Machine,1,64350,64350,2,1287.0,63063.0,Cash,Delivered
+S01146,2024-01-15,2024,1,Q1,Rabi Peak,C0114,Darbhanga,Farmer,Threshing Machine,1,71325,71325,0,0.0,71325.0,UPI,Delivered
+S01147,2023-12-29,2023,12,Q4,Rabi Peak,C0011,West Champaran,Dealer,Tawa (Plough),1,34457,34457,8,2756.56,31700.44,UPI,Delivered
+S01148,2023-08-23,2023,8,Q3,Kharif Peak,C0218,Darbhanga,Farmer,Cultivator,2,40697,81394,0,0.0,81394.0,Cash,Delivered
+S01149,2023-03-23,2023,3,Q1,Off-Season,C0284,Muzaffarpur,Farmer,Rotavator,2,100731,201462,0,0.0,201462.0,Cash,Delivered
+S01150,2024-07-21,2024,7,Q3,Kharif Prep,C0047,Madhubani,Farmer,Tawa (Plough),1,44487,44487,8,3558.96,40928.04,UPI,Delivered
+S01151,2023-05-20,2023,5,Q2,Off-Season,C0336,Vaishali,Farmer,Harvester,1,720014,720014,2,14400.28,705613.72,UPI,Delivered
+S01152,2023-01-15,2023,1,Q1,Rabi Peak,C0010,Gopalganj,Dealer,Threshing Machine,1,55477,55477,2,1109.54,54367.46,Bank Transfer,Delivered
+S01153,2024-11-08,2024,11,Q4,Rabi Prep,C0152,Chapra (Saran),Farmer,Tawa (Plough),3,44979,134937,8,10794.96,124142.04000000001,Bank Transfer,Delivered
+S01154,2024-04-04,2024,4,Q2,Off-Season,C0250,Muzaffarpur,Farmer,Tawa (Plough),2,40102,80204,5,4010.2,76193.8,EMI/Finance,Delivered
+S01155,2024-01-11,2024,1,Q1,Rabi Peak,C0079,Gopalganj,Farmer,Tawa (Plough),1,34832,34832,0,0.0,34832.0,UPI,Delivered
+S01156,2023-04-26,2023,4,Q2,Off-Season,C0104,Bhagalpur,Dealer,Cultivator,1,51368,51368,5,2568.4,48799.6,EMI/Finance,Delivered
+S01157,2024-05-09,2024,5,Q2,Off-Season,C0108,West Champaran,Dealer,Cultivator,1,48963,48963,2,979.26,47983.74,UPI,Delivered
+S01158,2024-10-20,2024,10,Q4,Rabi Prep,C0035,Chapra (Saran),Farmer,Zero Till Seed Drill,2,124643,249286,5,12464.3,236821.7,Bank Transfer,Delivered
+S01159,2023-01-07,2023,1,Q1,Rabi Peak,C0141,West Champaran,Dealer,Threshing Machine,1,76531,76531,0,0.0,76531.0,Cash,Delivered
+S01160,2024-02-16,2024,2,Q1,Off-Season,C0280,Vaishali,Farmer,Cultivator,1,41641,41641,0,0.0,41641.0,UPI,Delivered
+S01161,2024-02-25,2024,2,Q1,Off-Season,C0135,Chapra (Saran),Farmer,Rotavator,1,116943,116943,5,5847.15,111095.85,Cash,Delivered
+S01163,2024-11-03,2024,11,Q4,Rabi Prep,C0233,Araria,Farmer,Tawa (Plough),1,23302,23302,2,466.04,22835.96,Cash,Delivered
+S01164,2024-12-27,2024,12,Q4,Rabi Peak,C0123,Gopalganj,Farmer,Rotavator,1,97423,97423,0,0.0,97423.0,UPI,Delivered
+S01165,2023-02-02,2023,2,Q1,Off-Season,C0183,Muzaffarpur,Dealer,Rotavator,2,98041,196082,8,15686.56,180395.44,EMI/Finance,Delivered
+S01166,2024-05-15,2024,5,Q2,Off-Season,C0025,Vaishali,Farmer,Zero Till Seed Drill,1,209356,209356,0,0.0,209356.0,Bank Transfer,Delivered
+S01167,2024-05-28,2024,5,Q2,Off-Season,C0253,Muzaffarpur,Dealer,Threshing Machine,1,80483,80483,8,6438.64,74044.36,Bank Transfer,Delivered
+S01168,2023-12-19,2023,12,Q4,Rabi Peak,C0105,Siwan,Farmer,Zero Till Seed Drill,1,209710,209710,2,4194.2,205515.8,Cash,Pending
+S01169,2023-01-09,2023,1,Q1,Rabi Peak,C0129,Gopalganj,Farmer,Harvester,1,601763,601763,0,0.0,601763.0,UPI,Delivered
+S01170,2024-06-07,2024,6,Q2,Kharif Prep,C0076,Darbhanga,Farmer,Rotavator,1,103424,103424,5,5171.2,98252.8,EMI/Finance,Delivered
+S01171,2024-03-15,2024,3,Q1,Off-Season,C0244,Gopalganj,Cooperative,Rotavator,1,131298,131298,0,0.0,131298.0,Bank Transfer,Delivered
+S01172,2023-07-13,2023,7,Q3,Kharif Prep,C0108,West Champaran,Dealer,Tawa (Plough),1,37372,37372,0,0.0,37372.0,Cash,Delivered
+S01173,2023-10-08,2023,10,Q4,Rabi Prep,C0111,Muzaffarpur,Farmer,Tawa (Plough),1,22790,22790,2,455.8,22334.2,Cash,Delivered
+S01174,2024-02-22,2024,2,Q1,Off-Season,C0116,Vaishali,Farmer,Zero Till Seed Drill,1,211771,211771,0,0.0,211771.0,Cash,Delivered
+S01175,2024-06-06,2024,6,Q2,Kharif Prep,C0269,Vaishali,Farmer,Harvester,1,477082,477082,0,0.0,477082.0,Cash,Delivered
+S01176,2024-03-04,2024,3,Q1,Off-Season,C0347,Chapra (Saran),Farmer,Cultivator,1,38116,38116,0,0.0,38116.0,Bank Transfer,Delivered
+S01177,2023-10-20,2023,10,Q4,Rabi Prep,C0171,West Champaran,Cooperative,Harvester,1,767992,767992,0,0.0,767992.0,EMI/Finance,Delivered
+S01178,2023-11-08,2023,11,Q4,Rabi Prep,C0130,Darbhanga,Farmer,Rotavator,1,128840,128840,2,2576.8,126263.2,EMI/Finance,Delivered
+S01179,2024-01-06,2024,1,Q1,Rabi Peak,C0213,Sitamarhi,Cooperative,Threshing Machine,1,93594,93594,0,0.0,93594.0,Bank Transfer,Delivered
+S01180,2024-01-29,2024,1,Q1,Rabi Peak,C0083,Vaishali,Dealer,Rotavator,1,91970,91970,2,1839.4,90130.6,Cash,Delivered
+S01181,2024-11-01,2024,11,Q4,Rabi Prep,C0271,Gopalganj,Cooperative,Tawa (Plough),1,24321,24321,8,1945.68,22375.32,Cash,Delivered
+S01182,2023-12-18,2023,12,Q4,Rabi Peak,C0267,Siwan,Farmer,Cultivator,3,66077,198231,0,0.0,198231.0,Bank Transfer,Delivered
+S01183,2023-07-16,2023,7,Q3,Kharif Prep,C0015,East Champaran,Cooperative,Harvester,1,823084,823084,5,41154.2,781929.8,EMI/Finance,Delivered
+S01184,2023-12-22,2023,12,Q4,Rabi Peak,C0128,Muzaffarpur,Dealer,Tawa (Plough),1,32695,32695,0,0.0,32695.0,UPI,Delivered
+S01185,2024-06-20,2024,6,Q2,Kharif Prep,C0189,Vaishali,Farmer,Tawa (Plough),1,34510,34510,0,0.0,34510.0,Cash,Pending
+S01186,2023-10-24,2023,10,Q4,Rabi Prep,C0253,Muzaffarpur,Dealer,Rotavator,1,122104,122104,10,12210.4,109893.6,Cash,Delivered
+S01187,2024-05-21,2024,5,Q2,Off-Season,C0222,Gopalganj,Farmer,Threshing Machine,2,88651,177302,0,0.0,177302.0,Bank Transfer,Delivered
+S01188,2024-02-04,2024,2,Q1,Off-Season,C0214,Darbhanga,Farmer,Harvester,1,592341,592341,0,0.0,592341.0,UPI,Delivered
+S01189,2023-01-10,2023,1,Q1,Rabi Peak,C0178,Muzaffarpur,Farmer,Tawa (Plough),1,43907,43907,0,0.0,43907.0,Bank Transfer,Delivered
+S01190,2023-08-14,2023,8,Q3,Kharif Peak,C0059,Chapra (Saran),Farmer,Cultivator,1,52597,52597,0,0.0,52597.0,Cash,Delivered
+S01191,2023-02-10,2023,2,Q1,Off-Season,C0275,Gopalganj,Farmer,Threshing Machine,2,73203,146406,0,0.0,146406.0,Bank Transfer,Delivered
+S01192,2023-09-12,2023,9,Q3,Kharif Peak,C0081,Darbhanga,Farmer,Tawa (Plough),1,24880,24880,0,0.0,24880.0,Cash,Delivered
+S01193,2024-01-13,2024,1,Q1,Rabi Peak,C0214,Darbhanga,Farmer,Cultivator,1,70997,70997,0,0.0,70997.0,EMI/Finance,Delivered
+S01194,2023-02-28,2023,2,Q1,Off-Season,C0189,Vaishali,Farmer,Threshing Machine,1,55682,55682,0,0.0,55682.0,EMI/Finance,Delivered
+S01195,2023-01-17,2023,1,Q1,Rabi Peak,C0041,Gopalganj,Farmer,Zero Till Seed Drill,1,196449,196449,2,3928.98,192520.02,UPI,Delivered
+S01196,2024-10-03,2024,10,Q4,Rabi Prep,C0335,Samastipur,Farmer,Threshing Machine,1,91102,91102,0,0.0,91102.0,Cash,Delivered
+S01197,2024-10-06,2024,10,Q4,Rabi Prep,C0325,Siwan,Cooperative,Tawa (Plough),1,42670,42670,0,0.0,42670.0,Bank Transfer,Delivered
+S01198,2023-06-01,2023,6,Q2,Kharif Prep,C0240,Vaishali,Farmer,Tawa (Plough),1,21070,21070,0,0.0,21070.0,Bank Transfer,Delivered
+S01199,2024-08-06,2024,8,Q3,Kharif Peak,C0167,Gopalganj,Farmer,Zero Till Seed Drill,1,215614,215614,0,0.0,215614.0,Cash,Delivered
+S01200,2024-02-08,2024,2,Q1,Off-Season,C0092,Darbhanga,Dealer,Threshing Machine,1,67310,67310,0,0.0,67310.0,Cash,Delivered

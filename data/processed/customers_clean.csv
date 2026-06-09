@@ -1,0 +1,351 @@
+customer_id,customer_name,district,customer_type,phone,registration_date
+C0001,Customer 1,Darbhanga,Farmer,9395310485,2022-09-08
+C0002,Customer 2,Gopalganj,Dealer,9826600539,2024-01-29
+C0003,Customer 3,Vaishali,Farmer,9553035110,2022-02-02
+C0004,Customer 4,Gopalganj,Farmer,9642621108,2023-09-09
+C0005,Customer 5,Gopalganj,Farmer,9797808098,2023-12-20
+C0006,Customer 6,Patna,Farmer,9732719211,2022-10-12
+C0007,Customer 7,West Champaran,Farmer,9965241839,2022-06-13
+C0008,Customer 8,Samastipur,Farmer,9266944844,2022-08-09
+C0009,Customer 9,Purnia,Farmer,9199585092,2023-01-25
+C0010,Customer 10,Gopalganj,Dealer,9748245888,2022-09-28
+C0011,Customer 11,West Champaran,Dealer,9675770529,2022-05-08
+C0012,Customer 12,Purnia,Farmer,9692749116,2022-10-28
+C0013,Customer 13,West Champaran,Farmer,9488302652,2023-08-15
+C0014,Customer 14,Gopalganj,Farmer,9810026086,2022-08-22
+C0015,Customer 15,East Champaran,Cooperative,9349957310,2024-06-06
+C0016,Customer 16,Gopalganj,Farmer,9782560971,2024-05-04
+C0017,Customer 17,Chapra (Saran),Farmer,9324956459,2023-11-18
+C0018,Customer 18,Siwan,Cooperative,9795822698,2022-03-15
+C0019,Customer 19,Darbhanga,Farmer,9882893941,2022-09-08
+C0020,Customer 20,Gopalganj,Farmer,9787194506,2023-12-06
+C0021,Customer 21,Patna,Farmer,9924970419,2024-03-05
+C0022,Customer 22,Gopalganj,Dealer,9964411347,2022-11-20
+C0023,Customer 23,Chapra (Saran),Farmer,9709004943,2024-06-16
+C0024,Customer 24,Madhubani,Farmer,9636045484,2023-02-10
+C0025,Customer 25,Vaishali,Farmer,9253407200,2022-09-29
+C0026,Customer 26,Gopalganj,Dealer,9678722458,2022-09-27
+C0027,Customer 27,Madhubani,Farmer,9726563708,2023-02-13
+C0028,Customer 28,Chapra (Saran),Cooperative,9248532577,2023-06-06
+C0029,Customer 29,Muzaffarpur,Dealer,9217734861,2022-06-06
+C0030,Customer 30,Darbhanga,Dealer,9553290810,2023-09-03
+C0031,Customer 31,Gopalganj,Farmer,9602564736,2023-06-26
+C0032,Customer 32,Siwan,Farmer,9112327652,2023-11-28
+C0033,Customer 33,Madhubani,Farmer,9676567501,2024-02-08
+C0034,Customer 34,Siwan,Farmer,9219778234,2022-10-28
+C0035,Customer 35,Chapra (Saran),Farmer,9875340444,2024-06-15
+C0036,Customer 36,Madhubani,Cooperative,9918150683,2022-07-02
+C0037,Customer 37,Muzaffarpur,Farmer,9771410971,2022-11-02
+C0038,Customer 38,Sitamarhi,Farmer,9313579170,2022-06-06
+C0039,Customer 39,Chapra (Saran),Farmer,9936043811,2023-06-28
+C0040,Customer 40,Begusarai,Farmer,9624636385,2022-01-20
+C0041,Customer 41,Gopalganj,Farmer,9992994062,2024-04-06
+C0042,Customer 42,Siwan,Farmer,9709194872,2022-03-22
+C0043,Customer 43,Gopalganj,Farmer,9174316370,2024-02-18
+C0044,Customer 44,Patna,Farmer,9808402051,2023-05-02
+C0045,Customer 45,Bhagalpur,Farmer,9666585408,2024-06-12
+C0046,Customer 46,Darbhanga,Cooperative,9679064766,2024-02-13
+C0047,Customer 47,Madhubani,Farmer,9434702822,2023-02-13
+C0048,Customer 48,Araria,Farmer,9570406376,2023-06-14
+C0049,Customer 49,Muzaffarpur,Farmer,9168747287,2022-12-13
+C0050,Customer 50,Gopalganj,Farmer,9731832764,2022-08-14
+C0051,Customer 51,Gopalganj,Farmer,9163215224,2022-08-23
+C0052,Customer 52,Gopalganj,Farmer,9454794895,2022-03-14
+C0053,Customer 53,Muzaffarpur,Farmer,9621209849,2022-08-08
+C0054,Customer 54,Patna,Dealer,9713152854,2023-08-14
+C0055,Customer 55,Muzaffarpur,Dealer,9967043303,2023-02-21
+C0056,Customer 56,Gopalganj,Farmer,9562837684,2022-12-29
+C0057,Customer 57,Chapra (Saran),Farmer,9882839238,2022-02-25
+C0058,Customer 58,Samastipur,Cooperative,9205675387,2022-03-04
+C0059,Customer 59,Chapra (Saran),Farmer,9217326729,2022-09-12
+C0060,Customer 60,Gopalganj,Farmer,9250519597,2023-03-09
+C0061,Customer 61,Gopalganj,Farmer,9180943908,2023-03-30
+C0062,Customer 62,West Champaran,Dealer,9205128697,2022-02-21
+C0063,Customer 63,Darbhanga,Farmer,9115846122,2022-04-06
+C0064,Customer 64,Begusarai,Dealer,9278575192,2023-02-21
+C0065,Customer 65,Muzaffarpur,Farmer,9530613729,2022-03-02
+C0066,Customer 66,Gopalganj,Farmer,9519212169,2022-09-29
+C0067,Customer 67,Begusarai,Dealer,9406284028,2023-03-10
+C0068,Customer 68,Samastipur,Dealer,9941128035,2023-07-24
+C0069,Customer 69,Samastipur,Farmer,9303901283,2022-10-31
+C0070,Customer 70,Gopalganj,Farmer,9889991777,2023-07-10
+C0071,Customer 71,Gopalganj,Farmer,9153839920,2023-08-22
+C0072,Customer 72,Muzaffarpur,Cooperative,9670292350,2022-06-11
+C0073,Customer 73,Gopalganj,Farmer,9299528037,2022-03-12
+C0074,Customer 74,Darbhanga,Farmer,9352548261,2023-02-18
+C0075,Customer 75,Gopalganj,Dealer,9364371717,2023-08-16
+C0076,Customer 76,Darbhanga,Farmer,9550139320,2023-11-05
+C0077,Customer 77,Patna,Farmer,9379995032,2022-07-29
+C0078,Customer 78,Samastipur,Farmer,9385201412,2023-02-10
+C0079,Customer 79,Gopalganj,Farmer,9590941149,2022-11-20
+C0080,Customer 80,Begusarai,Cooperative,9110002396,2023-04-15
+C0081,Customer 81,Darbhanga,Farmer,9207354053,2022-03-17
+C0082,Customer 82,Patna,Farmer,9242224154,2022-12-24
+C0083,Customer 83,Vaishali,Dealer,9496776692,2022-10-19
+C0084,Customer 84,Gopalganj,Dealer,9855420240,2022-11-06
+C0085,Customer 85,Darbhanga,Cooperative,9802201721,2023-06-26
+C0086,Customer 86,Gopalganj,Dealer,9421455482,2023-11-11
+C0087,Customer 87,Gopalganj,Dealer,9383968123,2022-04-29
+C0088,Customer 88,Vaishali,Dealer,9266910922,2022-10-06
+C0089,Customer 89,Siwan,Farmer,9468164906,2022-07-28
+C0090,Customer 90,Samastipur,Dealer,9642678844,2023-05-16
+C0091,Customer 91,Siwan,Cooperative,9154544899,2022-04-05
+C0092,Customer 92,Darbhanga,Dealer,9147337803,2022-01-04
+C0093,Customer 93,Siwan,Farmer,9381272327,2022-06-15
+C0094,Customer 94,Madhubani,Farmer,9559225330,2023-07-29
+C0095,Customer 95,Gopalganj,Farmer,9841976666,2022-06-02
+C0096,Customer 96,Patna,Dealer,9725464884,2023-07-20
+C0097,Customer 97,Gopalganj,Farmer,9430989881,2023-01-09
+C0098,Customer 98,Vaishali,Dealer,9142836793,2023-01-02
+C0099,Customer 99,Gopalganj,Farmer,9210373808,2022-12-29
+C0100,Customer 100,East Champaran,Dealer,9536344399,2023-09-28
+C0101,Customer 101,Madhubani,Cooperative,9354194771,2024-06-04
+C0102,Customer 102,Gopalganj,Dealer,9290108532,2023-02-27
+C0103,Customer 103,Gopalganj,Dealer,9456681425,2024-03-12
+C0104,Customer 104,Bhagalpur,Dealer,9889262019,2024-04-10
+C0105,Customer 105,Siwan,Farmer,9852991721,2022-04-21
+C0106,Customer 106,Chapra (Saran),Farmer,9605399561,2022-08-16
+C0107,Customer 107,Gopalganj,Cooperative,9475442872,2022-11-09
+C0108,Customer 108,West Champaran,Dealer,9339362341,2022-01-25
+C0109,Customer 109,Samastipur,Farmer,9399147754,2024-06-04
+C0110,Customer 110,Gopalganj,Dealer,9477040284,2023-10-19
+C0111,Customer 111,Muzaffarpur,Farmer,9675757257,2022-12-06
+C0112,Customer 112,Bhagalpur,Farmer,9380477683,2022-07-02
+C0113,Customer 113,Patna,Cooperative,9141078352,2022-04-22
+C0114,Customer 114,Darbhanga,Farmer,9944420824,2022-11-18
+C0115,Customer 115,Chapra (Saran),Cooperative,9224173718,2023-01-30
+C0116,Customer 116,Vaishali,Farmer,9147659674,2023-12-27
+C0117,Customer 117,Chapra (Saran),Farmer,9965984448,2023-07-06
+C0118,Customer 118,Samastipur,Cooperative,9891388192,2023-11-18
+C0119,Customer 119,Gopalganj,Farmer,9813219781,2022-12-05
+C0120,Customer 120,Darbhanga,Farmer,9233815413,2024-01-08
+C0121,Customer 121,Vaishali,Farmer,9816070802,2023-02-23
+C0122,Customer 122,Siwan,Farmer,9695295870,2022-05-11
+C0123,Customer 123,Gopalganj,Farmer,9507104143,2023-11-25
+C0124,Customer 124,Madhubani,Farmer,9711072118,2022-11-05
+C0125,Customer 125,Chapra (Saran),Dealer,9426283245,2022-10-21
+C0126,Customer 126,Gopalganj,Dealer,9751397897,2023-11-02
+C0127,Customer 127,Siwan,Farmer,9825449223,2022-08-07
+C0128,Customer 128,Muzaffarpur,Dealer,9954725078,2024-01-24
+C0129,Customer 129,Gopalganj,Farmer,9653462378,2023-11-11
+C0130,Customer 130,Darbhanga,Farmer,9978775497,2024-02-09
+C0131,Customer 131,Gopalganj,Farmer,9966040317,2022-07-23
+C0132,Customer 132,Gopalganj,Farmer,9610173760,2023-09-18
+C0133,Customer 133,Sitamarhi,Farmer,9545002643,2023-10-07
+C0134,Customer 134,Patna,Farmer,9512293741,2023-05-22
+C0135,Customer 135,Chapra (Saran),Farmer,9838328947,2022-01-06
+C0136,Customer 136,Vaishali,Dealer,9214447237,2024-03-08
+C0137,Customer 137,Chapra (Saran),Farmer,9847229579,2023-06-15
+C0138,Customer 138,Muzaffarpur,Farmer,9230307805,2023-04-13
+C0139,Customer 139,Gopalganj,Farmer,9670298515,2023-07-27
+C0140,Customer 140,Darbhanga,Cooperative,9575209597,2023-09-20
+C0141,Customer 141,West Champaran,Dealer,9558209399,2024-04-30
+C0142,Customer 142,Begusarai,Farmer,9270894498,2024-02-01
+C0143,Customer 143,Sitamarhi,Farmer,9907214179,2022-09-11
+C0144,Customer 144,Sitamarhi,Farmer,9935021998,2023-06-18
+C0145,Customer 145,Muzaffarpur,Farmer,9572309605,2022-03-21
+C0146,Customer 146,Madhubani,Farmer,9460613550,2022-11-24
+C0147,Customer 147,Vaishali,Farmer,9261953189,2022-08-25
+C0148,Customer 148,Chapra (Saran),Farmer,9329730155,2022-03-07
+C0149,Customer 149,Chapra (Saran),Farmer,9600282414,2023-03-02
+C0150,Customer 150,Gopalganj,Dealer,9518197538,2024-02-28
+C0151,Customer 151,Patna,Farmer,9922050912,2023-08-13
+C0152,Customer 152,Chapra (Saran),Farmer,9477698143,2022-11-02
+C0153,Customer 153,East Champaran,Dealer,9997356828,2023-03-06
+C0154,Customer 154,Patna,Dealer,9958851904,2023-09-10
+C0155,Customer 155,Vaishali,Farmer,9393062061,2023-03-23
+C0156,Customer 156,Muzaffarpur,Farmer,9818197581,2023-11-27
+C0157,Customer 157,West Champaran,Dealer,9601856351,2022-05-11
+C0158,Customer 158,Katihar,Farmer,9523076025,2023-08-30
+C0159,Customer 159,Patna,Farmer,9790147183,2023-03-15
+C0160,Customer 160,Gopalganj,Farmer,9153992714,2022-09-24
+C0161,Customer 161,Chapra (Saran),Farmer,9450948014,2022-12-12
+C0162,Customer 162,East Champaran,Farmer,9907464398,2024-05-01
+C0163,Customer 163,Chapra (Saran),Dealer,9604988121,2022-01-20
+C0164,Customer 164,Madhubani,Farmer,9475767056,2022-08-18
+C0165,Customer 165,Darbhanga,Dealer,9799816232,2022-02-11
+C0166,Customer 166,East Champaran,Cooperative,9314061901,2024-05-09
+C0167,Customer 167,Gopalganj,Farmer,9235528741,2023-04-30
+C0168,Customer 168,Samastipur,Farmer,9334037646,2023-04-22
+C0169,Customer 169,Samastipur,Dealer,9280162221,2023-09-13
+C0170,Customer 170,Darbhanga,Dealer,9222978730,2024-03-07
+C0171,Customer 171,West Champaran,Cooperative,9216070149,2023-08-16
+C0172,Customer 172,Gopalganj,Farmer,9827296111,2023-01-20
+C0173,Customer 173,Chapra (Saran),Farmer,9181600593,2023-08-30
+C0174,Customer 174,Samastipur,Farmer,9209415691,2023-12-15
+C0175,Customer 175,East Champaran,Dealer,9744687060,2024-04-04
+C0176,Customer 176,Gopalganj,Cooperative,9940348305,2022-02-12
+C0177,Customer 177,Siwan,Farmer,9497897455,2022-03-12
+C0178,Customer 178,Muzaffarpur,Farmer,9551034639,2024-04-22
+C0179,Customer 179,Muzaffarpur,Farmer,9488896443,2023-10-13
+C0180,Customer 180,Vaishali,Farmer,9264272995,2023-03-22
+C0181,Customer 181,Gopalganj,Farmer,9798423334,2022-10-04
+C0182,Customer 182,Darbhanga,Cooperative,9931764920,2023-05-11
+C0183,Customer 183,Muzaffarpur,Dealer,9736164778,2022-10-02
+C0184,Customer 184,Siwan,Farmer,9193053577,2022-10-13
+C0185,Customer 185,Vaishali,Farmer,9598976917,2023-08-07
+C0186,Customer 186,Darbhanga,Farmer,9130816384,2023-05-22
+C0187,Customer 187,Sitamarhi,Farmer,9327761953,2022-12-30
+C0188,Customer 188,West Champaran,Farmer,9740116562,2023-12-20
+C0189,Customer 189,Vaishali,Farmer,9654724287,2022-07-15
+C0190,Customer 190,Gopalganj,Dealer,9624606470,2023-07-23
+C0191,Customer 191,East Champaran,Farmer,9793532952,2023-12-30
+C0192,Customer 192,Muzaffarpur,Dealer,9199915275,2022-10-29
+C0193,Customer 193,Gopalganj,Farmer,9428786222,2023-11-11
+C0194,Customer 194,Patna,Farmer,9670073085,2022-12-19
+C0195,Customer 195,Chapra (Saran),Dealer,9455184454,2022-12-27
+C0196,Customer 196,Samastipur,Farmer,9369942642,2022-08-25
+C0197,Customer 197,Gopalganj,Farmer,9228370927,2024-01-31
+C0198,Customer 198,Patna,Dealer,9298803134,2022-07-16
+C0199,Customer 199,Gopalganj,Farmer,9878017216,2023-08-27
+C0200,Customer 200,Katihar,Farmer,9403867539,2022-04-13
+C0201,Customer 201,Sitamarhi,Farmer,9487493096,2022-07-03
+C0202,Customer 202,Siwan,Farmer,9235917419,2022-10-08
+C0203,Customer 203,Gopalganj,Farmer,9413679331,2023-12-16
+C0204,Customer 204,Bhagalpur,Farmer,9908304440,2023-05-18
+C0205,Customer 205,Gopalganj,Farmer,9405307028,2023-04-26
+C0206,Customer 206,Muzaffarpur,Farmer,9155165334,2022-09-16
+C0207,Customer 207,Bhagalpur,Farmer,9982739959,2022-03-08
+C0208,Customer 208,Chapra (Saran),Farmer,9775862179,2023-12-04
+C0209,Customer 209,Gopalganj,Farmer,9704344408,2022-11-08
+C0210,Customer 210,Gopalganj,Farmer,9699226355,2024-02-22
+C0211,Customer 211,Chapra (Saran),Farmer,9764021648,2022-08-20
+C0212,Customer 212,East Champaran,Farmer,9575368059,2022-11-01
+C0213,Customer 213,Sitamarhi,Cooperative,9427899537,2023-08-06
+C0214,Customer 214,Darbhanga,Farmer,9894664845,2022-04-12
+C0215,Customer 215,Bhagalpur,Farmer,9326586581,2022-09-28
+C0216,Customer 216,Samastipur,Farmer,9286630878,2023-07-20
+C0217,Customer 217,Gopalganj,Farmer,9583724666,2023-12-07
+C0218,Customer 218,Darbhanga,Farmer,9348545713,2022-10-23
+C0219,Customer 219,Samastipur,Farmer,9587512424,2022-03-14
+C0220,Customer 220,Samastipur,Cooperative,9945923902,2024-03-21
+C0221,Customer 221,Darbhanga,Farmer,9312406764,2023-03-12
+C0222,Customer 222,Gopalganj,Farmer,9259976144,2022-09-30
+C0223,Customer 223,West Champaran,Farmer,9278158234,2024-03-22
+C0224,Customer 224,Siwan,Dealer,9711181411,2022-10-23
+C0225,Customer 225,Chapra (Saran),Farmer,9426515425,2023-12-18
+C0226,Customer 226,Chapra (Saran),Farmer,9679800791,2023-05-21
+C0227,Customer 227,Chapra (Saran),Farmer,9563887247,2024-01-23
+C0228,Customer 228,Siwan,Farmer,9198061499,2022-08-23
+C0229,Customer 229,Purnia,Dealer,9717615339,2023-08-25
+C0230,Customer 230,Bhagalpur,Cooperative,9821856853,2024-04-21
+C0231,Customer 231,Siwan,Farmer,9912037475,2022-06-29
+C0232,Customer 232,Muzaffarpur,Farmer,9398668350,2022-07-05
+C0233,Customer 233,Araria,Farmer,9974288855,2023-05-19
+C0234,Customer 234,Purnia,Farmer,9538460431,2022-12-08
+C0235,Customer 235,Siwan,Farmer,9272684373,2022-12-04
+C0236,Customer 236,Chapra (Saran),Farmer,9811443654,2023-02-15
+C0237,Customer 237,West Champaran,Farmer,9588365604,2022-04-01
+C0238,Customer 238,Siwan,Farmer,9929517022,2023-02-18
+C0239,Customer 239,Sitamarhi,Dealer,9101235946,2023-11-05
+C0240,Customer 240,Vaishali,Farmer,9158201193,2022-07-12
+C0241,Customer 241,Muzaffarpur,Farmer,9635252889,2023-10-03
+C0242,Customer 242,Chapra (Saran),Farmer,9386749454,2023-07-17
+C0243,Customer 243,Gopalganj,Farmer,9849740261,2023-05-12
+C0244,Customer 244,Gopalganj,Cooperative,9753770973,2024-03-29
+C0245,Customer 245,Gopalganj,Farmer,9691458887,2022-01-15
+C0246,Customer 246,Patna,Farmer,9221827951,2023-04-18
+C0247,Customer 247,Bhagalpur,Farmer,9265325235,2023-05-26
+C0248,Customer 248,Bhagalpur,Farmer,9857429971,2022-10-07
+C0249,Customer 249,Chapra (Saran),Farmer,9607042130,2022-09-07
+C0250,Customer 250,Muzaffarpur,Farmer,9304666325,2023-09-06
+C0251,Customer 251,Muzaffarpur,Dealer,9174958005,2022-10-10
+C0252,Customer 252,East Champaran,Dealer,9464938258,2024-03-17
+C0253,Customer 253,Muzaffarpur,Dealer,9403696046,2024-01-14
+C0254,Customer 254,Siwan,Farmer,9808605988,2023-05-17
+C0255,Customer 255,Sitamarhi,Farmer,9620057604,2022-12-20
+C0256,Customer 256,Siwan,Dealer,9505026213,2023-04-12
+C0257,Customer 257,Bhagalpur,Dealer,9848933239,2022-09-02
+C0258,Customer 258,Patna,Farmer,9932734539,2023-02-25
+C0259,Customer 259,Gopalganj,Dealer,9857232668,2024-04-10
+C0260,Customer 260,Chapra (Saran),Cooperative,9950826208,2024-04-20
+C0261,Customer 261,Darbhanga,Farmer,9139749508,2022-05-10
+C0262,Customer 262,Muzaffarpur,Farmer,9207765664,2024-06-14
+C0263,Customer 263,Sitamarhi,Farmer,9590622789,2022-01-16
+C0264,Customer 264,Madhubani,Farmer,9803066091,2022-06-08
+C0265,Customer 265,Gopalganj,Dealer,9384566044,2022-12-13
+C0266,Customer 266,Darbhanga,Farmer,9186237917,2024-05-22
+C0267,Customer 267,Siwan,Farmer,9672972597,2023-01-25
+C0268,Customer 268,Bhagalpur,Farmer,9915401487,2023-05-15
+C0269,Customer 269,Vaishali,Farmer,9173466219,2022-08-29
+C0270,Customer 270,Darbhanga,Cooperative,9344261532,2024-02-04
+C0271,Customer 271,Gopalganj,Cooperative,9916440738,2023-10-11
+C0272,Customer 272,Samastipur,Farmer,9278632824,2023-12-12
+C0273,Customer 273,Siwan,Farmer,9448294647,2024-03-26
+C0274,Customer 274,Gopalganj,Farmer,9562446417,2022-05-30
+C0275,Customer 275,Gopalganj,Farmer,9832077572,2024-03-22
+C0276,Customer 276,Gopalganj,Farmer,9754436820,2024-06-10
+C0277,Customer 277,Chapra (Saran),Farmer,9634366139,2023-08-21
+C0278,Customer 278,Gopalganj,Farmer,9372706093,2023-04-16
+C0279,Customer 279,Siwan,Farmer,9963968184,2023-04-22
+C0280,Customer 280,Vaishali,Farmer,9269625036,2022-03-17
+C0281,Customer 281,Chapra (Saran),Farmer,9730900313,2022-11-03
+C0282,Customer 282,Darbhanga,Farmer,9368540924,2023-04-13
+C0283,Customer 283,Sitamarhi,Farmer,9513061224,2024-05-23
+C0284,Customer 284,Muzaffarpur,Farmer,9714097318,2023-01-03
+C0285,Customer 285,Patna,Cooperative,9417001612,2022-01-23
+C0286,Customer 286,Katihar,Farmer,9394721069,2022-01-09
+C0287,Customer 287,Patna,Farmer,9899582079,2022-02-20
+C0288,Customer 288,Begusarai,Dealer,9994253959,2022-10-21
+C0289,Customer 289,East Champaran,Farmer,9961067882,2022-12-27
+C0290,Customer 290,Gopalganj,Farmer,9369108475,2023-11-26
+C0291,Customer 291,East Champaran,Dealer,9831062591,2024-05-08
+C0292,Customer 292,Gopalganj,Farmer,9773728014,2023-10-24
+C0293,Customer 293,Gopalganj,Dealer,9135824891,2023-08-17
+C0294,Customer 294,Chapra (Saran),Farmer,9416872439,2022-12-01
+C0295,Customer 295,Madhubani,Farmer,9241905500,2024-03-16
+C0296,Customer 296,Patna,Cooperative,9669998399,2023-05-29
+C0297,Customer 297,Begusarai,Dealer,9375919523,2024-04-24
+C0298,Customer 298,Bhagalpur,Cooperative,9416905717,2024-02-04
+C0299,Customer 299,Vaishali,Dealer,9602866993,2022-03-19
+C0300,Customer 300,Gopalganj,Cooperative,9826197069,2024-01-12
+C0301,Customer 301,Samastipur,Farmer,9963919401,2023-07-25
+C0302,Customer 302,Chapra (Saran),Dealer,9114945047,2022-09-28
+C0303,Customer 303,Patna,Farmer,9822443971,2024-02-06
+C0304,Customer 304,Samastipur,Farmer,9983063850,2023-10-16
+C0305,Customer 305,Bhagalpur,Farmer,9351064359,2023-04-28
+C0306,Customer 306,Gopalganj,Dealer,9702806585,2022-12-02
+C0307,Customer 307,Begusarai,Farmer,9167878777,2023-10-13
+C0308,Customer 308,West Champaran,Cooperative,9424474225,2023-10-27
+C0309,Customer 309,Chapra (Saran),Farmer,9139956218,2022-11-08
+C0310,Customer 310,Araria,Farmer,9352114611,2023-07-05
+C0311,Customer 311,Gopalganj,Farmer,9819929088,2024-01-31
+C0312,Customer 312,Samastipur,Farmer,9730651895,2024-01-31
+C0313,Customer 313,Madhubani,Dealer,9803217037,2022-04-12
+C0314,Customer 314,Sitamarhi,Farmer,9400368694,2022-02-03
+C0315,Customer 315,Samastipur,Farmer,9577488537,2022-08-30
+C0316,Customer 316,Sitamarhi,Farmer,9836243579,2023-01-12
+C0317,Customer 317,Patna,Cooperative,9485123110,2022-03-04
+C0318,Customer 318,Chapra (Saran),Farmer,9231167999,2024-05-18
+C0319,Customer 319,West Champaran,Farmer,9327746886,2023-10-20
+C0320,Customer 320,Darbhanga,Cooperative,9154308262,2024-03-16
+C0321,Customer 321,Siwan,Cooperative,9945011302,2023-08-02
+C0322,Customer 322,Gopalganj,Dealer,9695076080,2022-08-01
+C0323,Customer 323,Patna,Dealer,9350180427,2022-12-03
+C0324,Customer 324,East Champaran,Dealer,9739930411,2022-01-03
+C0325,Customer 325,Siwan,Cooperative,9239577989,2023-07-08
+C0326,Customer 326,Siwan,Farmer,9809805235,2024-06-06
+C0327,Customer 327,Gopalganj,Farmer,9948239575,2024-03-18
+C0328,Customer 328,Gopalganj,Farmer,9287095435,2022-09-29
+C0329,Customer 329,Gopalganj,Dealer,9664880035,2022-04-27
+C0330,Customer 330,Madhubani,Farmer,9935389432,2023-01-06
+C0331,Customer 331,Muzaffarpur,Farmer,9640992677,2022-08-15
+C0332,Customer 332,Bhagalpur,Farmer,9940983577,2024-06-06
+C0333,Customer 333,Samastipur,Farmer,9790781796,2022-02-01
+C0334,Customer 334,Gopalganj,Farmer,9531233244,2023-03-13
+C0335,Customer 335,Samastipur,Farmer,9576271425,2022-03-17
+C0336,Customer 336,Vaishali,Farmer,9259272239,2022-03-09
+C0337,Customer 337,Gopalganj,Farmer,9728530544,2023-07-16
+C0338,Customer 338,Madhubani,Farmer,9741444618,2023-06-28
+C0339,Customer 339,Siwan,Farmer,9561923010,2022-04-12
+C0340,Customer 340,East Champaran,Farmer,9802992685,2023-10-29
+C0341,Customer 341,Vaishali,Farmer,9330879256,2023-03-17
+C0342,Customer 342,Muzaffarpur,Farmer,9463925049,2024-04-27
+C0343,Customer 343,Muzaffarpur,Farmer,9202097643,2022-11-17
+C0344,Customer 344,Chapra (Saran),Farmer,9501902658,2022-06-06
+C0345,Customer 345,Samastipur,Farmer,9197951867,2024-05-01
+C0346,Customer 346,Gopalganj,Farmer,9899496315,2024-01-27
+C0347,Customer 347,Chapra (Saran),Farmer,9164404084,2023-08-24
+C0348,Customer 348,Purnia,Farmer,9819421270,2022-05-06
+C0349,Customer 349,Chapra (Saran),Dealer,9905611583,2023-03-10
+C0350,Customer 350,Vaishali,Dealer,9408839723,2023-09-07

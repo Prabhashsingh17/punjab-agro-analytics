@@ -1,0 +1,7 @@
+product_id,equipment,brand,stock_quantity,reorder_level,avg_unit_cost,selling_price_min,selling_price_max
+P001,Rotavator,Sonalika,11,10,61200,85000,145000
+P002,Cultivator,Local Make,13,10,25200,35000,75000
+P003,Harvester,Mahindra,43,10,324000,450000,850000
+P004,Zero Till Seed Drill,Mahindra,29,10,86400,120000,220000
+P005,Threshing Machine,Sonalika,6,10,39600,55000,95000
+P006,Tawa (Plough),Mahindra,5,10,12960,18000,45000
